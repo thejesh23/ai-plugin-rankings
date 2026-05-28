@@ -1,0 +1,13 @@
+plugins:
+  - id: alpha
+    repo: o/alpha
+    assistants: [claude-code]
+    added: "2026-05-28"
+  - id: beta
+    repo: o/beta
+    assistants: [cursor]
+    added: "2026-05-28"
+  - id: gamma
+    repo: o/gamma
+    assistants: [cursor, claude-code]
+    added: "2026-05-28"

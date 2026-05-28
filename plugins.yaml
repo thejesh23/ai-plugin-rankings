@@ -1,0 +1,13 @@
+# Curated registry of AI coding assistant plugins.
+# To add a plugin: open a PR adding an entry below.
+# Fields:
+#   id:         stable slug (kebab-case, never renamed)
+#   repo:       GitHub "owner/name"
+#   assistants: one or more of [claude-code, cursor, copilot, codex]
+#   added:      YYYY-MM-DD date this entry was added
+
+plugins:
+  - id: superpowers
+    repo: obra/superpowers
+    assistants: [claude-code]
+    added: "2026-05-28"

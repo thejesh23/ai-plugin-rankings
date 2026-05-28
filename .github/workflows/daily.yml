@@ -1,0 +1,105 @@
+name: Daily ranking update
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          path: main
+
+      - name: Checkout data branch
+        uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: main/pyproject.toml
+
+      - name: Install
+        working-directory: main
+        run: pip install -e .
+
+      - name: Configure git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Run daily pipeline
+        working-directory: main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAIN_DIR: ${{ github.workspace }}/main
+          DATA_DIR: ${{ github.workspace }}/data
+        run: python -m scripts.scrape
+
+      - name: Commit snapshot to data branch
+        working-directory: data
+        run: |
+          git add snapshots/
+          if git diff --cached --quiet; then
+            echo "No snapshot changes (unexpected)."
+          else
+            git commit -m "Snapshot $(date -u +%Y-%m-%d)"
+            git push origin data
+          fi
+
+      - name: Commit rankings to main
+        working-directory: main
+        run: |
+          git add README.md rankings/ data/latest.json
+          if git diff --cached --quiet; then
+            echo "No ranking changes."
+          else
+            git commit -m "Daily update $(date -u +%Y-%m-%d)"
+            git push origin main
+          fi
+
+      - name: Open stale-plugin issue
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = 'main/data/missing-plugins.txt';
+            if (!fs.existsSync(path)) return;
+            const ids = fs.readFileSync(path, 'utf8').trim();
+            if (!ids) return;
+            const today = new Date().toISOString().slice(0,10);
+            const list = ids.split('\n').map(id => `- ${id}`).join('\n');
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Stale plugins (${today})`,
+              body: `These plugins returned 404 during today's scrape. Consider removing from \`plugins.yaml\` or updating the repo path.\n\n${list}`,
+              labels: ['stale-plugin'],
+            });
+
+      - name: Open issue on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const today = new Date().toISOString().slice(0,10);
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Daily run failed: ${today}`,
+              body: `The daily ranking workflow failed. See: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`,
+              labels: ['cron-failure'],
+            });

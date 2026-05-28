@@ -1,0 +1,50 @@
+name: Weekly discovery
+
+on:
+  schedule:
+    - cron: "0 5 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install
+        run: pip install -e .
+
+      - name: Run discovery
+        id: run
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python -m scripts.run_discover | tee -a $GITHUB_OUTPUT
+
+      - name: Open PR
+        if: steps.run.outputs.has_candidates == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DATE=$(date -u +%Y-%m-%d)
+          BRANCH="discover/${DATE}"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git commit --allow-empty -m "Discovery candidates: ${DATE}"
+          git push origin "$BRANCH"
+          gh pr create \
+            --title "Discovered candidates: ${DATE}" \
+            --body-file candidates-body.md \
+            --base main \
+            --head "$BRANCH" \
+            --label discovery
