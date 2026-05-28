@@ -3,7 +3,6 @@ from pathlib import Path
 from scripts.metadata import load_metadata, save_metadata
 from scripts.models import MetadataEntry
 
-
 ENTRY = MetadataEntry(
     description="A tool",
     tags=["workflow", "skills"],

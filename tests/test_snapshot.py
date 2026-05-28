@@ -3,8 +3,7 @@ from pathlib import Path
 import pytest
 
 from scripts.models import SnapshotRow
-from scripts.snapshot import write_snapshot, read_snapshot, snapshot_path
-
+from scripts.snapshot import read_snapshot, snapshot_path, write_snapshot
 
 SAMPLE = [
     SnapshotRow(id="a", repo="o/a", stars=10, forks=1, open_issues=0,

@@ -9,9 +9,9 @@ from __future__ import annotations
 
 import json
 import logging
-from datetime import datetime, timedelta, timezone
+from datetime import UTC, datetime, timedelta
 from pathlib import Path
-from typing import Literal, Protocol
+from typing import Protocol
 
 from scripts.delta import compute_delta
 from scripts.github_api import GitHubClient, RepoData, RepoMissingError
@@ -29,7 +29,7 @@ class _GH(Protocol):
 
 
 def _prev_date(date: str, days: int) -> str:
-    d = datetime.strptime(date, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    d = datetime.strptime(date, "%Y-%m-%d").replace(tzinfo=UTC)
     return (d - timedelta(days=days)).strftime("%Y-%m-%d")
 
 
@@ -95,7 +95,7 @@ def run_daily(
             url=f"https://github.com/{d.repo}",
         ))
 
-    now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    now_iso = datetime.now(UTC).strftime("%Y-%m-%dT%H:%M:%SZ")
     latest = LatestJson(generated_at=now_iso, plugins=plugins_out)
 
     latest_path = main_dir / "data" / "latest.json"
@@ -122,7 +122,7 @@ def main() -> None:
 
     main_dir = Path(os.environ.get("MAIN_DIR", "."))
     data_dir = Path(os.environ["DATA_DIR"])
-    today = os.environ.get("TODAY") or datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    today = os.environ.get("TODAY") or datetime.now(UTC).strftime("%Y-%m-%d")
 
     client = GitHubClient(token=token)
     try:

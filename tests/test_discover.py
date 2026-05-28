@@ -1,10 +1,8 @@
-from pathlib import Path
-from unittest.mock import MagicMock
 
 import httpx
 import respx
 
-from scripts.discover import find_candidates, Candidate
+from scripts.discover import Candidate, find_candidates
 
 
 @respx.mock

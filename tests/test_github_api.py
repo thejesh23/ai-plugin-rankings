@@ -2,7 +2,7 @@ import httpx
 import pytest
 import respx
 
-from scripts.github_api import GitHubClient, RepoData, RateLimitError, RepoMissingError
+from scripts.github_api import GitHubClient, RateLimitError, RepoData, RepoMissingError
 
 
 @respx.mock

@@ -1,8 +1,8 @@
 """Snapshot files live on the orphan `data` branch.
 One file per day, one line per plugin (JSONL). Idempotent overwrite."""
 import json
+from collections.abc import Iterable
 from pathlib import Path
-from typing import Iterable
 
 from scripts.models import SnapshotRow
 

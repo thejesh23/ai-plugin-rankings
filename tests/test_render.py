@@ -1,9 +1,7 @@
-import json
 from pathlib import Path
 
 from scripts.models import LatestJson, MetadataEntry
-from scripts.render import render_all, RenderOutput
-
+from scripts.render import render_all
 
 FIXTURES = Path(__file__).parent / "fixtures"
 GOLDEN = Path(__file__).parent / "golden"
@@ -55,5 +53,5 @@ def test_multi_target_appears_in_each_assistant_file() -> None:
 def test_missing_metadata_renders_with_em_dash() -> None:
     """A plugin in latest.json but absent from metadata renders with '—'."""
     output = render_all(_load_latest(), {})
-    sp_line = [l for l in output.rankings["all"].splitlines() if "superpowers" in l][0]
+    sp_line = [line for line in output.rankings["all"].splitlines() if "superpowers" in line][0]
     assert "—" in sp_line

@@ -3,7 +3,7 @@
 A None delta means we have no data for that comparison window (e.g. brand-new
 plugin, or no snapshot from N days ago). The renderer displays None as "—",
 distinguished from 0 (no change)."""
-from typing import Iterable
+from collections.abc import Iterable
 
 from scripts.models import SnapshotRow
 

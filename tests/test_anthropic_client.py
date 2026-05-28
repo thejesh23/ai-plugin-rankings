@@ -3,7 +3,7 @@ from unittest.mock import MagicMock
 
 import pytest
 
-from scripts.anthropic_client import AnthropicEnricher, EnrichmentResult, EnrichmentParseError
+from scripts.anthropic_client import AnthropicEnricher, EnrichmentParseError, EnrichmentResult
 
 
 def _stub_client(text: str) -> MagicMock:

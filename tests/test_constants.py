@@ -1,4 +1,4 @@
-from scripts.constants import CATEGORIES, TAGS, ASSISTANTS
+from scripts.constants import ASSISTANTS, CATEGORIES, TAGS
 
 
 def test_categories_are_unique_strings() -> None:
@@ -14,4 +14,4 @@ def test_tags_are_unique_strings() -> None:
 
 
 def test_assistants_set() -> None:
-    assert ASSISTANTS == {"claude-code", "cursor", "copilot", "codex"}
+    assert {"claude-code", "cursor", "copilot", "codex"} == ASSISTANTS

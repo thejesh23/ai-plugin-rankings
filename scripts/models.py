@@ -11,7 +11,7 @@ from typing import Literal
 
 from pydantic import BaseModel, Field, field_validator, model_validator
 
-from scripts.constants import ASSISTANTS, CATEGORIES, TAGS
+from scripts.constants import ASSISTANTS, TAGS
 
 _REPO_RE = re.compile(r"^[A-Za-z0-9._-]+/[A-Za-z0-9._-]+$")
 
@@ -48,7 +48,7 @@ class PluginRegistry(BaseModel):
     plugins: list[PluginEntry]
 
     @model_validator(mode="after")
-    def _check_unique_ids(self) -> "PluginRegistry":
+    def _check_unique_ids(self) -> PluginRegistry:
         ids = [p.id for p in self.plugins]
         if len(ids) != len(set(ids)):
             dupes = sorted({i for i in ids if ids.count(i) > 1})

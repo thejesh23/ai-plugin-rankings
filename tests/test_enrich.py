@@ -2,7 +2,7 @@ import hashlib
 from pathlib import Path
 from unittest.mock import MagicMock
 
-from scripts.anthropic_client import EnrichmentResult, EnrichmentParseError
+from scripts.anthropic_client import EnrichmentParseError, EnrichmentResult
 from scripts.enrich import enrich_registry
 from scripts.metadata import load_metadata
 from scripts.models import MetadataEntry

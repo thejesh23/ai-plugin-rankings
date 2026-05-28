@@ -7,7 +7,7 @@ auto-adds to plugins.yaml — every entry must pass human review."""
 from __future__ import annotations
 
 from dataclasses import dataclass
-from datetime import datetime, timedelta, timezone
+from datetime import UTC, datetime, timedelta
 
 import httpx
 
@@ -29,7 +29,7 @@ class Candidate:
 
 def _too_stale(pushed_at: str, today: str, max_age_days: int) -> bool:
     pushed = datetime.fromisoformat(pushed_at.replace("Z", "+00:00"))
-    today_dt = datetime.strptime(today, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    today_dt = datetime.strptime(today, "%Y-%m-%d").replace(tzinfo=UTC)
     return (today_dt - pushed) > timedelta(days=max_age_days)
 
 

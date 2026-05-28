@@ -2,8 +2,11 @@ import pytest
 from pydantic import ValidationError
 
 from scripts.models import (
-    PluginEntry, PluginRegistry, MetadataEntry,
-    SnapshotRow, LatestPlugin, LatestJson,
+    LatestPlugin,
+    MetadataEntry,
+    PluginEntry,
+    PluginRegistry,
+    SnapshotRow,
 )
 
 
