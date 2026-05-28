@@ -19,6 +19,9 @@ dev = [
     "types-PyYAML",
 ]
 
+[tool.setuptools]
+packages = ["scripts"]
+
 [tool.ruff]
 line-length = 100
 target-version = "py312"
