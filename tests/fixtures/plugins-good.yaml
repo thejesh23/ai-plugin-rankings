@@ -1,0 +1,9 @@
+plugins:
+  - id: superpowers
+    repo: obra/superpowers
+    assistants: [claude-code]
+    added: "2026-05-28"
+  - id: example-cursor
+    repo: someone/example-cursor
+    assistants: [cursor]
+    added: "2026-05-28"

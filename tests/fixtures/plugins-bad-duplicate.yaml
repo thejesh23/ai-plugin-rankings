@@ -1,0 +1,9 @@
+plugins:
+  - id: dup
+    repo: o/a
+    assistants: [cursor]
+    added: "2026-05-28"
+  - id: dup
+    repo: o/b
+    assistants: [cursor]
+    added: "2026-05-28"
