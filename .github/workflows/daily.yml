@@ -70,6 +70,26 @@ jobs:
             git push origin main
           fi
 
+      - name: Open stale-plugin issue
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = 'main/data/missing-plugins.txt';
+            if (!fs.existsSync(path)) return;
+            const ids = fs.readFileSync(path, 'utf8').trim();
+            if (!ids) return;
+            const today = new Date().toISOString().slice(0,10);
+            const list = ids.split('\n').map(id => `- ${id}`).join('\n');
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Stale plugins (${today})`,
+              body: `These plugins returned 404 during today's scrape. Consider removing from \`plugins.yaml\` or updating the repo path.\n\n${list}`,
+              labels: ['stale-plugin'],
+            });
+
       - name: Open issue on failure
         if: failure()
         uses: actions/github-script@v7

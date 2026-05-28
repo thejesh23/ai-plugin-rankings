@@ -103,6 +103,12 @@ def run_daily(
     latest_path.write_text(json.dumps(
         latest.model_dump(), indent=2, sort_keys=True) + "\n")
 
+    missing_path = main_dir / "data" / "missing-plugins.txt"
+    if missing_ids:
+        missing_path.write_text("\n".join(sorted(missing_ids)) + "\n")
+    elif missing_path.exists():
+        missing_path.unlink()  # clean up previous day's file if no longer stale
+
     rendered = render_all(latest, metadata)
     (main_dir / "README.md").write_text(rendered.readme)
     rankings_dir = main_dir / "rankings"

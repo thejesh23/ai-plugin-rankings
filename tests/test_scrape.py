@@ -86,3 +86,49 @@ plugins:
     assert (main_dir / "README.md").exists()
     assert (main_dir / "rankings" / "cursor.md").exists()
     assert (main_dir / "rankings" / "all.md").exists()
+
+
+def test_missing_file_written_when_plugin_404s(tmp_path: Path) -> None:
+    main_dir = tmp_path / "main"
+    data_dir = tmp_path / "data"
+    main_dir.mkdir()
+    data_dir.mkdir()
+    (main_dir / "plugins.yaml").write_text("""
+plugins:
+  - id: ghost
+    repo: o/ghost
+    assistants: [cursor]
+    added: "2026-05-28"
+""")
+    gh = MagicMock()
+    gh.fetch_repo.side_effect = RepoMissingError("o/ghost")
+
+    run_daily(main_dir, data_dir, gh, today="2026-05-28")
+
+    missing_path = main_dir / "data" / "missing-plugins.txt"
+    assert missing_path.exists(), "missing-plugins.txt should be created when a plugin 404s"
+    contents = missing_path.read_text().strip().splitlines()
+    assert "ghost" in contents
+
+
+def test_missing_file_not_written_when_all_ok(tmp_path: Path) -> None:
+    main_dir = tmp_path / "main"
+    data_dir = tmp_path / "data"
+    main_dir.mkdir()
+    data_dir.mkdir()
+    (main_dir / "plugins.yaml").write_text("""
+plugins:
+  - id: a
+    repo: o/a
+    assistants: [cursor]
+    added: "2026-05-28"
+""")
+    gh = MagicMock()
+    gh.fetch_repo.return_value = RepoData(
+        repo="o/a", stars=50, forks=1, open_issues=0,
+        archived=False, pushed_at="2026-05-27T00:00:00Z")
+
+    run_daily(main_dir, data_dir, gh, today="2026-05-28")
+
+    missing_path = main_dir / "data" / "missing-plugins.txt"
+    assert not missing_path.exists(), "missing-plugins.txt should not exist on a clean run"
