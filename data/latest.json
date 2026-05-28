@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-05-28T17:15:13Z",
+  "plugins": [
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "superpowers",
+      "previous_stars": null,
+      "repo": "obra/superpowers",
+      "stars": 210834,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/obra/superpowers"
+    }
+  ]
+}
