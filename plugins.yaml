@@ -11,3 +11,58 @@ plugins:
     repo: obra/superpowers
     assistants: [claude-code]
     added: "2026-05-28"
+
+  - id: openai-plugins
+    repo: openai/plugins
+    assistants: [codex]
+    added: "2026-05-28"
+
+  - id: claude-mem
+    repo: thedotmack/claude-mem
+    assistants: [claude-code, codex, copilot]
+    added: "2026-05-28"
+
+  - id: alirezarezvani-claude-skills
+    repo: alirezarezvani/claude-skills
+    assistants: [claude-code]
+    added: "2026-05-28"
+
+  - id: claude-octopus
+    repo: nyldn/claude-octopus
+    assistants: [claude-code]
+    added: "2026-05-28"
+
+  - id: harness
+    repo: revfactory/harness
+    assistants: [claude-code]
+    added: "2026-05-28"
+
+  - id: pg-aiguide
+    repo: timescale/pg-aiguide
+    assistants: [claude-code]
+    added: "2026-05-28"
+
+  - id: claude-code-safety-net
+    repo: kenryu42/claude-code-safety-net
+    assistants: [claude-code, codex, copilot]
+    added: "2026-05-28"
+
+  - id: memsearch
+    repo: zilliztech/memsearch
+    assistants: [claude-code, codex]
+    added: "2026-05-28"
+
+  - id: flow-next
+    repo: gmickel/flow-next
+    assistants: [claude-code, codex]
+    added: "2026-05-28"
+
+  - id: dotnet-artisan
+    repo: novotnyllc/dotnet-artisan
+    assistants: [codex]
+    added: "2026-05-28"
+
+  - id: higgsfield-skills
+    repo: higgsfield-ai/skills
+    assistants: [codex]
+    added: "2026-05-28"
