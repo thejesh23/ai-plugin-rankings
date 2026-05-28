@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-05-28T03:00:00Z",
+  "plugins": [
+    {
+      "id": "superpowers", "repo": "obra/superpowers",
+      "assistants": ["claude-code"], "stars": 1247, "stars_24h": 18,
+      "stars_7d": 92, "previous_stars": 1229, "archived": false,
+      "status": "ok", "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "id": "cursor-tool", "repo": "someone/cursor-tool",
+      "assistants": ["cursor"], "stars": 800, "stars_24h": 5,
+      "stars_7d": 40, "previous_stars": 795, "archived": false,
+      "status": "ok", "url": "https://github.com/someone/cursor-tool"
+    },
+    {
+      "id": "multi-target", "repo": "org/multi",
+      "assistants": ["cursor", "claude-code"], "stars": 300, "stars_24h": 50,
+      "stars_7d": 200, "previous_stars": 250, "archived": false,
+      "status": "ok", "url": "https://github.com/org/multi"
+    }
+  ]
+}
