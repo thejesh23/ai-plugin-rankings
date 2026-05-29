@@ -46,6 +46,7 @@ class GitHubClient:
                 "X-GitHub-Api-Version": "2022-11-28",
             },
             timeout=timeout,
+            follow_redirects=True,
         )
         self._max_retries = max_retries
         self._retry_base = retry_base

@@ -26,14 +26,15 @@ smoke:
 	echo "  /tmp/ai-plugin-rankings-data/snapshots/"
 
 discover-smoke:
-	@if [ -z "$$GITHUB_TOKEN" ]; then \
+	@set -e; \
+	if [ -z "$$GITHUB_TOKEN" ]; then \
 		if command -v gh >/dev/null 2>&1; then \
 			GITHUB_TOKEN=$$(gh auth token); export GITHUB_TOKEN; \
 		else \
 			echo "Set GITHUB_TOKEN or install gh CLI"; exit 1; \
 		fi; \
 	fi; \
-	python -m scripts.discover; \
-	echo "Discovery complete. Inspect:"; \
-	echo "  plugins.yaml (new entries appended)"; \
+	python -m scripts.discover && \
+	echo "Discovery complete. Inspect:" && \
+	echo "  plugins.yaml (new entries appended)" && \
 	echo "  discovery.log (audit lines appended)"
