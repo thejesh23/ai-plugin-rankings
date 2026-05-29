@@ -66,3 +66,1790 @@ plugins:
     repo: higgsfield-ai/skills
     assistants: [codex]
     added: "2026-05-28"
+  - id: hexstrike-ai
+    repo: 0x4m4/hexstrike-ai
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: nginx-ui
+    repo: 0xJacky/nginx-ui
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: maxkb
+    repo: 1Panel-dev/MaxKB
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-proxy
+    repo: 1rgs/claude-code-proxy
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: browser-tools-mcp
+    repo: AgentDeskAI/browser-tools-mcp
+    assistants:
+      - claude-code
+      - cursor
+    added: '2026-05-29'
+  - id: drawio-skill
+    repo: Agents365-ai/drawio-skill
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-ads
+    repo: AgriciDaniel/claude-ads
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-obsidian
+    repo: AgriciDaniel/claude-obsidian
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-seo
+    repo: AgriciDaniel/claude-seo
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: free-claude-code
+    repo: Alishahryar1/free-claude-code
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: unla
+    repo: AmoyLab/Unla
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-reflect
+    repo: BayramAnnakov/claude-reflect
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: atomic-agents
+    repo: BrainBlend-AI/atomic-agents
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: mcp
+    repo: BrowserMCP/mcp
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-harness
+    repo: Chachamaru127/claude-code-harness
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: cherry-studio
+    repo: CherryHQ/cherry-studio
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-sourcemap
+    repo: ChinaSiro/claude-code-sourcemap
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-showcase
+    repo: ChrisWiles/claude-code-showcase
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: chrome-devtools-mcp
+    repo: ChromeDevTools/chrome-devtools-mcp
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: agent-orchestrator
+    repo: ComposioHQ/agent-orchestrator
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: awesome-claude-plugins
+    repo: ComposioHQ/awesome-claude-plugins
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: awesome-claude-skills
+    repo: ComposioHQ/awesome-claude-skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: garden-skills
+    repo: ConardLi/garden-skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: copilotkit
+    repo: CopilotKit/CopilotKit
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-guide
+    repo: Cranot/claude-code-guide
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: scrapling
+    repo: D4Vinci/Scrapling
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: codebase-memory-mcp
+    repo: DeusData/codebase-memory-mcp
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-game-studios
+    repo: Donchitos/Claude-Code-Game-Studios
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: compound-engineering-plugin
+    repo: EveryInc/compound-engineering-plugin
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-ultimate-guide
+    repo: FlorianBruniaux/claude-code-ultimate-guide
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: viper
+    repo: FunnyWolf/Viper
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: cli-anything
+    repo: HKUDS/CLI-Anything
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: nanobot
+    repo: HKUDS/nanobot
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: academic-research-skills
+    repo: Imbad0202/academic-research-skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: insforge
+    repo: InsForge/InsForge
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: unity-mcp
+    repo: IvanMurzak/Unity-MCP
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: ai-website-cloner-template
+    repo: JCodesMore/ai-website-cloner-template
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-skills
+    repo: Jeffallan/claude-skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: baoyu-skills
+    repo: JimLiu/baoyu-skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: xhs-downloader
+    repo: JoeanAmier/XHS-Downloader
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: caveman
+    repo: JuliusBrussee/caveman
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: scientific-agent-skills
+    repo: K-Dense-AI/scientific-agent-skills
+    assistants:
+      - claude-code
+      - cursor
+    added: '2026-05-29'
+  - id: vibe-coding-prompt-template
+    repo: KhazP/vibe-coding-prompt-template
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: klavis
+    repo: Klavis-AI/klavis
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claurst
+    repo: Kuberwastaken/claurst
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: taste-skill
+    repo: Leonxlnx/taste-skill
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: understand-anything
+    repo: Lum1104/Understand-Anything
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: inspector
+    repo: MCPJam/inspector
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-usage-monitor
+    repo: Maciek-roboblog/Claude-Code-Usage-Monitor
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: design-extract
+    repo: Manavarya09/design-extract
+    assistants:
+      - claude-code
+      - cursor
+    added: '2026-05-29'
+  - id: mempalace
+    repo: MemPalace/mempalace
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: skills
+    repo: MiniMax-AI/skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: semble
+    repo: MinishLab/semble
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: natively-cluely-ai-assistant
+    repo: Natively-AI-assistant/natively-cluely-ai-assistant
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: memu
+    repo: NevaMind-AI/memU
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-cheat-sheet
+    repo: Njengah/claude-code-cheat-sheet
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: hermes-agent
+    repo: NousResearch/hermes-agent
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-workflows
+    repo: OneRedOak/claude-code-workflows
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: dive
+    repo: OpenAgentPlatform/Dive
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: open-codesign
+    repo: OpenCoworkAI/open-codesign
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: nanoresearch
+    repo: OpenRaiser/NanoResearch
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: ai-research-skills
+    repo: Orchestra-Research/AI-Research-SKILLs
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: planning-with-files
+    repo: OthmanAdi/planning-with-files
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: agent-reach
+    repo: Panniantong/Agent-Reach
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: awesome-cursorrules
+    repo: PatrickJS/awesome-cursorrules
+    assistants:
+      - cursor
+    added: '2026-05-29'
+  - id: claude-code-system-prompts
+    repo: Piebald-AI/claude-code-system-prompts
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-spec-workflow
+    repo: Pimzino/claude-code-spec-workflow
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: awesome-llm-skills
+    repo: Prat011/awesome-llm-skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-telegram
+    repo: RichardAtCT/claude-code-telegram
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: dev-browser
+    repo: SawyerHood/dev-browser
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-codex-bridge
+    repo: SeemSeam/claude_codex_bridge
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: android-reverse-engineering-skill
+    repo: SimoneAvogadro/android-reverse-engineering-skill
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-red
+    repo: SnailSploit/Claude-Red
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: zcf
+    repo: UfoMiao/zcf
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: awesome-agent-skills
+    repo: VoltAgent/awesome-agent-skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: awesome-claude-code-subagents
+    repo: VoltAgent/awesome-claude-code-subagents
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-relay-service
+    repo: Wei-Shaw/claude-relay-service
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: sub2api
+    repo: Wei-Shaw/sub2api
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: awesome-agentic-ai-zh
+    repo: WenyuChiou/awesome-agentic-ai-zh
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-from-scratch
+    repo: Windy3f3f3f3f/claude-code-from-scratch
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: how-claude-code-works
+    repo: Windy3f3f3f3f/how-claude-code-works
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: oh-my-claudecode
+    repo: Yeachan-Heo/oh-my-claudecode
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claudian
+    repo: YishenTu/claudian
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: nature-skills
+    repo: Yuan1z0825/nature-skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-reverse
+    repo: Yuyz0112/claude-code-reverse
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: seo-geo-claude-skills
+    repo: aaron-he-zhu/seo-geo-claude-skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: gitnexus
+    repo: abhigyanpatwari/GitNexus
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: activepieces
+    repo: activepieces/activepieces
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: agent-skills
+    repo: addyosmani/agent-skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: web-quality-skills
+    repo: addyosmani/web-quality-skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: ecc
+    repo: affaan-m/ECC
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: arscontexta
+    repo: agenticnotetaking/arscontexta
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-from-source
+    repo: alejandrobalderas/claude-code-from-source
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code
+    repo: anthropics/claude-code
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-action
+    repo: anthropics/claude-code-action
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-security-review
+    repo: anthropics/claude-code-security-review
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-for-legal
+    repo: anthropics/claude-for-legal
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-plugins-official
+    repo: anthropics/claude-plugins-official
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: financial-services
+    repo: anthropics/financial-services
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: financial-services-plugins
+    repo: anthropics/financial-services-plugins
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: knowledge-work-plugins
+    repo: anthropics/knowledge-work-plugins
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: anthropics-skills
+    repo: anthropics/skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: terraform-skill
+    repo: antonbabenko/terraform-skill
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: mcp-server-chart
+    repo: antvis/mcp-server-chart
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: fusio
+    repo: apioo/fusio
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: archestra
+    repo: archestra-ai/archestra
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: system-prompts-leaks
+    repo: asgeirtj/system_prompts_leaks
+    assistants:
+      - claude-code
+      - copilot
+    added: '2026-05-29'
+  - id: gpt-researcher
+    repo: assafelovic/gpt-researcher
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: tradingview-mcp
+    repo: atilaahmettaner/tradingview-mcp
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: ccpm
+    repo: automazeio/ccpm
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: awslabs-mcp
+    repo: awslabs/mcp
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: plannotator
+    repo: backnotprop/plannotator
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: ghidra-mcp
+    repo: bethington/ghidra-mcp
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: arxiv-mcp-server
+    repo: blazickjp/arxiv-mcp-server
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: bmad-method
+    repo: bmad-code-org/BMAD-METHOD
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: cc-wf-studio
+    repo: breaking-brake/cc-wf-studio
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: brightdata-mcp
+    repo: brightdata/brightdata-mcp
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: quantdinger
+    repo: brokermr810/QuantDinger
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: browser-act-skills
+    repo: browser-act/skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: dbhub
+    repo: bytebase/dbhub
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: ui-tars-desktop
+    repo: bytedance/UI-TARS-desktop
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: ai-setup
+    repo: caliber-ai-org/ai-setup
+    assistants:
+      - claude-code
+      - cursor
+    added: '2026-05-29'
+  - id: claude-code-pm-course
+    repo: carlvellotti/claude-code-pm-course
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-workflow
+    repo: catlog22/Claude-Code-Workflow
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: my-claude-code-setup
+    repo: centminmod/my-claude-code-setup
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: collection-claude-code-source-code
+    repo: chauncygu/collection-claude-code-source-code
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: unreal-mcp
+    repo: chongdashu/unreal-mcp
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: korean-law-mcp
+    repo: chrisryugj/korean-law-mcp
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: agent-rules-books
+    repo: ciembor/agent-rules-books
+    assistants:
+      - claude-code
+      - cursor
+    added: '2026-05-29'
+  - id: mcp-shrimp-task-manager
+    repo: cjo4m06/mcp-shrimp-task-manager
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-best-claude-code
+    repo: claude-code-best/claude-code
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: oh-my-openagent
+    repo: code-yeongyu/oh-my-openagent
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: codeaashu-claude-code
+    repo: codeaashu/claude-code
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: deepeval
+    repo: confident-ai/deepeval
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: ios-simulator-skill
+    repo: conorluddy/ios-simulator-skill
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: marketingskills
+    repo: coreyhaines31/marketingskills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: pysheeet
+    repo: crazyguitar/pysheeet
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: carbon
+    repo: crbnos/carbon
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: n8n-mcp
+    repo: czlonkowski/n8n-mcp
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: dagu
+    repo: dagucloud/dagu
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: daily
+    repo: dailydotdev/daily
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: buildwithclaude
+    repo: davepoon/buildwithclaude
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-templates
+    repo: davila7/claude-code-templates
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: product-manager-skills
+    repo: deanpeters/Product-Manager-Skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: 9router
+    repo: decolua/9router
+    assistants:
+      - claude-code
+      - cursor
+    added: '2026-05-29'
+  - id: ddgs
+    repo: deedy5/ddgs
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: omniroute
+    repo: diegosouzapw/OmniRoute
+    assistants:
+      - claude-code
+      - cursor
+    added: '2026-05-29'
+  - id: claude-code-infrastructure-showcase
+    repo: diet103/claude-code-infrastructure-showcase
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-hub
+    repo: ding113/claude-code-hub
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-hooks-mastery
+    repo: disler/claude-code-hooks-mastery
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: pi-vs-claude-code
+    repo: disler/pi-vs-claude-code
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: mcp-memory-service
+    repo: doobidoo/mcp-memory-service
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: edmunds-claude-code
+    repo: edmund-io/edmunds-claude-code
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-bughunter
+    repo: elementalsouls/Claude-BugHunter
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: fast-agent
+    repo: evalstate/fast-agent
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: exa-mcp-server
+    repo: exa-labs/exa-mcp-server
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-task-master
+    repo: eyaltoledano/claude-task-master
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: web-access
+    repo: eze-is/web-access
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: mcptools
+    repo: f/mcptools
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: prompts-chat
+    repo: f/prompts.chat
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: cc-switch
+    repo: farion1231/cc-switch
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-settings
+    repo: feiskyer/claude-code-settings
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: ccg-workflow
+    repo: fengshao1227/ccg-workflow
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: firecrawl-mcp-server
+    repo: firecrawl/firecrawl-mcp-server
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: lamda
+    repo: firerpa/lamda
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: cursor-rules
+    repo: flyeric0212/cursor-rules
+    assistants:
+      - cursor
+    added: '2026-05-29'
+  - id: contextplus
+    repo: forloopcodes/contextplus
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: andrej-karpathy-skills
+    repo: forrestchang/andrej-karpathy-skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: ralph-claude-code
+    repo: frankbria/ralph-claude-code
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: awesome-gpt-image-2
+    repo: freestylefly/awesome-gpt-image-2
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: fuergaosi233-claude-code-proxy
+    repo: fuergaosi233/claude-code-proxy
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: beads
+    repo: gastownhall/beads
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: md2wechat-skill
+    repo: geekjourneyx/md2wechat-skill
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: codeburn
+    repo: getagentseal/codeburn
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: paseo
+    repo: getpaseo/paseo
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: xcodebuildmcp
+    repo: getsentry/XcodeBuildMCP
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: github-mcp-server
+    repo: github/github-mcp-server
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: zenfeed
+    repo: glidea/zenfeed
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: pinme
+    repo: glitternetwork/pinme
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: nunu
+    repo: go-nunu/nunu
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: gemini-cli
+    repo: google-gemini/gemini-cli
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: google-maps-scraper
+    repo: gosom/google-maps-scraper
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: get-shit-done
+    repo: gsd-build/get-shit-done
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: excel-mcp-server
+    repo: haris-musa/excel-mcp-server
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: octogent
+    repo: hesamsheikh/octogent
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: awesome-claude-code
+    repo: hesreallyhim/awesome-claude-code
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: hyperframes
+    repo: heygen-com/hyperframes
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: httprunner
+    repo: httprunner/httprunner
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: py-xiaozhi
+    repo: huangjunsen0406/py-xiaozhi
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: huggingface-skills
+    repo: huggingface/skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: ppt-master
+    repo: hugohe3/ppt-master
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: humanlayer
+    repo: humanlayer/humanlayer
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: aionui
+    repo: iOfficeAI/AionUi
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: awesome-aitools
+    repo: ikaijua/Awesome-AITools
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: aws-agent-skills
+    repo: itsmostafa/aws-agent-skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: jarmuine-claude-code
+    repo: jarmuine/claude-code
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-hud
+    repo: jarrodwatts/claude-hud
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: jeecgboot
+    repo: jeecgboot/JeecgBoot
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-plugins-plus-skills
+    repo: jeremylongshore/claude-code-plugins-plus-skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: agency-agents-zh
+    repo: jnMetaCode/agency-agents-zh
+    assistants:
+      - claude-code
+      - cursor
+    added: '2026-05-29'
+  - id: obsidian-skills
+    repo: kepano/obsidian-skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-coder
+    repo: kodu-ai/claude-coder
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: slack-mcp-server
+    repo: korotovsky/slack-mcp-server
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: kubeshark
+    repo: kubeshark/kubeshark
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: openmythos
+    repo: kyegomez/OpenMythos
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: swarms
+    repo: kyegomez/swarms
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: playwright-skill
+    repo: lackeyjb/playwright-skill
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: lemonade
+    repo: lemonade-sdk/lemonade
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: mcp-chinese-getting-started-guide
+    repo: liaokongVFX/MCP-Chinese-Getting-Started-Guide
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-book
+    repo: lintsinghua/claude-code-book
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-analysis
+    repo: liuup/claude-code-analysis
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: paperbanana
+    repo: llmsresearch/paperbanana
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-rust
+    repo: lorryjovens-hub/claude-code-rust
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-sub-agents
+    repo: lst97/claude-code-sub-agents
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-howto
+    repo: luongnv89/claude-howto
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-source-study
+    repo: luyao618/Claude-Code-Source-Study
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: cmux
+    repo: manaflow-ai/cmux
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: esp32-nat-router
+    repo: martin-ger/esp32_nat_router
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: worktrunk
+    repo: max-sixty/worktrunk
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: bifrost
+    repo: maximhq/bifrost
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: pilot-shell
+    repo: maxritter/pilot-shell
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: mcp-router
+    repo: mcp-router/mcp-router
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: mcp-use
+    repo: mcp-use/mcp-use
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: mem0
+    repo: mem0ai/mem0
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: mirrord
+    repo: metalbear-co/mirrord
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: metamcp
+    repo: metatool-ai/metamcp
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: mcp-for-beginners
+    repo: microsoft/mcp-for-beginners
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: milla-jovovich-mempalace
+    repo: milla-jovovich/mempalace
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: ai-search-hub
+    repo: minsight-ai-info/AI-Search-Hub
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-context-mode
+    repo: mksglu/claude-context-mode
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: context-mode
+    repo: mksglu/context-mode
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: mlflow
+    repo: mlflow/mlflow
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: manifest
+    repo: mnfst/manifest
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: csharp-sdk
+    repo: modelcontextprotocol/csharp-sdk
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: modelcontextprotocol
+    repo: modelcontextprotocol/modelcontextprotocol
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: funasr
+    repo: modelscope/FunASR
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: ida-pro-mcp
+    repo: mrexodia/ida-pro-mcp
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: anthropic-cybersecurity-skills
+    repo: mukul975/Anthropic-Cybersecurity-Skills
+    assistants:
+      - claude-code
+      - codex
+      - copilot
+    added: '2026-05-29'
+  - id: multica-ai-andrej-karpathy-skills
+    repo: multica-ai/andrej-karpathy-skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: agent-skills-for-context-engineering
+    repo: muratcankoylan/Agent-Skills-for-Context-Engineering
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-router
+    repo: musistudio/claude-code-router
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: last30days-skill
+    repo: mvanhorn/last30days-skill
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: n8n
+    repo: n8n-io/n8n
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: nanoclaw
+    repo: nanocoai/nanoclaw
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: ui-ux-pro-max-skill
+    repo: nextlevelbuilder/ui-ux-pro-max-skill
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: html-anything
+    repo: nexu-io/html-anything
+    assistants:
+      - claude-code
+      - cursor
+    added: '2026-05-29'
+  - id: claude-code-local
+    repo: nicedreamzapp/claude-code-local
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: visual-explainer
+    repo: nicobailon/visual-explainer
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: prompt-master
+    repo: nidhinjs/prompt-master
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: notfair
+    repo: nowork-studio/NotFair
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: nuclear
+    repo: nukeop/nuclear
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-rev
+    repo: oboard/claude-code-rev
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: codecompanion-nvim
+    repo: olimorris/codecompanion.nvim
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: codepilot
+    repo: op7418/CodePilot
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: guizang-ppt-skill
+    repo: op7418/guizang-ppt-skill
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: openmetadata
+    repo: open-metadata/OpenMetadata
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: mcpo
+    repo: open-webui/mcpo
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: paper-search-mcp
+    repo: openags/paper-search-mcp
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: codex-plugin-cc
+    repo: openai/codex-plugin-cc
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: solon
+    repo: opensolon/solon
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: serena
+    repo: oraios/serena
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: orval
+    repo: orval-labs/orval
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: osaurus
+    repo: osaurus-ai/osaurus
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: continuous-claude-v3
+    repo: parcadei/Continuous-Claude-v3
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: payload
+    repo: payloadcms/payload
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: impeccable
+    repo: pbakaus/impeccable
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-my-workflow
+    repo: pedrohcgs/claude-code-my-workflow
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: pengchengneo-claude-code
+    repo: pengchengneo/Claude-Code
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: react-virtuoso
+    repo: petyosi/react-virtuoso
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: pm-skills
+    repo: phuryn/pm-skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: pipecat
+    repo: pipecat-ai/pipecat
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-src
+    repo: ponponon/claude_code_src
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: promptfoo
+    repo: promptfoo/promptfoo
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: prowler
+    repo: prowler-cloud/prowler
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: fli
+    repo: punitarani/fli
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: awesome-web-security
+    repo: qazbnm456/awesome-web-security
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: mcphub-nvim
+    repo: ravitemer/mcphub.nvim
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: connect
+    repo: redpanda-data/connect
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-prompts
+    repo: repowise-dev/claude-code-prompts
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: agentmemory
+    repo: rohitg00/agentmemory
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: awesome-claude-code-toolkit
+    repo: rohitg00/awesome-claude-code-toolkit
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: pro-workflow
+    repo: rohitg00/pro-workflow
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: paperasse
+    repo: romainsimon/paperasse
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: cliproxyapi
+    repo: router-for-me/CLIProxyAPI
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: rowboat
+    repo: rowboatlabs/rowboat
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: rtk
+    repo: rtk-ai/rtk
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: slackdump
+    repo: rusq/slackdump
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: ruview
+    repo: ruvnet/RuView
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: ruflo
+    repo: ruvnet/ruflo
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: graphify
+    repo: safishamsi/graphify
+    assistants:
+      - claude-code
+      - cursor
+    added: '2026-05-29'
+  - id: mcphub
+    repo: samanhappy/mcphub
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: awesome-cursor-rules-mdc
+    repo: sanjeed5/awesome-cursor-rules-mdc
+    assistants:
+      - cursor
+    added: '2026-05-29'
+  - id: trendradar
+    repo: sansan0/TrendRadar
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: career-ops
+    repo: santifer/career-ops
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-best-practice
+    repo: shanraisshan/claude-code-best-practice
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: learn-claude-code
+    repo: shareAI-lab/learn-claude-code
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: antigravity-awesome-skills
+    repo: sickn33/antigravity-awesome-skills
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-05-29'
+  - id: claude-code-transcripts
+    repo: simonw/claude-code-transcripts
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: ccstatusline
+    repo: sirmalloc/ccstatusline
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claudecodeui
+    repo: siteboon/claudecodeui
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: radar
+    repo: skyhook-io/radar
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: skypilot
+    repo: skypilot-org/skypilot
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: slavingia-skills
+    repo: slavingia/skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: slidev
+    repo: slidevjs/slidev
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: slint
+    repo: slint-ui/slint
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: happy
+    repo: slopus/happy
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-squad
+    repo: smtg-ai/claude-squad
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: ralph
+    repo: snarktank/ralph
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: mcp-proxy
+    repo: sparfenyuk/mcp-proxy
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: codexbar
+    repo: steipete/CodexBar
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-05-29'
+  - id: steveyegge-beads
+    repo: steveyegge/beads
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: linkedin-mcp-server
+    repo: stickerdaniel/linkedin-mcp-server
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: gcli2api
+    repo: su-kaka/gcli2api
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: superset
+    repo: superset-sh/superset
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: fastapi-mcp
+    repo: tadata-org/fastapi_mcp
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: tambo
+    repo: tambo-ai/tambo
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: tanbiralam-claude-code
+    repo: tanbiralam/claude-code
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: pua
+    repo: tanweai/pua
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: google-workspace-mcp
+    repo: taylorwilsdon/google_workspace_mcp
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: notebooklm-py
+    repo: teng-lin/notebooklm-py
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: code-review-graph
+    repo: tirth8205/code-review-graph
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: qmd
+    repo: tobi/qmd
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: es-toolkit
+    repo: toss/es-toolkit
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: travisvn-awesome-claude-skills
+    repo: travisvn/awesome-claude-skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: trigger-dev
+    repo: triggerdotdev/trigger.dev
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: waza
+    repo: tw93/Waza
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: kubefwd
+    repo: txn2/kubefwd
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: deep-research
+    repo: u14app/deep-research
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: context7
+    repo: upstash/context7
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: hindsight
+    repo: vectorize-io/hindsight
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: agent-browser
+    repo: vercel-labs/agent-browser
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: next-js
+    repo: vercel/next.js
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: auto-claude-code-research-in-sleep
+    repo: wanshuiyin/Auto-claude-code-research-in-sleep
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: enscan-go
+    repo: wgpsec/ENScan_GO
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: opcode
+    repo: winfunc/opcode
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: wondelai-skills
+    repo: wondelai/skills
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: desktopcommandermcp
+    repo: wonderwhy-er/DesktopCommanderMCP
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: oh-story-claudecode
+    repo: worldwonderer/oh-story-claudecode
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: agents
+    repo: wshobson/agents
+    assistants:
+      - claude-code
+      - codex
+      - cursor
+    added: '2026-05-29'
+  - id: xiaozhi-esp32-server
+    repo: xinnan-tech/xiaozhi-esp32-server
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: xonsh
+    repo: xonsh/xonsh
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: xiaohongshu-mcp
+    repo: xpzouying/xiaohongshu-mcp
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: repomix
+    repo: yamadashy/repomix
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: yasasbanukaofficial-claude-code
+    repo: yasasbanukaofficial/claude-code
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: fireworks-tech-graph
+    repo: yizhiyanhua-ai/fireworks-tech-graph
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-code-tips
+    repo: ykdojo/claude-code-tips
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: skill-seekers
+    repo: yusufkaraaslan/Skill_Seekers
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: lean-ctx
+    repo: yvgude/lean-ctx
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: awesome-mcp-zh
+    repo: yzfly/Awesome-MCP-ZH
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: frontend-slides
+    repo: zarazhangrui/frontend-slides
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: zebbern-claude-code-guide
+    repo: zebbern/claude-code-guide
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: cowagent
+    repo: zhayujie/CowAgent
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: claude-context
+    repo: zilliztech/claude-context
+    assistants:
+      - claude-code
+    added: '2026-05-29'
+  - id: jadx-ai-mcp
+    repo: zinja-coder/jadx-ai-mcp
+    assistants:
+      - claude-code
+    added: '2026-05-29'
