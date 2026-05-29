@@ -1,0 +1,209 @@
+# Purge candidates — entries flagged as non-plugins by is_plugin_signal.
+# Format: id  repo  description
+# Review each line, then delete the entry from plugins.yaml via PR.
+
+9router	decolua/9router	Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 
+activepieces	activepieces/activepieces	AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI W
+ai-website-cloner-template	JCodesMore/ai-website-cloner-template	Clone any website with one command using AI coding agents
+aionui	iOfficeAI/AionUi	Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ mo
+archestra	archestra-ai/archestra	Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator
+awesome-aitools	ikaijua/Awesome-AITools	Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests
+awesome-gpt-image-2	freestylefly/awesome-gpt-image-2	Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+awesome-web-security	qazbnm456/awesome-web-security	🐶 A curated list of Web Security materials and resources.
+beads	gastownhall/beads	Beads - A memory upgrade for your coding agent
+bifrost	maximhq/bifrost	Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod
+bmad-method	bmad-code-org/BMAD-METHOD	Breakthrough Method for Agile Ai Driven Development
+carbon	crbnos/carbon	Carbon is an open source ERP, MES and QMS for manufacturing. Perfect for complex assembly, contract manufacturing, and c
+cc-switch	farion1231/cc-switch	A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Onl
+cc-wf-studio	breaking-brake/cc-wf-studio	CC Workflow Studio
+ccg-workflow	fengshao1227/ccg-workflow	多模型协作工作流引擎 — /ccg:go 一个命令，AI 自动分析意图、选择策略、编排 Codex + Gemini + Claude 协作执行
+ccstatusline	sirmalloc/ccstatusline	🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
+cherry-studio	CherryHQ/cherry-studio	AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+claude-code	anthropics/claude-code	Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster 
+claude-code-action	anthropics/claude-code-action	
+claude-code-analysis	liuup/claude-code-analysis	🤖 The analysis of Claude Code
+claude-code-best-claude-code	claude-code-best/claude-code	原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复
+claude-code-best-practice	shanraisshan/claude-code-best-practice	from vibe coding to agentic engineering - practice makes claude perfect
+claude-code-book	lintsinghua/claude-code-book	《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站：
+claude-code-cheat-sheet	Njengah/claude-code-cheat-sheet	Ultimate collection of Claude Code tips, tricks, hacks, and workflows that you can use to master Claude Code in minutes
+claude-code-from-scratch	Windy3f3f3f3f/claude-code-from-scratch	Build your own Claude Code from scratch.  🔍 Claude Code 开源了 50 万行代码，读不动？用 ~4000 行 TypeScript / Python 从零复现核心架构，11 章分步教程带
+claude-code-from-source	alejandrobalderas/claude-code-from-source	Architecture, patterns & internals of Anthropic's AI coding agent — reverse-engineered from source maps
+claude-code-guide	Cranot/claude-code-guide	The Complete Claude Code CLI Guide - Live & Auto-Updated Every 2 Days
+claude-code-harness	Chachamaru127/claude-code-harness	Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cy
+claude-code-hooks-mastery	disler/claude-code-hooks-mastery	Master Claude Code Hooks
+claude-code-hub	ding113/claude-code-hub	一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。
+claude-code-local	nicedreamzapp/claude-code-local	Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthropic-API server, 65 tok/s Qwen 3.5 122B, 
+claude-code-my-workflow	pedrohcgs/claude-code-my-workflow	A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversaria
+claude-code-pm-course	carlvellotti/claude-code-pm-course	Interactive course teaching Product Managers how to use Claude Code effectively
+claude-code-prompts	repowise-dev/claude-code-prompts	Independently authored prompt templates for AI coding agents — system prompts, tool prompts, agent delegation, memory ma
+claude-code-proxy	1rgs/claude-code-proxy	Run Claude Code on OpenAI models
+claude-code-rev	oboard/claude-code-rev	Runnable ClaudeCode source code
+claude-code-reverse	Yuyz0112/claude-code-reverse	A Tool to Visualize Claude Code's LLM Interactions
+claude-code-router	musistudio/claude-code-router	Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while
+claude-code-rust	lorryjovens-hub/claude-code-rust	🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster sta
+claude-code-security-review	anthropics/claude-code-security-review	An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
+claude-code-settings	feiskyer/claude-code-settings	Claude Code settings, commands and agents for vibe coding
+claude-code-source-study	luyao618/Claude-Code-Source-Study	Deep dive into Claude Code's source code— learn from the best agent implementation out there.
+claude-code-sourcemap	ChinaSiro/claude-code-sourcemap	
+claude-code-spec-workflow	Pimzino/claude-code-spec-workflow	Automated workflows for Claude Code. Features spec-driven development for new features (Requirements → Design → Tasks → 
+claude-code-src	ponponon/claude_code_src	2026.3.31 claude code 意外把包含源码的文件上传到 npm 仓库，版本号是 2.1.88，其中 cli.js.map 文件有 57MB 的体积，claude code 的源码在该文件的 sourcesContent 字段
+claude-code-system-prompts	Piebald-AI/claude-code-system-prompts	All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility p
+claude-code-telegram	RichardAtCT/claude-code-telegram	A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects 
+claude-code-templates	davila7/claude-code-templates	CLI tool for configuring and monitoring Claude Code
+claude-code-transcripts	simonw/claude-code-transcripts	Tools for publishing transcripts for Claude Code sessions
+claude-code-ultimate-guide	FlorianBruniaux/claude-code-ultimate-guide	A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready tem
+claude-code-usage-monitor	Maciek-roboblog/Claude-Code-Usage-Monitor	Real-time Claude Code usage monitor with predictions and warnings
+claude-code-workflows	OneRedOak/claude-code-workflows	The best workflows and configurations I've developed, having heavily used Claude Code since the day of it's release. Wor
+claude-codex-bridge	SeemSeam/claude_codex_bridge	Visible multi-agent CLI teams for Claude, Codex, Gemini, OpenCode, and Droid with project memory and tmux supervision
+claude-context	zilliztech/claude-context	Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+claude-context-mode	mksglu/claude-context-mode	Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
+claude-for-legal	anthropics/claude-for-legal	A suite of plugins for legal workflows
+claude-howto	luongnv89/claude-howto	A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that b
+claude-obsidian	AgriciDaniel/claude-obsidian	Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into o
+claude-reflect	BayramAnnakov/claude-reflect	A self-learning system for Claude Code that captures corrections, positive feedback, and preferences — then syncs them t
+claude-relay-service	Wei-Shaw/claude-relay-service	CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+claude-squad	smtg-ai/claude-squad	Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
+claude-task-master	eyaltoledano/claude-task-master	An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
+claudecodeui	siteboon/claudecodeui	Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open sourc
+claurst	Kuberwastaken/claurst	Agentic Coding for Builders who Ship
+cli-anything	HKUDS/CLI-Anything	"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+cliproxyapi	router-for-me/CLIProxyAPI	Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API ser
+cmux	manaflow-ai/cmux	Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+code-review-graph	tirth8205/code-review-graph	Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read on
+codeaashu-claude-code	codeaashu/claude-code	Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster 
+codeburn	getagentseal/codeburn	See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
+codecompanion-nvim	olimorris/codecompanion.nvim	✨ AI Coding, Vim Style
+codexbar	steipete/CodexBar	Show usage stats for OpenAI Codex and Claude Code, without having to login.
+collection-claude-code-source-code	chauncygu/collection-claude-code-source-code	🔥 A collection of the newest Claude Code open source
+connect	redpanda-data/connect	Fancy stream processing made operationally mundane
+context-mode	mksglu/context-mode	Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
+context7	upstash/context7	Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+contextplus	forloopcodes/contextplus	Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accu
+continuous-claude-v3	parcadei/Continuous-Claude-v3	Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context polluti
+copilotkit	CopilotKit/CopilotKit	The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
+csharp-sdk	modelcontextprotocol/csharp-sdk	The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.
+dagu	dagucloud/dagu	Local-first workflow engine with a Web UI for small teams. Define DAGs in a declarative YAML format. Self-contained and 
+daily	dailydotdev/daily	daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
+dbhub	bytebase/dbhub	Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
+ddgs	deedy5/ddgs	A metasearch library that aggregates results from diverse web search services
+deep-research	u14app/deep-research	Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
+deepeval	confident-ai/deepeval	The LLM Evaluation Framework
+dive	OpenAgentPlatform/Dive	Dive is an open-source MCP Host Desktop Application that seamlessly integrates with any LLMs supporting function calling
+edmunds-claude-code	edmund-io/edmunds-claude-code	
+enscan-go	wgpsec/ENScan_GO	一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。支持MCP接入
+es-toolkit	toss/es-toolkit	A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
+esp32-nat-router	martin-ger/esp32_nat_router	An AI-enabled NAT Router/Firewall for the ESP32
+financial-services	anthropics/financial-services	
+fireworks-tech-graph	yizhiyanhua-ai/fireworks-tech-graph	Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workfl
+fli	punitarani/fli	Google Flights MCP, CLI and Python Library
+frontend-slides	zarazhangrui/frontend-slides	Create beautiful slides on the web using a coding agent's frontend skills
+fuergaosi233-claude-code-proxy	fuergaosi233/claude-code-proxy	Claude Code to OpenAI API Proxy
+funasr	modelscope/FunASR	Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emotion detection, strea
+fusio	apioo/fusio	Self-Hosted API Management for Builders
+gcli2api	su-kaka/gcli2api	将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口
+gemini-cli	google-gemini/gemini-cli	An open-source AI agent that brings the power of Gemini directly into your terminal.
+get-shit-done	gsd-build/get-shit-done	A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂ
+gitnexus	abhigyanpatwari/GitNexus	GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs e
+google-maps-scraper	gosom/google-maps-scraper	scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews numb
+gpt-researcher	assafelovic/gpt-researcher	An autonomous agent that conducts deep research on any data using any LLM providers
+happy	slopus/happy	Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
+hexstrike-ai	0x4m4/hexstrike-ai	HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+
+hindsight	vectorize-io/hindsight	Hindsight: Agent Memory That  Learns
+how-claude-code-works	Windy3f3f3f3f/how-claude-code-works	Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构
+httprunner	httprunner/httprunner	HttpRunner 是一款开源的 API/UI 测试框架，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。
+humanlayer	humanlayer/humanlayer	The best way to get AI coding agents to solve hard problems in complex codebases.
+hyperframes	heygen-com/hyperframes	Write HTML. Render video. Built for agents.
+impeccable	pbakaus/impeccable	The design language that makes your AI harness better at design.
+insforge	InsForge/InsForge	The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storag
+inspector	MCPJam/inspector	Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.
+jarmuine-claude-code	jarmuine/claude-code	Fork of instructkr/claude-code
+jeecgboot	jeecgboot/JeecgBoot	AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成
+klavis	Klavis-AI/klavis	Klavis AI:  MCP integration platforms that let AI agents use tools reliably at any scale
+kubefwd	txn2/kubefwd	Bulk port forwarding Kubernetes services for local development.
+kubeshark	kubeshark/kubeshark	eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without key
+lean-ctx	yvgude/lean-ctx	LeanCTX — the cognitive context layer for agentic systems. 62 MCP tools, 10 read modes, 60+ shell patterns. Up to 99% to
+learn-claude-code	shareAI-lab/learn-claude-code	Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+lemonade	lemonade-sdk/lemonade	Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join o
+manifest	mnfst/manifest	Smart Model Routing for Agents. Cut Costs up to 70% 🦚
+maxkb	1Panel-dev/MaxKB	🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
+mem0	mem0ai/mem0	Universal memory layer for AI Agents
+mempalace	MemPalace/mempalace	The best-benchmarked open-source AI memory system. And it's free.
+memu	NevaMind-AI/memU	Memory for 24/7 proactive agents like OpenClaw.
+milla-jovovich-mempalace	milla-jovovich/mempalace	The best-benchmarked open-source AI memory system. And it's free.
+mirrord	metalbear-co/mirrord	Run local code as if it were a pod in a remote Kubernetes cluster: real env vars, DNS, network, traffic. Used by AI codi
+mlflow	mlflow/mlflow	The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva
+modelcontextprotocol	modelcontextprotocol/modelcontextprotocol	Specification and documentation for the Model Context Protocol
+my-claude-code-setup	centminmod/my-claude-code-setup	Shared starter template configuration and CLAUDE.md memory bank system for Claude Code
+n8n	n8n-io/n8n	Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host 
+nanobot	HKUDS/nanobot	Lightweight, open-source AI agent for your tools, chats, and workflows.
+nanoclaw	nanocoai/nanoclaw	A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco
+nanoresearch	OpenRaiser/NanoResearch	🦞+🔬 NanoResearch: The Autonomous AI Research Assistant
+natively-cluely-ai-assistant	Natively-AI-assistant/natively-cluely-ai-assistant	Natively - Free open-source AI interview copilot & meeting assistant. The best Cluely alternative, Final Round AI altern
+next-js	vercel/next.js	The React Framework
+nginx-ui	0xJacky/nginx-ui	Yet another WebUI for Nginx
+nuclear	nukeop/nuclear	Streaming music player that finds free music for you
+nunu	go-nunu/nunu	A CLI tool for building Go applications.
+octogent	hesamsheikh/octogent	A thin orchestration dashboard over Claude Code for managing context, automation, and developer headspace. You need tent
+oh-my-claudecode	Yeachan-Heo/oh-my-claudecode	Teams-first Multi-agent orchestration for Claude Code
+oh-story-claudecode	worldwonderer/oh-story-claudecode	网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程
+omniroute	diegosouzapw/OmniRoute	Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &
+opcode	winfunc/opcode	A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secu
+open-codesign	OpenCoworkAI/open-codesign	Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / 
+openmetadata	open-metadata/OpenMetadata	OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a cen
+openmythos	kyegomez/OpenMythos	A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research
+orval	orval-labs/orval	orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 s
+osaurus	osaurus-ai/osaurus	Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic
+paperbanana	llmsresearch/paperbanana	Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and 
+paseo	getpaseo/paseo	Coding agents from your phone, desktop and CLI
+payload	payloadcms/payload	Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript b
+pengchengneo-claude-code	pengchengneo/Claude-Code	可运行的Claude Code源码
+pi-vs-claude-code	disler/pi-vs-claude-code	Comparison between open source PI agent and closed source Claude Code agent
+pilot-shell	maxritter/pilot-shell	How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforce
+pipecat	pipecat-ai/pipecat	Open Source framework for voice and multimodal conversational AI
+plannotator	backnotprop/plannotator	Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one c
+ppt-master	hugohe3/ppt-master	AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by H
+promptfoo	promptfoo/promptfoo	Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C
+prompts-chat	f/prompts.chat	f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos
+prowler	prowler-cloud/prowler	Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance acros
+pua	tanweai/pua	你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to
+py-xiaozhi	huangjunsen0406/py-xiaozhi	Open-source AI assistant ecosystem with MCP integrations, multimodal workflows, IoT support, and cross-platform voice in
+pysheeet	crazyguitar/pysheeet	Python Cheat Sheet
+qmd	tobi/qmd	mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while b
+quantdinger	brokermr810/QuantDinger	AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-ag
+radar	skyhook-io/radar	The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm m
+ralph	snarktank/ralph	Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
+ralph-claude-code	frankbria/ralph-claude-code	Autonomous AI development loop for Claude Code with intelligent exit detection
+react-virtuoso	petyosi/react-virtuoso	The most powerful virtual list component for React
+repomix	yamadashy/repomix	📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you nee
+rowboat	rowboatlabs/rowboat	Open-source AI coworker, with memory
+rtk	rtk-ai/rtk	CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+ruflo	ruvnet/ruflo	🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous work
+ruview	ruvnet/RuView	π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection
+scrapling	D4Vinci/Scrapling	🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+semble	MinishLab/semble	Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
+serena	oraios/serena	A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
+skypilot	skypilot-org/skypilot	Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernet
+slackdump	rusq/slackdump	Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
+slidev	slidevjs/slidev	Presentation Slides for Developers
+slint	slint-ui/slint	Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python app
+solon	opensolon/solon	🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700%
+steveyegge-beads	steveyegge/beads	Beads - A memory upgrade for your coding agent
+sub2api	Wei-Shaw/sub2api	Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+superset	superset-sh/superset	Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+system-prompts-leaks	asgeirtj/system_prompts_leaks	Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant
+tambo	tambo-ai/tambo	Generative UI SDK for React
+tanbiralam-claude-code	tanbiralam/claude-code	Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster 
+trendradar	sansan0/TrendRadar	⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热
+trigger-dev	triggerdotdev/trigger.dev	Trigger.dev – build and deploy fully‑managed AI agents and workflows
+ui-tars-desktop	bytedance/UI-TARS-desktop	The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+understand-anything	Lum1104/Understand-Anything	Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and 
+unla	AmoyLab/Unla	🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers w
+vibe-coding-prompt-template	KhazP/vibe-coding-prompt-template	Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs
+viper	FunnyWolf/Viper	Adversary simulation and Red teaming platform with AI
+worktrunk	max-sixty/worktrunk	Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+xhs-downloader	JoeanAmier/XHS-Downloader	小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书作品文件
+xiaozhi-esp32-server	xinnan-tech/xiaozhi-esp32-server	本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device c
+xonsh	xonsh/xonsh	🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
+yasasbanukaofficial-claude-code	yasasbanukaofficial/claude-code	🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-c
+zcf	UfoMiao/zcf	Zero-Config Code Flow for Claude code & Codex
+zenfeed	glidea/zenfeed	Make RSS 📰 great again with AI 🧠✨!! [作者新开的Gpt模型中转站 - 0.2 倍率, 0.2元当1刀花，比官方便宜35倍  https://token.glidea.app]
