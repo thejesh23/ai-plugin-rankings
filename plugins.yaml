@@ -24,7 +24,10 @@ plugins:
 
   - id: alirezarezvani-claude-skills
     repo: alirezarezvani/claude-skills
-    assistants: [claude-code]
+    assistants:
+      - claude-code
+      - codex
+      - cursor
     added: "2026-05-28"
 
   - id: claude-octopus
@@ -69,7 +72,7 @@ plugins:
   - id: hexstrike-ai
     repo: 0x4m4/hexstrike-ai
     assistants:
-      - claude-code
+      - copilot
     added: '2026-05-29'
   - id: nginx-ui
     repo: 0xJacky/nginx-ui
@@ -211,6 +214,8 @@ plugins:
     repo: EveryInc/compound-engineering-plugin
     assistants:
       - claude-code
+      - codex
+      - cursor
     added: '2026-05-29'
   - id: claude-code-ultimate-guide
     repo: FlorianBruniaux/claude-code-ultimate-guide
@@ -246,6 +251,8 @@ plugins:
     repo: IvanMurzak/Unity-MCP
     assistants:
       - claude-code
+      - copilot
+      - cursor
     added: '2026-05-29'
   - id: ai-website-cloner-template
     repo: JCodesMore/ai-website-cloner-template
@@ -276,6 +283,7 @@ plugins:
     repo: K-Dense-AI/scientific-agent-skills
     assistants:
       - claude-code
+      - codex
       - cursor
     added: '2026-05-29'
   - id: vibe-coding-prompt-template
@@ -302,6 +310,9 @@ plugins:
     repo: Lum1104/Understand-Anything
     assistants:
       - claude-code
+      - codex
+      - copilot
+      - cursor
     added: '2026-05-29'
   - id: inspector
     repo: MCPJam/inspector
@@ -337,7 +348,7 @@ plugins:
   - id: natively-cluely-ai-assistant
     repo: Natively-AI-assistant/natively-cluely-ai-assistant
     assistants:
-      - claude-code
+      - copilot
     added: '2026-05-29'
   - id: memu
     repo: NevaMind-AI/memU
@@ -368,6 +379,7 @@ plugins:
     repo: OpenCoworkAI/open-codesign
     assistants:
       - claude-code
+      - codex
     added: '2026-05-29'
   - id: nanoresearch
     repo: OpenRaiser/NanoResearch
@@ -378,6 +390,7 @@ plugins:
     repo: Orchestra-Research/AI-Research-SKILLs
     assistants:
       - claude-code
+      - codex
     added: '2026-05-29'
   - id: planning-with-files
     repo: OthmanAdi/planning-with-files
@@ -408,6 +421,7 @@ plugins:
     repo: Prat011/awesome-llm-skills
     assistants:
       - claude-code
+      - codex
     added: '2026-05-29'
   - id: claude-code-telegram
     repo: RichardAtCT/claude-code-telegram
@@ -422,7 +436,7 @@ plugins:
   - id: claude-codex-bridge
     repo: SeemSeam/claude_codex_bridge
     assistants:
-      - claude-code
+      - codex
     added: '2026-05-29'
   - id: android-reverse-engineering-skill
     repo: SimoneAvogadro/android-reverse-engineering-skill
@@ -438,11 +452,14 @@ plugins:
     repo: UfoMiao/zcf
     assistants:
       - claude-code
+      - codex
     added: '2026-05-29'
   - id: awesome-agent-skills
     repo: VoltAgent/awesome-agent-skills
     assistants:
       - claude-code
+      - codex
+      - cursor
     added: '2026-05-29'
   - id: awesome-claude-code-subagents
     repo: VoltAgent/awesome-claude-code-subagents
@@ -483,6 +500,7 @@ plugins:
     repo: YishenTu/claudian
     assistants:
       - claude-code
+      - codex
     added: '2026-05-29'
   - id: nature-skills
     repo: Yuan1z0825/nature-skills
@@ -498,6 +516,8 @@ plugins:
     repo: aaron-he-zhu/seo-geo-claude-skills
     assistants:
       - claude-code
+      - codex
+      - cursor
     added: '2026-05-29'
   - id: gitnexus
     repo: abhigyanpatwari/GitNexus
@@ -523,6 +543,8 @@ plugins:
     repo: affaan-m/ECC
     assistants:
       - claude-code
+      - codex
+      - cursor
     added: '2026-05-29'
   - id: arscontexta
     repo: agenticnotetaking/arscontexta
@@ -602,7 +624,7 @@ plugins:
   - id: system-prompts-leaks
     repo: asgeirtj/system_prompts_leaks
     assistants:
-      - claude-code
+      - codex
       - copilot
     added: '2026-05-29'
   - id: gpt-researcher
@@ -679,6 +701,7 @@ plugins:
     repo: caliber-ai-org/ai-setup
     assistants:
       - claude-code
+      - codex
       - cursor
     added: '2026-05-29'
   - id: claude-code-pm-course
@@ -689,7 +712,7 @@ plugins:
   - id: claude-code-workflow
     repo: catlog22/Claude-Code-Workflow
     assistants:
-      - claude-code
+      - codex
     added: '2026-05-29'
   - id: my-claude-code-setup
     repo: centminmod/my-claude-code-setup
@@ -704,7 +727,7 @@ plugins:
   - id: unreal-mcp
     repo: chongdashu/unreal-mcp
     assistants:
-      - claude-code
+      - cursor
     added: '2026-05-29'
   - id: korean-law-mcp
     repo: chrisryugj/korean-law-mcp
@@ -715,6 +738,7 @@ plugins:
     repo: ciembor/agent-rules-books
     assistants:
       - claude-code
+      - codex
       - cursor
     added: '2026-05-29'
   - id: mcp-shrimp-task-manager
@@ -766,6 +790,7 @@ plugins:
     repo: czlonkowski/n8n-mcp
     assistants:
       - claude-code
+      - cursor
     added: '2026-05-29'
   - id: dagu
     repo: dagucloud/dagu
@@ -791,11 +816,14 @@ plugins:
     repo: deanpeters/Product-Manager-Skills
     assistants:
       - claude-code
+      - codex
     added: '2026-05-29'
   - id: 9router
     repo: decolua/9router
     assistants:
       - claude-code
+      - codex
+      - copilot
       - cursor
     added: '2026-05-29'
   - id: ddgs
@@ -807,6 +835,8 @@ plugins:
     repo: diegosouzapw/OmniRoute
     assistants:
       - claude-code
+      - codex
+      - copilot
       - cursor
     added: '2026-05-29'
   - id: claude-code-infrastructure-showcase
@@ -818,6 +848,7 @@ plugins:
     repo: ding113/claude-code-hub
     assistants:
       - claude-code
+      - codex
     added: '2026-05-29'
   - id: claude-code-hooks-mastery
     repo: disler/claude-code-hooks-mastery
@@ -878,6 +909,7 @@ plugins:
     repo: farion1231/cc-switch
     assistants:
       - claude-code
+      - codex
     added: '2026-05-29'
   - id: claude-code-settings
     repo: feiskyer/claude-code-settings
@@ -887,12 +919,12 @@ plugins:
   - id: ccg-workflow
     repo: fengshao1227/ccg-workflow
     assistants:
-      - claude-code
+      - codex
     added: '2026-05-29'
   - id: firecrawl-mcp-server
     repo: firecrawl/firecrawl-mcp-server
     assistants:
-      - claude-code
+      - cursor
     added: '2026-05-29'
   - id: lamda
     repo: firerpa/lamda
@@ -943,6 +975,8 @@ plugins:
     repo: getagentseal/codeburn
     assistants:
       - claude-code
+      - codex
+      - cursor
     added: '2026-05-29'
   - id: paseo
     repo: getpaseo/paseo
@@ -1038,6 +1072,7 @@ plugins:
     repo: iOfficeAI/AionUi
     assistants:
       - claude-code
+      - codex
     added: '2026-05-29'
   - id: awesome-aitools
     repo: ikaijua/Awesome-AITools
@@ -1073,6 +1108,7 @@ plugins:
     repo: jnMetaCode/agency-agents-zh
     assistants:
       - claude-code
+      - copilot
       - cursor
     added: '2026-05-29'
   - id: obsidian-skills
@@ -1179,6 +1215,7 @@ plugins:
     repo: maxritter/pilot-shell
     assistants:
       - claude-code
+      - codex
     added: '2026-05-29'
   - id: mcp-router
     repo: mcp-router/mcp-router
@@ -1266,6 +1303,7 @@ plugins:
       - claude-code
       - codex
       - copilot
+      - cursor
     added: '2026-05-29'
   - id: multica-ai-andrej-karpathy-skills
     repo: multica-ai/andrej-karpathy-skills
@@ -1306,6 +1344,8 @@ plugins:
     repo: nexu-io/html-anything
     assistants:
       - claude-code
+      - codex
+      - copilot
       - cursor
     added: '2026-05-29'
   - id: claude-code-local
@@ -1372,6 +1412,7 @@ plugins:
     repo: openai/codex-plugin-cc
     assistants:
       - claude-code
+      - codex
     added: '2026-05-29'
   - id: solon
     repo: opensolon/solon
@@ -1497,6 +1538,7 @@ plugins:
     repo: router-for-me/CLIProxyAPI
     assistants:
       - claude-code
+      - codex
     added: '2026-05-29'
   - id: rowboat
     repo: rowboatlabs/rowboat
@@ -1522,11 +1564,13 @@ plugins:
     repo: ruvnet/ruflo
     assistants:
       - claude-code
+      - codex
     added: '2026-05-29'
   - id: graphify
     repo: safishamsi/graphify
     assistants:
       - claude-code
+      - codex
       - cursor
     added: '2026-05-29'
   - id: mcphub
@@ -1564,6 +1608,7 @@ plugins:
     assistants:
       - claude-code
       - codex
+      - cursor
     added: '2026-05-29'
   - id: claude-code-transcripts
     repo: simonw/claude-code-transcripts
@@ -1579,6 +1624,8 @@ plugins:
     repo: siteboon/claudecodeui
     assistants:
       - claude-code
+      - codex
+      - cursor
     added: '2026-05-29'
   - id: radar
     repo: skyhook-io/radar
@@ -1609,11 +1656,13 @@ plugins:
     repo: slopus/happy
     assistants:
       - claude-code
+      - codex
     added: '2026-05-29'
   - id: claude-squad
     repo: smtg-ai/claude-squad
     assistants:
       - claude-code
+      - codex
     added: '2026-05-29'
   - id: ralph
     repo: snarktank/ralph
@@ -1650,6 +1699,7 @@ plugins:
     repo: superset-sh/superset
     assistants:
       - claude-code
+      - codex
     added: '2026-05-29'
   - id: fastapi-mcp
     repo: tadata-org/fastapi_mcp
@@ -1680,6 +1730,7 @@ plugins:
     repo: teng-lin/notebooklm-py
     assistants:
       - claude-code
+      - codex
     added: '2026-05-29'
   - id: code-review-graph
     repo: tirth8205/code-review-graph
@@ -1745,6 +1796,7 @@ plugins:
     repo: wanshuiyin/Auto-claude-code-research-in-sleep
     assistants:
       - claude-code
+      - codex
     added: '2026-05-29'
   - id: enscan-go
     repo: wgpsec/ENScan_GO
@@ -1822,6 +1874,9 @@ plugins:
     repo: yvgude/lean-ctx
     assistants:
       - claude-code
+      - codex
+      - copilot
+      - cursor
     added: '2026-05-29'
   - id: awesome-mcp-zh
     repo: yzfly/Awesome-MCP-ZH
