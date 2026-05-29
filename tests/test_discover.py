@@ -193,3 +193,43 @@ def test_no_assistants_resolved_skipped(tmp_path: Path) -> None:
         repo="o/x", source="s", hint_assistants=[])]
     run_discover(yaml, log, [s], gh, today="2026-05-29", disabled=set())
     assert "o/x" not in yaml.read_text()
+
+
+# --- New resolve_assistants behavior (2026-05-29 tagging fix) ----------------
+
+def test_resolve_assistants_codex_bare() -> None:
+    """Bare 'Codex' in description should tag codex (was previously a miss)."""
+    data = _repo("o/x", 1000, description="Tool for Codex and other agents")
+    assert "codex" in resolve_assistants(data, set(), readme=None)
+
+
+def test_resolve_assistants_copilot_bare() -> None:
+    """Bare 'Copilot' in description should tag copilot (was previously a miss)."""
+    data = _repo("o/x", 1000, description="A Copilot plugin")
+    assert "copilot" in resolve_assistants(data, set(), readme=None)
+
+
+def test_resolve_assistants_understand_anything() -> None:
+    """Real-world regression: Lum1104/Understand-Anything's description should
+    yield all four assistant tags."""
+    data = _repo("o/x", 1000, description=(
+        "Graphs that teach. Turn any code into an interactive knowledge graph "
+        "you can explore, search, and ask questions about. Works with Claude "
+        "Code, Codex, Cursor, Copilot, Gemini CLI, and more."))
+    out = resolve_assistants(data, set(), readme=None)
+    assert out == {"claude-code", "codex", "copilot", "cursor"}
+
+
+def test_resolve_assistants_cursor_in_list_context() -> None:
+    """'Cursor' inside a 'works with' list should tag cursor."""
+    data = _repo("o/x", 1000,
+                 description="Works with Claude Code and Cursor")
+    assert "cursor" in resolve_assistants(data, set(), readme=None)
+
+
+def test_resolve_assistants_db_cursor_not_tagged() -> None:
+    """'cursor' in a database context should NOT tag cursor.
+    Window has no list-intro phrase and no other assistant name."""
+    data = _repo("o/x", 1000,
+                 description="Iterate database results using a cursor")
+    assert "cursor" not in resolve_assistants(data, set(), readme=None)

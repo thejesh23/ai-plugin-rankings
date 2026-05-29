@@ -12,6 +12,7 @@ from __future__ import annotations
 
 import logging
 import os
+import re
 from dataclasses import dataclass
 from datetime import UTC, datetime
 from pathlib import Path
@@ -34,6 +35,23 @@ STAR_THRESHOLD = 1000
 KNOWN_ASSISTANTS = {"claude-code", "cursor", "copilot", "codex"}
 
 
+# Phrases that suggest a real plugin context (list intros AND product-type
+# nouns). Includes "extension/editor/ide/rules" so Cursor descriptions like
+# "Cursor editor extension" still match. Excludes bare "for" to avoid false
+# positives like "cursor for the database".
+_LIST_INTRO_RE = re.compile(
+    r"\b(?:works?\s+with|supports?|compatible\s+with|plugin\s+for|"
+    r"plugins?\s+for|integrates?\s+with|plugin|extension|editor|ide|rules)\b",
+    re.IGNORECASE,
+)
+
+# Any of the other three assistant names — used for Cursor co-occurrence check.
+_OTHER_ASSISTANT_RE = re.compile(
+    r"\b(?:claude(?:\s+code|-code)?|copilot|codex)\b",
+    re.IGNORECASE,
+)
+
+
 @dataclass(frozen=True)
 class Addition:
     repo: str
@@ -45,18 +63,31 @@ class Addition:
 def resolve_assistants(
     data: RepoData, hints: set[str], readme: str | None,
 ) -> set[str]:
+    """Determine which assistants a plugin targets.
+
+    Operates on the GitHub repo description plus any source hints. The
+    orchestrator deliberately does NOT pass a readme (see bulk-discovery
+    design for the rate-limit rationale); the readme param is kept so unit
+    tests can drive specific scenarios."""
     out = {h for h in hints if h in KNOWN_ASSISTANTS}
-    text = ((data.description or "") + " " + (readme or ""))[:5_000].lower()
+    text = (data.description or "").lower()
+
     if "claude code" in text or "claude-code" in text:
         out.add("claude-code")
-    if "cursor" in text and any(
-        k in text for k in ("editor", "ide", "rules", "extension")
-    ):
-        out.add("cursor")
-    if "github copilot" in text or "copilot extension" in text:
+    if "copilot" in text:
         out.add("copilot")
-    if "codex cli" in text or "openai codex" in text:
+    if "codex" in text:
         out.add("codex")
+
+    # Cursor: bare match is too ambiguous (DB cursors, mouse cursors, etc.).
+    # Tag only if "cursor" appears inside an 80-char window that ALSO
+    # contains either a list-intro phrase or another assistant name.
+    for m in re.finditer(r"\bcursor\b", text):
+        window = text[max(0, m.start() - 80): m.end() + 80]
+        if _LIST_INTRO_RE.search(window) or _OTHER_ASSISTANT_RE.search(window):
+            out.add("cursor")
+            break
+
     return out
 
 
