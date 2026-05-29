@@ -93,6 +93,7 @@ def run_daily(
             previous_stars=prev_by_id.get(p.id),
             archived=d.archived, status=status,
             url=f"https://github.com/{d.repo}",
+            description=d.description,
         ))
 
     now_iso = datetime.now(UTC).strftime("%Y-%m-%dT%H:%M:%SZ")

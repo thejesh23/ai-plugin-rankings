@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from scripts.models import LatestJson, MetadataEntry
+from scripts.models import LatestJson, LatestPlugin, MetadataEntry
 from scripts.render import render_all
 
 FIXTURES = Path(__file__).parent / "fixtures"
@@ -55,3 +55,57 @@ def test_missing_metadata_renders_with_em_dash() -> None:
     output = render_all(_load_latest(), {})
     sp_line = [line for line in output.rankings["all"].splitlines() if "superpowers" in line][0]
     assert "—" in sp_line
+
+
+def test_description_fallback_when_no_metadata() -> None:
+    """When metadata is absent but the plugin has a GitHub description, render it."""
+    latest = LatestJson(
+        generated_at="2026-05-29T00:00:00Z",
+        plugins=[LatestPlugin(
+            id="x", repo="o/x", assistants=["claude-code"],
+            stars=1000, stars_24h=None, stars_7d=None, previous_stars=None,
+            archived=False, status="ok",
+            url="https://github.com/o/x",
+            description="A workflow framework for Claude Code",
+        )],
+    )
+    output = render_all(latest, {})
+    row = [line for line in output.rankings["all"].splitlines() if "| 1 |" in line][0]
+    assert "A workflow framework for Claude Code" in row
+
+
+def test_description_fallback_truncates_long_text() -> None:
+    """Long descriptions get truncated with ellipsis."""
+    long = "x" * 200
+    latest = LatestJson(
+        generated_at="2026-05-29T00:00:00Z",
+        plugins=[LatestPlugin(
+            id="x", repo="o/x", assistants=["claude-code"],
+            stars=1000, stars_24h=None, stars_7d=None, previous_stars=None,
+            archived=False, status="ok",
+            url="https://github.com/o/x",
+            description=long,
+        )],
+    )
+    output = render_all(latest, {})
+    row = [line for line in output.rankings["all"].splitlines() if "| 1 |" in line][0]
+    # Truncated body + ellipsis; full 200 chars should not appear
+    assert "x" * 200 not in row
+    assert "…" in row
+
+
+def test_description_fallback_escapes_pipes() -> None:
+    """Pipe chars in description must be escaped so Markdown table cells aren't broken."""
+    latest = LatestJson(
+        generated_at="2026-05-29T00:00:00Z",
+        plugins=[LatestPlugin(
+            id="x", repo="o/x", assistants=["claude-code"],
+            stars=1000, stars_24h=None, stars_7d=None, previous_stars=None,
+            archived=False, status="ok",
+            url="https://github.com/o/x",
+            description="Pipe | inside | description",
+        )],
+    )
+    output = render_all(latest, {})
+    row = [line for line in output.rankings["all"].splitlines() if "| 1 |" in line][0]
+    assert "\\|" in row

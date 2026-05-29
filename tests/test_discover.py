@@ -1,7 +1,7 @@
 from pathlib import Path
 from unittest.mock import MagicMock
 
-from scripts.discover import resolve_assistants, run_discover
+from scripts.discover import is_plugin_signal, resolve_assistants, run_discover
 from scripts.github_api import RepoData, RepoMissingError
 from scripts.sources.base import RawCandidate
 
@@ -233,3 +233,67 @@ def test_resolve_assistants_db_cursor_not_tagged() -> None:
     data = _repo("o/x", 1000,
                  description="Iterate database results using a cursor")
     assert "cursor" not in resolve_assistants(data, set(), readme=None)
+
+
+# --- is_plugin_signal -------------------------------------------------------
+
+def test_is_plugin_signal_code_search_always_passes() -> None:
+    """github_code_search matches mean the repo has a manifest file."""
+    assert is_plugin_signal("anything", "no markers here", "github_code_search")
+
+
+def test_is_plugin_signal_plugin_in_name() -> None:
+    assert is_plugin_signal("my-plugin", "", "awesome_list")
+    assert is_plugin_signal("Cool-Skill", "", "awesome_list")
+    assert is_plugin_signal("foo-mcp-server", "", "awesome_list")
+
+
+def test_is_plugin_signal_description_with_assistant_and_plugin_word() -> None:
+    assert is_plugin_signal(
+        "x", "A plugin for Claude Code", "awesome_list")
+    assert is_plugin_signal(
+        "x", "Skill collection for Cursor users", "awesome_list")
+
+
+def test_is_plugin_signal_agentic_framework() -> None:
+    """obra/superpowers case: 'agentic skills framework' should pass."""
+    assert is_plugin_signal(
+        "superpowers",
+        "An agentic skills framework and software development methodology",
+        "manual",
+    )
+
+
+def test_is_plugin_signal_rejects_n8n() -> None:
+    """n8n's description doesn't contain plugin or assistant markers."""
+    assert not is_plugin_signal(
+        "n8n",
+        "Free and source-available fair-code licensed workflow automation tool",
+        "awesome_list",
+    )
+
+
+def test_is_plugin_signal_rejects_generic_prompt_lib() -> None:
+    assert not is_plugin_signal(
+        "prompts.chat",
+        "This repo includes ChatGPT prompt curation",
+        "awesome_list",
+    )
+
+
+def test_discover_filters_non_plugin(tmp_path: Path) -> None:
+    """A high-star repo with no plugin signals is skipped at orchestration."""
+    yaml, log = _seed(tmp_path)
+    gh = MagicMock()
+    gh.fetch_repo.return_value = _repo(
+        "o/n8n-like", 100_000,
+        description="Workflow automation tool. Self-host or use cloud.",
+    )
+    s = MagicMock()
+    s.name = "awesome_list"
+    s.fetch_candidates.return_value = [RawCandidate(
+        repo="o/n8n-like", source="awesome_list", hint_assistants=["claude-code"])]
+    additions = run_discover(yaml, log, [s], gh,
+        today="2026-05-29", disabled=set())
+    assert additions == []
+    assert "o/n8n-like" not in yaml.read_text()
