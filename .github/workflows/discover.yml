@@ -52,6 +52,40 @@ jobs:
             git push origin main
           fi
 
+      - name: Checkout data branch (for re-render)
+        if: success()
+        uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data-branch
+
+      - name: Re-render rankings with new entries
+        if: success()
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAIN_DIR: ${{ github.workspace }}
+          DATA_DIR: ${{ github.workspace }}/data-branch
+        run: python -m scripts.scrape
+
+      - name: Commit & push rendered output
+        if: success()
+        run: |
+          git add README.md rankings/ data/latest.json
+          if git diff --cached --quiet; then
+            echo "No render diff."
+          else
+            git commit -m "Re-render after discovery ($(date -u +%Y-%m-%d))"
+            git push origin main
+          fi
+          cd data-branch
+          git add snapshots/
+          if git diff --cached --quiet; then
+            echo "No snapshot diff."
+          else
+            git commit -m "Snapshot $(date -u +%Y-%m-%d) (post-discovery)"
+            git push origin data
+          fi
+
       - name: Open issue on failure
         if: failure()
         uses: actions/github-script@v7
