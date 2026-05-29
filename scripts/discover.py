@@ -102,12 +102,10 @@ def run_discover(
             continue
         if data.stars < STAR_THRESHOLD or data.archived:
             continue
-        try:
-            readme = gh.fetch_readme(repo)
-        except Exception:
-            log.warning("could not fetch README for %s", repo)
-            readme = None
-        assistants = resolve_assistants(data, hints_by_repo[repo], readme)
+        # Resolve from hints + description only; skipping fetch_readme halves
+        # API calls per candidate and keeps us inside the 5000/hr budget when
+        # thousands of candidates are surfaced.
+        assistants = resolve_assistants(data, hints_by_repo[repo], readme=None)
         if not assistants:
             log.warning("no assistants resolved for %s; skipping", repo)
             continue
