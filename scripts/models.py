@@ -94,6 +94,7 @@ class LatestPlugin(BaseModel):
     archived: bool
     status: Status
     url: str
+    description: str = ""  # GitHub's repo description; rendered as fallback when metadata absent
 
 
 class LatestJson(BaseModel):

@@ -28,7 +28,16 @@ class RenderOutput:
 
 def _row(p: LatestPlugin, rank: int, meta: dict[str, MetadataEntry]) -> str:
     md = meta.get(p.id)
-    desc = md.description if md else DASH
+    if md:
+        desc = md.description
+    elif p.description:
+        # Fallback to GitHub's repo description; truncate so tables stay readable.
+        # Escape pipe characters that would break Markdown table cell boundaries.
+        desc = p.description[:100].replace("|", "\\|")
+        if len(p.description) > 100:
+            desc = desc.rstrip() + "…"
+    else:
+        desc = DASH
     cat = md.category if md else DASH
     assistants = ", ".join(ASSISTANT_LABELS[a] for a in p.assistants)
     stars = f"{p.stars:,}"
