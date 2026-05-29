@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T06:49:01Z",
+  "generated_at": "2026-05-29T12:17:06Z",
   "plugins": [
     {
       "archived": false,
@@ -9,8 +9,8 @@
       "id": "superpowers",
       "previous_stars": 210841,
       "repo": "obra/superpowers",
-      "stars": 211514,
-      "stars_24h": 673,
+      "stars": 211890,
+      "stars_24h": 1049,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/obra/superpowers"
@@ -23,8 +23,8 @@
       "id": "openai-plugins",
       "previous_stars": 1282,
       "repo": "openai/plugins",
-      "stars": 1284,
-      "stars_24h": 2,
+      "stars": 1287,
+      "stars_24h": 5,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/openai/plugins"
@@ -39,8 +39,8 @@
       "id": "claude-mem",
       "previous_stars": 79367,
       "repo": "thedotmack/claude-mem",
-      "stars": 79471,
-      "stars_24h": 104,
+      "stars": 79526,
+      "stars_24h": 159,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/thedotmack/claude-mem"
@@ -53,8 +53,8 @@
       "id": "alirezarezvani-claude-skills",
       "previous_stars": 16422,
       "repo": "alirezarezvani/claude-skills",
-      "stars": 16467,
-      "stars_24h": 45,
+      "stars": 16497,
+      "stars_24h": 75,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/alirezarezvani/claude-skills"
@@ -67,8 +67,8 @@
       "id": "claude-octopus",
       "previous_stars": 3433,
       "repo": "nyldn/claude-octopus",
-      "stars": 3436,
-      "stars_24h": 3,
+      "stars": 3440,
+      "stars_24h": 7,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/nyldn/claude-octopus"
@@ -81,8 +81,8 @@
       "id": "harness",
       "previous_stars": 3796,
       "repo": "revfactory/harness",
-      "stars": 4009,
-      "stars_24h": 213,
+      "stars": 4077,
+      "stars_24h": 281,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/revfactory/harness"
@@ -126,8 +126,8 @@
       "id": "memsearch",
       "previous_stars": 1861,
       "repo": "zilliztech/memsearch",
-      "stars": 1864,
-      "stars_24h": 3,
+      "stars": 1866,
+      "stars_24h": 5,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/zilliztech/memsearch"
@@ -169,11 +169,4984 @@
       "id": "higgsfield-skills",
       "previous_stars": 323,
       "repo": "higgsfield-ai/skills",
-      "stars": 327,
-      "stars_24h": 4,
+      "stars": 328,
+      "stars_24h": 5,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/higgsfield-ai/skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "hexstrike-ai",
+      "previous_stars": null,
+      "repo": "0x4m4/hexstrike-ai",
+      "stars": 8994,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/0x4m4/hexstrike-ai"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "nginx-ui",
+      "previous_stars": null,
+      "repo": "0xJacky/nginx-ui",
+      "stars": 11173,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/0xJacky/nginx-ui"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "maxkb",
+      "previous_stars": null,
+      "repo": "1Panel-dev/MaxKB",
+      "stars": 21095,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/1Panel-dev/MaxKB"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-proxy",
+      "previous_stars": null,
+      "repo": "1rgs/claude-code-proxy",
+      "stars": 3614,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/1rgs/claude-code-proxy"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code",
+        "cursor"
+      ],
+      "id": "browser-tools-mcp",
+      "previous_stars": null,
+      "repo": "AgentDeskAI/browser-tools-mcp",
+      "stars": 7220,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/AgentDeskAI/browser-tools-mcp"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "drawio-skill",
+      "previous_stars": null,
+      "repo": "Agents365-ai/drawio-skill",
+      "stars": 1966,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Agents365-ai/drawio-skill"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-ads",
+      "previous_stars": null,
+      "repo": "AgriciDaniel/claude-ads",
+      "stars": 5325,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/AgriciDaniel/claude-ads"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-obsidian",
+      "previous_stars": null,
+      "repo": "AgriciDaniel/claude-obsidian",
+      "stars": 5717,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-seo",
+      "previous_stars": null,
+      "repo": "AgriciDaniel/claude-seo",
+      "stars": 7280,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/AgriciDaniel/claude-seo"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "free-claude-code",
+      "previous_stars": null,
+      "repo": "Alishahryar1/free-claude-code",
+      "stars": 30722,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Alishahryar1/free-claude-code"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "unla",
+      "previous_stars": null,
+      "repo": "AmoyLab/Unla",
+      "stars": 2127,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/AmoyLab/Unla"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-reflect",
+      "previous_stars": null,
+      "repo": "BayramAnnakov/claude-reflect",
+      "stars": 1046,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/BayramAnnakov/claude-reflect"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "atomic-agents",
+      "previous_stars": null,
+      "repo": "BrainBlend-AI/atomic-agents",
+      "stars": 5948,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/BrainBlend-AI/atomic-agents"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "mcp",
+      "previous_stars": null,
+      "repo": "BrowserMCP/mcp",
+      "stars": 6580,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/BrowserMCP/mcp"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-harness",
+      "previous_stars": null,
+      "repo": "Chachamaru127/claude-code-harness",
+      "stars": 2165,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Chachamaru127/claude-code-harness"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "cherry-studio",
+      "previous_stars": null,
+      "repo": "CherryHQ/cherry-studio",
+      "stars": 46552,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/CherryHQ/cherry-studio"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-sourcemap",
+      "previous_stars": null,
+      "repo": "ChinaSiro/claude-code-sourcemap",
+      "stars": 9291,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/ChinaSiro/claude-code-sourcemap"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-showcase",
+      "previous_stars": null,
+      "repo": "ChrisWiles/claude-code-showcase",
+      "stars": 5932,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/ChrisWiles/claude-code-showcase"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "chrome-devtools-mcp",
+      "previous_stars": null,
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "stars": 42223,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "agent-orchestrator",
+      "previous_stars": null,
+      "repo": "ComposioHQ/agent-orchestrator",
+      "stars": 7318,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/ComposioHQ/agent-orchestrator"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "awesome-claude-plugins",
+      "previous_stars": null,
+      "repo": "ComposioHQ/awesome-claude-plugins",
+      "stars": 1698,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/ComposioHQ/awesome-claude-plugins"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "awesome-claude-skills",
+      "previous_stars": null,
+      "repo": "ComposioHQ/awesome-claude-skills",
+      "stars": 62380,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "garden-skills",
+      "previous_stars": null,
+      "repo": "ConardLi/garden-skills",
+      "stars": 6624,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/ConardLi/garden-skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "copilotkit",
+      "previous_stars": null,
+      "repo": "CopilotKit/CopilotKit",
+      "stars": 31838,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/CopilotKit/CopilotKit"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-guide",
+      "previous_stars": null,
+      "repo": "Cranot/claude-code-guide",
+      "stars": 2783,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Cranot/claude-code-guide"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "scrapling",
+      "previous_stars": null,
+      "repo": "D4Vinci/Scrapling",
+      "stars": 54811,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/D4Vinci/Scrapling"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "codebase-memory-mcp",
+      "previous_stars": null,
+      "repo": "DeusData/codebase-memory-mcp",
+      "stars": 2779,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/DeusData/codebase-memory-mcp"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-game-studios",
+      "previous_stars": null,
+      "repo": "Donchitos/Claude-Code-Game-Studios",
+      "stars": 20345,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "compound-engineering-plugin",
+      "previous_stars": null,
+      "repo": "EveryInc/compound-engineering-plugin",
+      "stars": 17955,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-ultimate-guide",
+      "previous_stars": null,
+      "repo": "FlorianBruniaux/claude-code-ultimate-guide",
+      "stars": 4554,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "viper",
+      "previous_stars": null,
+      "repo": "FunnyWolf/Viper",
+      "stars": 5054,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/FunnyWolf/Viper"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "cli-anything",
+      "previous_stars": null,
+      "repo": "HKUDS/CLI-Anything",
+      "stars": 41195,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "nanobot",
+      "previous_stars": null,
+      "repo": "HKUDS/nanobot",
+      "stars": 43359,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/HKUDS/nanobot"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "academic-research-skills",
+      "previous_stars": null,
+      "repo": "Imbad0202/academic-research-skills",
+      "stars": 23698,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Imbad0202/academic-research-skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "insforge",
+      "previous_stars": null,
+      "repo": "InsForge/InsForge",
+      "stars": 10748,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/InsForge/InsForge"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "unity-mcp",
+      "previous_stars": null,
+      "repo": "IvanMurzak/Unity-MCP",
+      "stars": 2936,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/IvanMurzak/Unity-MCP"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "ai-website-cloner-template",
+      "previous_stars": null,
+      "repo": "JCodesMore/ai-website-cloner-template",
+      "stars": 15672,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-skills",
+      "previous_stars": null,
+      "repo": "Jeffallan/claude-skills",
+      "stars": 9477,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Jeffallan/claude-skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "baoyu-skills",
+      "previous_stars": null,
+      "repo": "JimLiu/baoyu-skills",
+      "stars": 19844,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/JimLiu/baoyu-skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "xhs-downloader",
+      "previous_stars": null,
+      "repo": "JoeanAmier/XHS-Downloader",
+      "stars": 11336,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/JoeanAmier/XHS-Downloader"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "caveman",
+      "previous_stars": null,
+      "repo": "JuliusBrussee/caveman",
+      "stars": 66228,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/JuliusBrussee/caveman"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code",
+        "cursor"
+      ],
+      "id": "scientific-agent-skills",
+      "previous_stars": null,
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "stars": 26511,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "vibe-coding-prompt-template",
+      "previous_stars": null,
+      "repo": "KhazP/vibe-coding-prompt-template",
+      "stars": 2431,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/KhazP/vibe-coding-prompt-template"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "klavis",
+      "previous_stars": null,
+      "repo": "Klavis-AI/klavis",
+      "stars": 5747,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Klavis-AI/klavis"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claurst",
+      "previous_stars": null,
+      "repo": "Kuberwastaken/claurst",
+      "stars": 9721,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Kuberwastaken/claurst"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "taste-skill",
+      "previous_stars": null,
+      "repo": "Leonxlnx/taste-skill",
+      "stars": 27469,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Leonxlnx/taste-skill"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "understand-anything",
+      "previous_stars": null,
+      "repo": "Lum1104/Understand-Anything",
+      "stars": 43884,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Lum1104/Understand-Anything"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "inspector",
+      "previous_stars": null,
+      "repo": "MCPJam/inspector",
+      "stars": 1975,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/MCPJam/inspector"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-usage-monitor",
+      "previous_stars": null,
+      "repo": "Maciek-roboblog/Claude-Code-Usage-Monitor",
+      "stars": 8098,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code",
+        "cursor"
+      ],
+      "id": "design-extract",
+      "previous_stars": null,
+      "repo": "Manavarya09/design-extract",
+      "stars": 2965,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Manavarya09/design-extract"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "mempalace",
+      "previous_stars": null,
+      "repo": "MemPalace/mempalace",
+      "stars": 53028,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/MemPalace/mempalace"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "skills",
+      "previous_stars": null,
+      "repo": "MiniMax-AI/skills",
+      "stars": 12196,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/MiniMax-AI/skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "semble",
+      "previous_stars": null,
+      "repo": "MinishLab/semble",
+      "stars": 4514,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/MinishLab/semble"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "natively-cluely-ai-assistant",
+      "previous_stars": null,
+      "repo": "Natively-AI-assistant/natively-cluely-ai-assistant",
+      "stars": 1325,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "memu",
+      "previous_stars": null,
+      "repo": "NevaMind-AI/memU",
+      "stars": 13733,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/NevaMind-AI/memU"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-cheat-sheet",
+      "previous_stars": null,
+      "repo": "Njengah/claude-code-cheat-sheet",
+      "stars": 1721,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Njengah/claude-code-cheat-sheet"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "hermes-agent",
+      "previous_stars": null,
+      "repo": "NousResearch/hermes-agent",
+      "stars": 172343,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-workflows",
+      "previous_stars": null,
+      "repo": "OneRedOak/claude-code-workflows",
+      "stars": 3809,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/OneRedOak/claude-code-workflows"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "dive",
+      "previous_stars": null,
+      "repo": "OpenAgentPlatform/Dive",
+      "stars": 1794,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/OpenAgentPlatform/Dive"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "open-codesign",
+      "previous_stars": null,
+      "repo": "OpenCoworkAI/open-codesign",
+      "stars": 6524,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/OpenCoworkAI/open-codesign"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "nanoresearch",
+      "previous_stars": null,
+      "repo": "OpenRaiser/NanoResearch",
+      "stars": 1372,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/OpenRaiser/NanoResearch"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "ai-research-skills",
+      "previous_stars": null,
+      "repo": "Orchestra-Research/AI-Research-SKILLs",
+      "stars": 9068,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "planning-with-files",
+      "previous_stars": null,
+      "repo": "OthmanAdi/planning-with-files",
+      "stars": 22306,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/OthmanAdi/planning-with-files"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "agent-reach",
+      "previous_stars": null,
+      "repo": "Panniantong/Agent-Reach",
+      "stars": 20539,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "cursor"
+      ],
+      "id": "awesome-cursorrules",
+      "previous_stars": null,
+      "repo": "PatrickJS/awesome-cursorrules",
+      "stars": 39770,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/PatrickJS/awesome-cursorrules"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-system-prompts",
+      "previous_stars": null,
+      "repo": "Piebald-AI/claude-code-system-prompts",
+      "stars": 10614,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Piebald-AI/claude-code-system-prompts"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-spec-workflow",
+      "previous_stars": null,
+      "repo": "Pimzino/claude-code-spec-workflow",
+      "stars": 3749,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Pimzino/claude-code-spec-workflow"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "awesome-llm-skills",
+      "previous_stars": null,
+      "repo": "Prat011/awesome-llm-skills",
+      "stars": 1273,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Prat011/awesome-llm-skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-telegram",
+      "previous_stars": null,
+      "repo": "RichardAtCT/claude-code-telegram",
+      "stars": 2646,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/RichardAtCT/claude-code-telegram"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "dev-browser",
+      "previous_stars": null,
+      "repo": "SawyerHood/dev-browser",
+      "stars": 6188,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/SawyerHood/dev-browser"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-codex-bridge",
+      "previous_stars": null,
+      "repo": "SeemSeam/claude_codex_bridge",
+      "stars": 2818,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/SeemSeam/claude_codex_bridge"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "android-reverse-engineering-skill",
+      "previous_stars": null,
+      "repo": "SimoneAvogadro/android-reverse-engineering-skill",
+      "stars": 5891,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-red",
+      "previous_stars": null,
+      "repo": "SnailSploit/Claude-Red",
+      "stars": 1519,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/SnailSploit/Claude-Red"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "zcf",
+      "previous_stars": null,
+      "repo": "UfoMiao/zcf",
+      "stars": 6016,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/UfoMiao/zcf"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "awesome-agent-skills",
+      "previous_stars": null,
+      "repo": "VoltAgent/awesome-agent-skills",
+      "stars": 23503,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "awesome-claude-code-subagents",
+      "previous_stars": null,
+      "repo": "VoltAgent/awesome-claude-code-subagents",
+      "stars": 20821,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/VoltAgent/awesome-claude-code-subagents"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-relay-service",
+      "previous_stars": null,
+      "repo": "Wei-Shaw/claude-relay-service",
+      "stars": 11919,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Wei-Shaw/claude-relay-service"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "sub2api",
+      "previous_stars": null,
+      "repo": "Wei-Shaw/sub2api",
+      "stars": 24281,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Wei-Shaw/sub2api"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "awesome-agentic-ai-zh",
+      "previous_stars": null,
+      "repo": "WenyuChiou/awesome-agentic-ai-zh",
+      "stars": 1803,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-from-scratch",
+      "previous_stars": null,
+      "repo": "Windy3f3f3f3f/claude-code-from-scratch",
+      "stars": 1298,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "how-claude-code-works",
+      "previous_stars": null,
+      "repo": "Windy3f3f3f3f/how-claude-code-works",
+      "stars": 2503,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "oh-my-claudecode",
+      "previous_stars": null,
+      "repo": "Yeachan-Heo/oh-my-claudecode",
+      "stars": 35271,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claudian",
+      "previous_stars": null,
+      "repo": "YishenTu/claudian",
+      "stars": 12014,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/YishenTu/claudian"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "nature-skills",
+      "previous_stars": null,
+      "repo": "Yuan1z0825/nature-skills",
+      "stars": 13671,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Yuan1z0825/nature-skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-reverse",
+      "previous_stars": null,
+      "repo": "Yuyz0112/claude-code-reverse",
+      "stars": 2370,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/Yuyz0112/claude-code-reverse"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "seo-geo-claude-skills",
+      "previous_stars": null,
+      "repo": "aaron-he-zhu/seo-geo-claude-skills",
+      "stars": 1878,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/aaron-he-zhu/seo-geo-claude-skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "gitnexus",
+      "previous_stars": null,
+      "repo": "abhigyanpatwari/GitNexus",
+      "stars": 40722,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/abhigyanpatwari/GitNexus"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "activepieces",
+      "previous_stars": null,
+      "repo": "activepieces/activepieces",
+      "stars": 22468,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/activepieces/activepieces"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "agent-skills",
+      "previous_stars": null,
+      "repo": "addyosmani/agent-skills",
+      "stars": 46805,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "web-quality-skills",
+      "previous_stars": null,
+      "repo": "addyosmani/web-quality-skills",
+      "stars": 2135,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/addyosmani/web-quality-skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "ecc",
+      "previous_stars": null,
+      "repo": "affaan-m/ECC",
+      "stars": 198064,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "arscontexta",
+      "previous_stars": null,
+      "repo": "agenticnotetaking/arscontexta",
+      "stars": 3370,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/agenticnotetaking/arscontexta"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-from-source",
+      "previous_stars": null,
+      "repo": "alejandrobalderas/claude-code-from-source",
+      "stars": 2155,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/alejandrobalderas/claude-code-from-source"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code",
+      "previous_stars": null,
+      "repo": "anthropics/claude-code",
+      "stars": 127599,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-action",
+      "previous_stars": null,
+      "repo": "anthropics/claude-code-action",
+      "stars": 7787,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/anthropics/claude-code-action"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-security-review",
+      "previous_stars": null,
+      "repo": "anthropics/claude-code-security-review",
+      "stars": 4871,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/anthropics/claude-code-security-review"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-for-legal",
+      "previous_stars": null,
+      "repo": "anthropics/claude-for-legal",
+      "stars": 7809,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/anthropics/claude-for-legal"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-plugins-official",
+      "previous_stars": null,
+      "repo": "anthropics/claude-plugins-official",
+      "stars": 28538,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/anthropics/claude-plugins-official"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "financial-services",
+      "previous_stars": null,
+      "repo": "anthropics/financial-services",
+      "stars": 28616,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/anthropics/financial-services"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "financial-services-plugins",
+      "previous_stars": null,
+      "repo": "anthropics/financial-services",
+      "stars": 28616,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/anthropics/financial-services"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "knowledge-work-plugins",
+      "previous_stars": null,
+      "repo": "anthropics/knowledge-work-plugins",
+      "stars": 17952,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "anthropics-skills",
+      "previous_stars": null,
+      "repo": "anthropics/skills",
+      "stars": 143354,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "terraform-skill",
+      "previous_stars": null,
+      "repo": "antonbabenko/terraform-skill",
+      "stars": 1936,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/antonbabenko/terraform-skill"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "mcp-server-chart",
+      "previous_stars": null,
+      "repo": "antvis/mcp-server-chart",
+      "stars": 4115,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/antvis/mcp-server-chart"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "fusio",
+      "previous_stars": null,
+      "repo": "apioo/fusio",
+      "stars": 2095,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/apioo/fusio"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "archestra",
+      "previous_stars": null,
+      "repo": "archestra-ai/archestra",
+      "stars": 3753,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/archestra-ai/archestra"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code",
+        "copilot"
+      ],
+      "id": "system-prompts-leaks",
+      "previous_stars": null,
+      "repo": "asgeirtj/system_prompts_leaks",
+      "stars": 40907,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "gpt-researcher",
+      "previous_stars": null,
+      "repo": "assafelovic/gpt-researcher",
+      "stars": 27377,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/assafelovic/gpt-researcher"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "tradingview-mcp",
+      "previous_stars": null,
+      "repo": "atilaahmettaner/tradingview-mcp",
+      "stars": 2880,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/atilaahmettaner/tradingview-mcp"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "ccpm",
+      "previous_stars": null,
+      "repo": "automazeio/ccpm",
+      "stars": 8156,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/automazeio/ccpm"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "awslabs-mcp",
+      "previous_stars": null,
+      "repo": "awslabs/mcp",
+      "stars": 9151,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/awslabs/mcp"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "plannotator",
+      "previous_stars": null,
+      "repo": "backnotprop/plannotator",
+      "stars": 5701,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/backnotprop/plannotator"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "ghidra-mcp",
+      "previous_stars": null,
+      "repo": "bethington/ghidra-mcp",
+      "stars": 2129,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/bethington/ghidra-mcp"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "arxiv-mcp-server",
+      "previous_stars": null,
+      "repo": "blazickjp/arxiv-mcp-server",
+      "stars": 2793,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/blazickjp/arxiv-mcp-server"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "bmad-method",
+      "previous_stars": null,
+      "repo": "bmad-code-org/BMAD-METHOD",
+      "stars": 48256,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "cc-wf-studio",
+      "previous_stars": null,
+      "repo": "breaking-brake/cc-wf-studio",
+      "stars": 5071,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/breaking-brake/cc-wf-studio"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "brightdata-mcp",
+      "previous_stars": null,
+      "repo": "brightdata/brightdata-mcp",
+      "stars": 2418,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/brightdata/brightdata-mcp"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "quantdinger",
+      "previous_stars": null,
+      "repo": "brokermr810/QuantDinger",
+      "stars": 6895,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/brokermr810/QuantDinger"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "browser-act-skills",
+      "previous_stars": null,
+      "repo": "browser-act/skills",
+      "stars": 1506,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/browser-act/skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "dbhub",
+      "previous_stars": null,
+      "repo": "bytebase/dbhub",
+      "stars": 2857,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/bytebase/dbhub"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "ui-tars-desktop",
+      "previous_stars": null,
+      "repo": "bytedance/UI-TARS-desktop",
+      "stars": 35655,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/bytedance/UI-TARS-desktop"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code",
+        "cursor"
+      ],
+      "id": "ai-setup",
+      "previous_stars": null,
+      "repo": "caliber-ai-org/ai-setup",
+      "stars": 1096,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/caliber-ai-org/ai-setup"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-pm-course",
+      "previous_stars": null,
+      "repo": "carlvellotti/claude-code-pm-course",
+      "stars": 2053,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/carlvellotti/claude-code-pm-course"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-workflow",
+      "previous_stars": null,
+      "repo": "catlog22/Claude-Code-Workflow",
+      "stars": 2060,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/catlog22/Claude-Code-Workflow"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "my-claude-code-setup",
+      "previous_stars": null,
+      "repo": "centminmod/my-claude-code-setup",
+      "stars": 2368,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/centminmod/my-claude-code-setup"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "collection-claude-code-source-code",
+      "previous_stars": null,
+      "repo": "chauncygu/collection-claude-code-source-code",
+      "stars": 2532,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/chauncygu/collection-claude-code-source-code"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "unreal-mcp",
+      "previous_stars": null,
+      "repo": "chongdashu/unreal-mcp",
+      "stars": 1924,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/chongdashu/unreal-mcp"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "korean-law-mcp",
+      "previous_stars": null,
+      "repo": "chrisryugj/korean-law-mcp",
+      "stars": 1866,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/chrisryugj/korean-law-mcp"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code",
+        "cursor"
+      ],
+      "id": "agent-rules-books",
+      "previous_stars": null,
+      "repo": "ciembor/agent-rules-books",
+      "stars": 1677,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/ciembor/agent-rules-books"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "mcp-shrimp-task-manager",
+      "previous_stars": null,
+      "repo": "cjo4m06/mcp-shrimp-task-manager",
+      "stars": 2105,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/cjo4m06/mcp-shrimp-task-manager"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-best-claude-code",
+      "previous_stars": null,
+      "repo": "claude-code-best/claude-code",
+      "stars": 19144,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/claude-code-best/claude-code"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "oh-my-openagent",
+      "previous_stars": null,
+      "repo": "code-yeongyu/oh-my-openagent",
+      "stars": 60079,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/code-yeongyu/oh-my-openagent"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "codeaashu-claude-code",
+      "previous_stars": null,
+      "repo": "codeaashu/claude-code",
+      "stars": 2748,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/codeaashu/claude-code"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "deepeval",
+      "previous_stars": null,
+      "repo": "confident-ai/deepeval",
+      "stars": 15787,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/confident-ai/deepeval"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "ios-simulator-skill",
+      "previous_stars": null,
+      "repo": "conorluddy/ios-simulator-skill",
+      "stars": 1042,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/conorluddy/ios-simulator-skill"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "marketingskills",
+      "previous_stars": null,
+      "repo": "coreyhaines31/marketingskills",
+      "stars": 30995,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/coreyhaines31/marketingskills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "pysheeet",
+      "previous_stars": null,
+      "repo": "crazyguitar/pysheeet",
+      "stars": 8146,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/crazyguitar/pysheeet"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "carbon",
+      "previous_stars": null,
+      "repo": "crbnos/carbon",
+      "stars": 2119,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/crbnos/carbon"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "n8n-mcp",
+      "previous_stars": null,
+      "repo": "czlonkowski/n8n-mcp",
+      "stars": 21345,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/czlonkowski/n8n-mcp"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "dagu",
+      "previous_stars": null,
+      "repo": "dagucloud/dagu",
+      "stars": 3432,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/dagucloud/dagu"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "daily",
+      "previous_stars": null,
+      "repo": "dailydotdev/daily",
+      "stars": 19866,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/dailydotdev/daily"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "buildwithclaude",
+      "previous_stars": null,
+      "repo": "davepoon/buildwithclaude",
+      "stars": 2982,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/davepoon/buildwithclaude"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-templates",
+      "previous_stars": null,
+      "repo": "davila7/claude-code-templates",
+      "stars": 27657,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "product-manager-skills",
+      "previous_stars": null,
+      "repo": "deanpeters/Product-Manager-Skills",
+      "stars": 4610,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/deanpeters/Product-Manager-Skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code",
+        "cursor"
+      ],
+      "id": "9router",
+      "previous_stars": null,
+      "repo": "decolua/9router",
+      "stars": 14982,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/decolua/9router"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "ddgs",
+      "previous_stars": null,
+      "repo": "deedy5/ddgs",
+      "stars": 2681,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/deedy5/ddgs"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code",
+        "cursor"
+      ],
+      "id": "omniroute",
+      "previous_stars": null,
+      "repo": "diegosouzapw/OmniRoute",
+      "stars": 5494,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/diegosouzapw/OmniRoute"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-infrastructure-showcase",
+      "previous_stars": null,
+      "repo": "diet103/claude-code-infrastructure-showcase",
+      "stars": 9683,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/diet103/claude-code-infrastructure-showcase"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-hub",
+      "previous_stars": null,
+      "repo": "ding113/claude-code-hub",
+      "stars": 2947,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/ding113/claude-code-hub"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-hooks-mastery",
+      "previous_stars": null,
+      "repo": "disler/claude-code-hooks-mastery",
+      "stars": 3717,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/disler/claude-code-hooks-mastery"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "pi-vs-claude-code",
+      "previous_stars": null,
+      "repo": "disler/pi-vs-claude-code",
+      "stars": 1274,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/disler/pi-vs-claude-code"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "mcp-memory-service",
+      "previous_stars": null,
+      "repo": "doobidoo/mcp-memory-service",
+      "stars": 1911,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/doobidoo/mcp-memory-service"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "edmunds-claude-code",
+      "previous_stars": null,
+      "repo": "edmund-io/edmunds-claude-code",
+      "stars": 1447,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/edmund-io/edmunds-claude-code"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-bughunter",
+      "previous_stars": null,
+      "repo": "elementalsouls/Claude-BugHunter",
+      "stars": 1325,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "fast-agent",
+      "previous_stars": null,
+      "repo": "evalstate/fast-agent",
+      "stars": 3796,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/evalstate/fast-agent"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "exa-mcp-server",
+      "previous_stars": null,
+      "repo": "exa-labs/exa-mcp-server",
+      "stars": 4497,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/exa-labs/exa-mcp-server"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-task-master",
+      "previous_stars": null,
+      "repo": "eyaltoledano/claude-task-master",
+      "stars": 27283,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/eyaltoledano/claude-task-master"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "web-access",
+      "previous_stars": null,
+      "repo": "eze-is/web-access",
+      "stars": 6927,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/eze-is/web-access"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "mcptools",
+      "previous_stars": null,
+      "repo": "f/mcptools",
+      "stars": 1590,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/f/mcptools"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "prompts-chat",
+      "previous_stars": null,
+      "repo": "f/prompts.chat",
+      "stars": 163013,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/f/prompts.chat"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "cc-switch",
+      "previous_stars": null,
+      "repo": "farion1231/cc-switch",
+      "stars": 84393,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/farion1231/cc-switch"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-settings",
+      "previous_stars": null,
+      "repo": "feiskyer/claude-code-settings",
+      "stars": 1533,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/feiskyer/claude-code-settings"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "ccg-workflow",
+      "previous_stars": null,
+      "repo": "fengshao1227/ccg-workflow",
+      "stars": 5385,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/fengshao1227/ccg-workflow"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "firecrawl-mcp-server",
+      "previous_stars": null,
+      "repo": "firecrawl/firecrawl-mcp-server",
+      "stars": 6421,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/firecrawl/firecrawl-mcp-server"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "lamda",
+      "previous_stars": null,
+      "repo": "firerpa/lamda",
+      "stars": 7814,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/firerpa/lamda"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "cursor"
+      ],
+      "id": "cursor-rules",
+      "previous_stars": null,
+      "repo": "flyeric0212/cursor-rules",
+      "stars": 1845,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/flyeric0212/cursor-rules"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "contextplus",
+      "previous_stars": null,
+      "repo": "forloopcodes/contextplus",
+      "stars": 1911,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/forloopcodes/contextplus"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "andrej-karpathy-skills",
+      "previous_stars": null,
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "stars": 161166,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "ralph-claude-code",
+      "previous_stars": null,
+      "repo": "frankbria/ralph-claude-code",
+      "stars": 9233,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/frankbria/ralph-claude-code"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "awesome-gpt-image-2",
+      "previous_stars": null,
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "stars": 6724,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "fuergaosi233-claude-code-proxy",
+      "previous_stars": null,
+      "repo": "fuergaosi233/claude-code-proxy",
+      "stars": 2628,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/fuergaosi233/claude-code-proxy"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "beads",
+      "previous_stars": null,
+      "repo": "gastownhall/beads",
+      "stars": 24194,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/gastownhall/beads"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "md2wechat-skill",
+      "previous_stars": null,
+      "repo": "geekjourneyx/md2wechat-skill",
+      "stars": 2598,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/geekjourneyx/md2wechat-skill"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "codeburn",
+      "previous_stars": null,
+      "repo": "getagentseal/codeburn",
+      "stars": 7251,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/getagentseal/codeburn"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "paseo",
+      "previous_stars": null,
+      "repo": "getpaseo/paseo",
+      "stars": 6907,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/getpaseo/paseo"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "xcodebuildmcp",
+      "previous_stars": null,
+      "repo": "getsentry/XcodeBuildMCP",
+      "stars": 5771,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/getsentry/XcodeBuildMCP"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "github-mcp-server",
+      "previous_stars": null,
+      "repo": "github/github-mcp-server",
+      "stars": 30258,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/github/github-mcp-server"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "zenfeed",
+      "previous_stars": null,
+      "repo": "glidea/zenfeed",
+      "stars": 1690,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/glidea/zenfeed"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "pinme",
+      "previous_stars": null,
+      "repo": "glitternetwork/pinme",
+      "stars": 3587,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/glitternetwork/pinme"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "nunu",
+      "previous_stars": null,
+      "repo": "go-nunu/nunu",
+      "stars": 2569,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/go-nunu/nunu"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "gemini-cli",
+      "previous_stars": null,
+      "repo": "google-gemini/gemini-cli",
+      "stars": 104705,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/google-gemini/gemini-cli"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "google-maps-scraper",
+      "previous_stars": null,
+      "repo": "gosom/google-maps-scraper",
+      "stars": 4187,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/gosom/google-maps-scraper"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "get-shit-done",
+      "previous_stars": null,
+      "repo": "gsd-build/get-shit-done",
+      "stars": 63773,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/gsd-build/get-shit-done"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "excel-mcp-server",
+      "previous_stars": null,
+      "repo": "haris-musa/excel-mcp-server",
+      "stars": 3879,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/haris-musa/excel-mcp-server"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "octogent",
+      "previous_stars": null,
+      "repo": "hesamsheikh/octogent",
+      "stars": 1148,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/hesamsheikh/octogent"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "awesome-claude-code",
+      "previous_stars": null,
+      "repo": "hesreallyhim/awesome-claude-code",
+      "stars": 45130,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "hyperframes",
+      "previous_stars": null,
+      "repo": "heygen-com/hyperframes",
+      "stars": 22156,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/heygen-com/hyperframes"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "httprunner",
+      "previous_stars": null,
+      "repo": "httprunner/httprunner",
+      "stars": 4278,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/httprunner/httprunner"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "py-xiaozhi",
+      "previous_stars": null,
+      "repo": "huangjunsen0406/py-xiaozhi",
+      "stars": 3329,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/huangjunsen0406/py-xiaozhi"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "huggingface-skills",
+      "previous_stars": null,
+      "repo": "huggingface/skills",
+      "stars": 10589,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/huggingface/skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "ppt-master",
+      "previous_stars": null,
+      "repo": "hugohe3/ppt-master",
+      "stars": 22348,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/hugohe3/ppt-master"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "humanlayer",
+      "previous_stars": null,
+      "repo": "humanlayer/humanlayer",
+      "stars": 10912,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/humanlayer/humanlayer"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "aionui",
+      "previous_stars": null,
+      "repo": "iOfficeAI/AionUi",
+      "stars": 27112,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/iOfficeAI/AionUi"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "awesome-aitools",
+      "previous_stars": null,
+      "repo": "ikaijua/Awesome-AITools",
+      "stars": 5972,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/ikaijua/Awesome-AITools"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "aws-agent-skills",
+      "previous_stars": null,
+      "repo": "itsmostafa/aws-agent-skills",
+      "stars": 1109,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/itsmostafa/aws-agent-skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "jarmuine-claude-code",
+      "previous_stars": null,
+      "repo": "jarmuine/claude-code",
+      "stars": 2172,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/jarmuine/claude-code"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-hud",
+      "previous_stars": null,
+      "repo": "jarrodwatts/claude-hud",
+      "stars": 24030,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/jarrodwatts/claude-hud"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "jeecgboot",
+      "previous_stars": null,
+      "repo": "jeecgboot/JeecgBoot",
+      "stars": 46510,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/jeecgboot/JeecgBoot"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-plugins-plus-skills",
+      "previous_stars": null,
+      "repo": "jeremylongshore/claude-code-plugins-plus-skills",
+      "stars": 2257,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code",
+        "cursor"
+      ],
+      "id": "agency-agents-zh",
+      "previous_stars": null,
+      "repo": "jnMetaCode/agency-agents-zh",
+      "stars": 13272,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/jnMetaCode/agency-agents-zh"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "obsidian-skills",
+      "previous_stars": null,
+      "repo": "kepano/obsidian-skills",
+      "stars": 33487,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/kepano/obsidian-skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-coder",
+      "previous_stars": null,
+      "repo": "kodu-ai/claude-coder",
+      "stars": 5272,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/kodu-ai/claude-coder"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "slack-mcp-server",
+      "previous_stars": null,
+      "repo": "korotovsky/slack-mcp-server",
+      "stars": 1634,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/korotovsky/slack-mcp-server"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "kubeshark",
+      "previous_stars": null,
+      "repo": "kubeshark/kubeshark",
+      "stars": 11911,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/kubeshark/kubeshark"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "openmythos",
+      "previous_stars": null,
+      "repo": "kyegomez/OpenMythos",
+      "stars": 13441,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/kyegomez/OpenMythos"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "swarms",
+      "previous_stars": null,
+      "repo": "kyegomez/swarms",
+      "stars": 6768,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/kyegomez/swarms"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "playwright-skill",
+      "previous_stars": null,
+      "repo": "lackeyjb/playwright-skill",
+      "stars": 2690,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/lackeyjb/playwright-skill"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "lemonade",
+      "previous_stars": null,
+      "repo": "lemonade-sdk/lemonade",
+      "stars": 4158,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/lemonade-sdk/lemonade"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "mcp-chinese-getting-started-guide",
+      "previous_stars": null,
+      "repo": "liaokongVFX/MCP-Chinese-Getting-Started-Guide",
+      "stars": 3510,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-book",
+      "previous_stars": null,
+      "repo": "lintsinghua/claude-code-book",
+      "stars": 3465,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/lintsinghua/claude-code-book"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-analysis",
+      "previous_stars": null,
+      "repo": "liuup/claude-code-analysis",
+      "stars": 2817,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/liuup/claude-code-analysis"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "paperbanana",
+      "previous_stars": null,
+      "repo": "llmsresearch/paperbanana",
+      "stars": 1782,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/llmsresearch/paperbanana"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-rust",
+      "previous_stars": null,
+      "repo": "lorryjovens-hub/claude-code-rust",
+      "stars": 1622,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/lorryjovens-hub/claude-code-rust"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-sub-agents",
+      "previous_stars": null,
+      "repo": "lst97/claude-code-sub-agents",
+      "stars": 1577,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/lst97/claude-code-sub-agents"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-howto",
+      "previous_stars": null,
+      "repo": "luongnv89/claude-howto",
+      "stars": 34505,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/luongnv89/claude-howto"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-source-study",
+      "previous_stars": null,
+      "repo": "luyao618/Claude-Code-Source-Study",
+      "stars": 1454,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/luyao618/Claude-Code-Source-Study"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "cmux",
+      "previous_stars": null,
+      "repo": "manaflow-ai/cmux",
+      "stars": 20244,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/manaflow-ai/cmux"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "esp32-nat-router",
+      "previous_stars": null,
+      "repo": "martin-ger/esp32_nat_router",
+      "stars": 1981,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/martin-ger/esp32_nat_router"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "worktrunk",
+      "previous_stars": null,
+      "repo": "max-sixty/worktrunk",
+      "stars": 5247,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/max-sixty/worktrunk"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "bifrost",
+      "previous_stars": null,
+      "repo": "maximhq/bifrost",
+      "stars": 5329,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/maximhq/bifrost"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "pilot-shell",
+      "previous_stars": null,
+      "repo": "maxritter/pilot-shell",
+      "stars": 1732,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/maxritter/pilot-shell"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "mcp-router",
+      "previous_stars": null,
+      "repo": "mcp-router/mcp-router",
+      "stars": 2028,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/mcp-router/mcp-router"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "mcp-use",
+      "previous_stars": null,
+      "repo": "mcp-use/mcp-use",
+      "stars": 10012,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/mcp-use/mcp-use"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "mem0",
+      "previous_stars": null,
+      "repo": "mem0ai/mem0",
+      "stars": 57049,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/mem0ai/mem0"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "mirrord",
+      "previous_stars": null,
+      "repo": "metalbear-co/mirrord",
+      "stars": 5095,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/metalbear-co/mirrord"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "metamcp",
+      "previous_stars": null,
+      "repo": "metatool-ai/metamcp",
+      "stars": 2358,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/metatool-ai/metamcp"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "mcp-for-beginners",
+      "previous_stars": null,
+      "repo": "microsoft/mcp-for-beginners",
+      "stars": 16222,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/microsoft/mcp-for-beginners"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "milla-jovovich-mempalace",
+      "previous_stars": null,
+      "repo": "MemPalace/mempalace",
+      "stars": 53028,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/MemPalace/mempalace"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "ai-search-hub",
+      "previous_stars": null,
+      "repo": "minsight-ai-info/AI-Search-Hub",
+      "stars": 1139,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/minsight-ai-info/AI-Search-Hub"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-context-mode",
+      "previous_stars": null,
+      "repo": "mksglu/context-mode",
+      "stars": 15961,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "context-mode",
+      "previous_stars": null,
+      "repo": "mksglu/context-mode",
+      "stars": 15961,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "mlflow",
+      "previous_stars": null,
+      "repo": "mlflow/mlflow",
+      "stars": 26180,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/mlflow/mlflow"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "manifest",
+      "previous_stars": null,
+      "repo": "mnfst/manifest",
+      "stars": 6674,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/mnfst/manifest"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "csharp-sdk",
+      "previous_stars": null,
+      "repo": "modelcontextprotocol/csharp-sdk",
+      "stars": 4296,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/modelcontextprotocol/csharp-sdk"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "modelcontextprotocol",
+      "previous_stars": null,
+      "repo": "modelcontextprotocol/modelcontextprotocol",
+      "stars": 8256,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/modelcontextprotocol/modelcontextprotocol"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "funasr",
+      "previous_stars": null,
+      "repo": "modelscope/FunASR",
+      "stars": 16546,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/modelscope/FunASR"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "ida-pro-mcp",
+      "previous_stars": null,
+      "repo": "mrexodia/ida-pro-mcp",
+      "stars": 8964,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/mrexodia/ida-pro-mcp"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code",
+        "codex",
+        "copilot"
+      ],
+      "id": "anthropic-cybersecurity-skills",
+      "previous_stars": null,
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "stars": 11820,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "multica-ai-andrej-karpathy-skills",
+      "previous_stars": null,
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "stars": 161167,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "agent-skills-for-context-engineering",
+      "previous_stars": null,
+      "repo": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "stars": 16128,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-router",
+      "previous_stars": null,
+      "repo": "musistudio/claude-code-router",
+      "stars": 34502,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/musistudio/claude-code-router"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "last30days-skill",
+      "previous_stars": null,
+      "repo": "mvanhorn/last30days-skill",
+      "stars": 26770,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "n8n",
+      "previous_stars": null,
+      "repo": "n8n-io/n8n",
+      "stars": 190190,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/n8n-io/n8n"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "nanoclaw",
+      "previous_stars": null,
+      "repo": "nanocoai/nanoclaw",
+      "stars": 29523,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/nanocoai/nanoclaw"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "ui-ux-pro-max-skill",
+      "previous_stars": null,
+      "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "stars": 84537,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code",
+        "cursor"
+      ],
+      "id": "html-anything",
+      "previous_stars": null,
+      "repo": "nexu-io/html-anything",
+      "stars": 5350,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/nexu-io/html-anything"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-local",
+      "previous_stars": null,
+      "repo": "nicedreamzapp/claude-code-local",
+      "stars": 2701,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/nicedreamzapp/claude-code-local"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "visual-explainer",
+      "previous_stars": null,
+      "repo": "nicobailon/visual-explainer",
+      "stars": 8608,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/nicobailon/visual-explainer"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "prompt-master",
+      "previous_stars": null,
+      "repo": "nidhinjs/prompt-master",
+      "stars": 8493,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/nidhinjs/prompt-master"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "notfair",
+      "previous_stars": null,
+      "repo": "nowork-studio/NotFair",
+      "stars": 2696,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/nowork-studio/NotFair"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "nuclear",
+      "previous_stars": null,
+      "repo": "nukeop/nuclear",
+      "stars": 17692,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/nukeop/nuclear"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-rev",
+      "previous_stars": null,
+      "repo": "oboard/claude-code-rev",
+      "stars": 3167,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/oboard/claude-code-rev"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "codecompanion-nvim",
+      "previous_stars": null,
+      "repo": "olimorris/codecompanion.nvim",
+      "stars": 6623,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/olimorris/codecompanion.nvim"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "codepilot",
+      "previous_stars": null,
+      "repo": "op7418/CodePilot",
+      "stars": 5847,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/op7418/CodePilot"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "guizang-ppt-skill",
+      "previous_stars": null,
+      "repo": "op7418/guizang-ppt-skill",
+      "stars": 13132,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/op7418/guizang-ppt-skill"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "openmetadata",
+      "previous_stars": null,
+      "repo": "open-metadata/OpenMetadata",
+      "stars": 14054,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/open-metadata/OpenMetadata"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "mcpo",
+      "previous_stars": null,
+      "repo": "open-webui/mcpo",
+      "stars": 4225,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/open-webui/mcpo"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "paper-search-mcp",
+      "previous_stars": null,
+      "repo": "openags/paper-search-mcp",
+      "stars": 1609,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/openags/paper-search-mcp"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "codex-plugin-cc",
+      "previous_stars": null,
+      "repo": "openai/codex-plugin-cc",
+      "stars": 19903,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/openai/codex-plugin-cc"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "solon",
+      "previous_stars": null,
+      "repo": "opensolon/solon",
+      "stars": 2739,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/opensolon/solon"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "serena",
+      "previous_stars": null,
+      "repo": "oraios/serena",
+      "stars": 24737,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/oraios/serena"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "orval",
+      "previous_stars": null,
+      "repo": "orval-labs/orval",
+      "stars": 6004,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/orval-labs/orval"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "osaurus",
+      "previous_stars": null,
+      "repo": "osaurus-ai/osaurus",
+      "stars": 5525,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/osaurus-ai/osaurus"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "continuous-claude-v3",
+      "previous_stars": null,
+      "repo": "parcadei/Continuous-Claude-v3",
+      "stars": 3792,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/parcadei/Continuous-Claude-v3"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "payload",
+      "previous_stars": null,
+      "repo": "payloadcms/payload",
+      "stars": 42676,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/payloadcms/payload"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "impeccable",
+      "previous_stars": null,
+      "repo": "pbakaus/impeccable",
+      "stars": 31203,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-my-workflow",
+      "previous_stars": null,
+      "repo": "pedrohcgs/claude-code-my-workflow",
+      "stars": 1174,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/pedrohcgs/claude-code-my-workflow"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "pengchengneo-claude-code",
+      "previous_stars": null,
+      "repo": "pengchengneo/Claude-Code",
+      "stars": 1422,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/pengchengneo/Claude-Code"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "react-virtuoso",
+      "previous_stars": null,
+      "repo": "petyosi/react-virtuoso",
+      "stars": 6330,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/petyosi/react-virtuoso"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "pm-skills",
+      "previous_stars": null,
+      "repo": "phuryn/pm-skills",
+      "stars": 11724,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/phuryn/pm-skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "pipecat",
+      "previous_stars": null,
+      "repo": "pipecat-ai/pipecat",
+      "stars": 12531,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/pipecat-ai/pipecat"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-src",
+      "previous_stars": null,
+      "repo": "ponponon/claude_code_src",
+      "stars": 2255,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/ponponon/claude_code_src"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "promptfoo",
+      "previous_stars": null,
+      "repo": "promptfoo/promptfoo",
+      "stars": 21701,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/promptfoo/promptfoo"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "prowler",
+      "previous_stars": null,
+      "repo": "prowler-cloud/prowler",
+      "stars": 13900,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/prowler-cloud/prowler"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "fli",
+      "previous_stars": null,
+      "repo": "punitarani/fli",
+      "stars": 2704,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/punitarani/fli"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "awesome-web-security",
+      "previous_stars": null,
+      "repo": "qazbnm456/awesome-web-security",
+      "stars": 13414,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/qazbnm456/awesome-web-security"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "mcphub-nvim",
+      "previous_stars": null,
+      "repo": "ravitemer/mcphub.nvim",
+      "stars": 1769,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/ravitemer/mcphub.nvim"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "connect",
+      "previous_stars": null,
+      "repo": "redpanda-data/connect",
+      "stars": 8676,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/redpanda-data/connect"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-prompts",
+      "previous_stars": null,
+      "repo": "repowise-dev/claude-code-prompts",
+      "stars": 1070,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/repowise-dev/claude-code-prompts"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "agentmemory",
+      "previous_stars": null,
+      "repo": "rohitg00/agentmemory",
+      "stars": 19503,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/rohitg00/agentmemory"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "awesome-claude-code-toolkit",
+      "previous_stars": null,
+      "repo": "rohitg00/awesome-claude-code-toolkit",
+      "stars": 1870,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/rohitg00/awesome-claude-code-toolkit"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "pro-workflow",
+      "previous_stars": null,
+      "repo": "rohitg00/pro-workflow",
+      "stars": 2246,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/rohitg00/pro-workflow"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "paperasse",
+      "previous_stars": null,
+      "repo": "romainsimon/paperasse",
+      "stars": 1999,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/romainsimon/paperasse"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "cliproxyapi",
+      "previous_stars": null,
+      "repo": "router-for-me/CLIProxyAPI",
+      "stars": 35354,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/router-for-me/CLIProxyAPI"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "rowboat",
+      "previous_stars": null,
+      "repo": "rowboatlabs/rowboat",
+      "stars": 14722,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/rowboatlabs/rowboat"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "rtk",
+      "previous_stars": null,
+      "repo": "rtk-ai/rtk",
+      "stars": 56035,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/rtk-ai/rtk"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "slackdump",
+      "previous_stars": null,
+      "repo": "rusq/slackdump",
+      "stars": 2610,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/rusq/slackdump"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "ruview",
+      "previous_stars": null,
+      "repo": "ruvnet/RuView",
+      "stars": 67840,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "ruflo",
+      "previous_stars": null,
+      "repo": "ruvnet/ruflo",
+      "stars": 56277,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/ruvnet/ruflo"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code",
+        "cursor"
+      ],
+      "id": "graphify",
+      "previous_stars": null,
+      "repo": "safishamsi/graphify",
+      "stars": 55907,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/safishamsi/graphify"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "mcphub",
+      "previous_stars": null,
+      "repo": "samanhappy/mcphub",
+      "stars": 2108,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/samanhappy/mcphub"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "cursor"
+      ],
+      "id": "awesome-cursor-rules-mdc",
+      "previous_stars": null,
+      "repo": "sanjeed5/awesome-cursor-rules-mdc",
+      "stars": 3517,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/sanjeed5/awesome-cursor-rules-mdc"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "trendradar",
+      "previous_stars": null,
+      "repo": "sansan0/TrendRadar",
+      "stars": 58546,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/sansan0/TrendRadar"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "career-ops",
+      "previous_stars": null,
+      "repo": "santifer/career-ops",
+      "stars": 47758,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/santifer/career-ops"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-best-practice",
+      "previous_stars": null,
+      "repo": "shanraisshan/claude-code-best-practice",
+      "stars": 55443,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "learn-claude-code",
+      "previous_stars": null,
+      "repo": "shareAI-lab/learn-claude-code",
+      "stars": 63505,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/shareAI-lab/learn-claude-code"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code",
+        "codex"
+      ],
+      "id": "antigravity-awesome-skills",
+      "previous_stars": null,
+      "repo": "sickn33/antigravity-awesome-skills",
+      "stars": 39080,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/sickn33/antigravity-awesome-skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-transcripts",
+      "previous_stars": null,
+      "repo": "simonw/claude-code-transcripts",
+      "stars": 1532,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/simonw/claude-code-transcripts"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "ccstatusline",
+      "previous_stars": null,
+      "repo": "sirmalloc/ccstatusline",
+      "stars": 9964,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/sirmalloc/ccstatusline"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claudecodeui",
+      "previous_stars": null,
+      "repo": "siteboon/claudecodeui",
+      "stars": 11464,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/siteboon/claudecodeui"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "radar",
+      "previous_stars": null,
+      "repo": "skyhook-io/radar",
+      "stars": 2174,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/skyhook-io/radar"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "skypilot",
+      "previous_stars": null,
+      "repo": "skypilot-org/skypilot",
+      "stars": 10045,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/skypilot-org/skypilot"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "slavingia-skills",
+      "previous_stars": null,
+      "repo": "slavingia/skills",
+      "stars": 8896,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/slavingia/skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "slidev",
+      "previous_stars": null,
+      "repo": "slidevjs/slidev",
+      "stars": 46834,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/slidevjs/slidev"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "slint",
+      "previous_stars": null,
+      "repo": "slint-ui/slint",
+      "stars": 22723,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/slint-ui/slint"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "happy",
+      "previous_stars": null,
+      "repo": "slopus/happy",
+      "stars": 21331,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/slopus/happy"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-squad",
+      "previous_stars": null,
+      "repo": "smtg-ai/claude-squad",
+      "stars": 7660,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/smtg-ai/claude-squad"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "ralph",
+      "previous_stars": null,
+      "repo": "snarktank/ralph",
+      "stars": 19737,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/snarktank/ralph"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "mcp-proxy",
+      "previous_stars": null,
+      "repo": "sparfenyuk/mcp-proxy",
+      "stars": 2559,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/sparfenyuk/mcp-proxy"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code",
+        "codex"
+      ],
+      "id": "codexbar",
+      "previous_stars": null,
+      "repo": "steipete/CodexBar",
+      "stars": 13804,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/steipete/CodexBar"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "steveyegge-beads",
+      "previous_stars": null,
+      "repo": "gastownhall/beads",
+      "stars": 24194,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/gastownhall/beads"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "linkedin-mcp-server",
+      "previous_stars": null,
+      "repo": "stickerdaniel/linkedin-mcp-server",
+      "stars": 2050,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/stickerdaniel/linkedin-mcp-server"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "gcli2api",
+      "previous_stars": null,
+      "repo": "su-kaka/gcli2api",
+      "stars": 4839,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/su-kaka/gcli2api"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "superset",
+      "previous_stars": null,
+      "repo": "superset-sh/superset",
+      "stars": 11413,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/superset-sh/superset"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "fastapi-mcp",
+      "previous_stars": null,
+      "repo": "tadata-org/fastapi_mcp",
+      "stars": 11886,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/tadata-org/fastapi_mcp"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "tambo",
+      "previous_stars": null,
+      "repo": "tambo-ai/tambo",
+      "stars": 11152,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/tambo-ai/tambo"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "tanbiralam-claude-code",
+      "previous_stars": null,
+      "repo": "tanbiralam/claude-code",
+      "stars": 1777,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/tanbiralam/claude-code"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "pua",
+      "previous_stars": null,
+      "repo": "tanweai/pua",
+      "stars": 17808,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/tanweai/pua"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "google-workspace-mcp",
+      "previous_stars": null,
+      "repo": "taylorwilsdon/google_workspace_mcp",
+      "stars": 2506,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/taylorwilsdon/google_workspace_mcp"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "notebooklm-py",
+      "previous_stars": null,
+      "repo": "teng-lin/notebooklm-py",
+      "stars": 15459,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/teng-lin/notebooklm-py"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "code-review-graph",
+      "previous_stars": null,
+      "repo": "tirth8205/code-review-graph",
+      "stars": 17654,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/tirth8205/code-review-graph"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "qmd",
+      "previous_stars": null,
+      "repo": "tobi/qmd",
+      "stars": 25776,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/tobi/qmd"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "es-toolkit",
+      "previous_stars": null,
+      "repo": "toss/es-toolkit",
+      "stars": 11105,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/toss/es-toolkit"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "travisvn-awesome-claude-skills",
+      "previous_stars": null,
+      "repo": "travisvn/awesome-claude-skills",
+      "stars": 12998,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/travisvn/awesome-claude-skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "trigger-dev",
+      "previous_stars": null,
+      "repo": "triggerdotdev/trigger.dev",
+      "stars": 15140,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/triggerdotdev/trigger.dev"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "waza",
+      "previous_stars": null,
+      "repo": "tw93/Waza",
+      "stars": 5416,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/tw93/Waza"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "kubefwd",
+      "previous_stars": null,
+      "repo": "txn2/kubefwd",
+      "stars": 4110,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/txn2/kubefwd"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "deep-research",
+      "previous_stars": null,
+      "repo": "u14app/deep-research",
+      "stars": 4591,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/u14app/deep-research"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "context7",
+      "previous_stars": null,
+      "repo": "upstash/context7",
+      "stars": 56357,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/upstash/context7"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "hindsight",
+      "previous_stars": null,
+      "repo": "vectorize-io/hindsight",
+      "stars": 15093,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/vectorize-io/hindsight"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "agent-browser",
+      "previous_stars": null,
+      "repo": "vercel-labs/agent-browser",
+      "stars": 34657,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "next-js",
+      "previous_stars": null,
+      "repo": "vercel/next.js",
+      "stars": 139596,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/vercel/next.js"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "auto-claude-code-research-in-sleep",
+      "previous_stars": null,
+      "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+      "stars": 10975,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "enscan-go",
+      "previous_stars": null,
+      "repo": "wgpsec/ENScan_GO",
+      "stars": 4423,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/wgpsec/ENScan_GO"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "opcode",
+      "previous_stars": null,
+      "repo": "winfunc/opcode",
+      "stars": 21966,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/winfunc/opcode"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "wondelai-skills",
+      "previous_stars": null,
+      "repo": "wondelai/skills",
+      "stars": 1143,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/wondelai/skills"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "desktopcommandermcp",
+      "previous_stars": null,
+      "repo": "wonderwhy-er/DesktopCommanderMCP",
+      "stars": 6085,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "oh-story-claudecode",
+      "previous_stars": null,
+      "repo": "worldwonderer/oh-story-claudecode",
+      "stars": 1667,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/worldwonderer/oh-story-claudecode"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code",
+        "codex",
+        "cursor"
+      ],
+      "id": "agents",
+      "previous_stars": null,
+      "repo": "wshobson/agents",
+      "stars": 36114,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/wshobson/agents"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "xiaozhi-esp32-server",
+      "previous_stars": null,
+      "repo": "xinnan-tech/xiaozhi-esp32-server",
+      "stars": 9670,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/xinnan-tech/xiaozhi-esp32-server"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "xonsh",
+      "previous_stars": null,
+      "repo": "xonsh/xonsh",
+      "stars": 9481,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/xonsh/xonsh"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "xiaohongshu-mcp",
+      "previous_stars": null,
+      "repo": "xpzouying/xiaohongshu-mcp",
+      "stars": 13860,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/xpzouying/xiaohongshu-mcp"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "repomix",
+      "previous_stars": null,
+      "repo": "yamadashy/repomix",
+      "stars": 25719,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/yamadashy/repomix"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "yasasbanukaofficial-claude-code",
+      "previous_stars": null,
+      "repo": "yasasbanukaofficial/claude-code",
+      "stars": 3378,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/yasasbanukaofficial/claude-code"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "fireworks-tech-graph",
+      "previous_stars": null,
+      "repo": "yizhiyanhua-ai/fireworks-tech-graph",
+      "stars": 7210,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-code-tips",
+      "previous_stars": null,
+      "repo": "ykdojo/claude-code-tips",
+      "stars": 8534,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/ykdojo/claude-code-tips"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "skill-seekers",
+      "previous_stars": null,
+      "repo": "yusufkaraaslan/Skill_Seekers",
+      "stars": 13807,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/yusufkaraaslan/Skill_Seekers"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "lean-ctx",
+      "previous_stars": null,
+      "repo": "yvgude/lean-ctx",
+      "stars": 2263,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/yvgude/lean-ctx"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "awesome-mcp-zh",
+      "previous_stars": null,
+      "repo": "yzfly/Awesome-MCP-ZH",
+      "stars": 7184,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/yzfly/Awesome-MCP-ZH"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "frontend-slides",
+      "previous_stars": null,
+      "repo": "zarazhangrui/frontend-slides",
+      "stars": 19551,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/zarazhangrui/frontend-slides"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "zebbern-claude-code-guide",
+      "previous_stars": null,
+      "repo": "zebbern/claude-code-guide",
+      "stars": 4211,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/zebbern/claude-code-guide"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "cowagent",
+      "previous_stars": null,
+      "repo": "zhayujie/CowAgent",
+      "stars": 44943,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/zhayujie/CowAgent"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "claude-context",
+      "previous_stars": null,
+      "repo": "zilliztech/claude-context",
+      "stars": 11628,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/zilliztech/claude-context"
+    },
+    {
+      "archived": false,
+      "assistants": [
+        "claude-code"
+      ],
+      "id": "jadx-ai-mcp",
+      "previous_stars": null,
+      "repo": "zinja-coder/jadx-ai-mcp",
+      "stars": 2180,
+      "stars_24h": null,
+      "stars_7d": null,
+      "status": "ok",
+      "url": "https://github.com/zinja-coder/jadx-ai-mcp"
     }
   ]
 }
