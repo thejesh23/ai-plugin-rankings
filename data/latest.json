@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T17:30:36Z",
+  "generated_at": "2026-05-29T06:49:01Z",
   "plugins": [
     {
       "archived": false,
@@ -7,10 +7,10 @@
         "claude-code"
       ],
       "id": "superpowers",
-      "previous_stars": null,
+      "previous_stars": 210841,
       "repo": "obra/superpowers",
-      "stars": 210841,
-      "stars_24h": null,
+      "stars": 211514,
+      "stars_24h": 673,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/obra/superpowers"
@@ -21,10 +21,10 @@
         "codex"
       ],
       "id": "openai-plugins",
-      "previous_stars": null,
+      "previous_stars": 1282,
       "repo": "openai/plugins",
-      "stars": 1282,
-      "stars_24h": null,
+      "stars": 1284,
+      "stars_24h": 2,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/openai/plugins"
@@ -37,10 +37,10 @@
         "copilot"
       ],
       "id": "claude-mem",
-      "previous_stars": null,
+      "previous_stars": 79367,
       "repo": "thedotmack/claude-mem",
-      "stars": 79367,
-      "stars_24h": null,
+      "stars": 79471,
+      "stars_24h": 104,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/thedotmack/claude-mem"
@@ -51,10 +51,10 @@
         "claude-code"
       ],
       "id": "alirezarezvani-claude-skills",
-      "previous_stars": null,
+      "previous_stars": 16422,
       "repo": "alirezarezvani/claude-skills",
-      "stars": 16422,
-      "stars_24h": null,
+      "stars": 16467,
+      "stars_24h": 45,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/alirezarezvani/claude-skills"
@@ -65,10 +65,10 @@
         "claude-code"
       ],
       "id": "claude-octopus",
-      "previous_stars": null,
+      "previous_stars": 3433,
       "repo": "nyldn/claude-octopus",
-      "stars": 3433,
-      "stars_24h": null,
+      "stars": 3436,
+      "stars_24h": 3,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/nyldn/claude-octopus"
@@ -79,10 +79,10 @@
         "claude-code"
       ],
       "id": "harness",
-      "previous_stars": null,
+      "previous_stars": 3796,
       "repo": "revfactory/harness",
-      "stars": 3796,
-      "stars_24h": null,
+      "stars": 4009,
+      "stars_24h": 213,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/revfactory/harness"
@@ -93,10 +93,10 @@
         "claude-code"
       ],
       "id": "pg-aiguide",
-      "previous_stars": null,
+      "previous_stars": 1745,
       "repo": "timescale/pg-aiguide",
-      "stars": 1745,
-      "stars_24h": null,
+      "stars": 1749,
+      "stars_24h": 4,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/timescale/pg-aiguide"
@@ -109,10 +109,10 @@
         "copilot"
       ],
       "id": "claude-code-safety-net",
-      "previous_stars": null,
+      "previous_stars": 1365,
       "repo": "kenryu42/claude-code-safety-net",
-      "stars": 1365,
-      "stars_24h": null,
+      "stars": 1366,
+      "stars_24h": 1,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/kenryu42/claude-code-safety-net"
@@ -124,10 +124,10 @@
         "codex"
       ],
       "id": "memsearch",
-      "previous_stars": null,
+      "previous_stars": 1861,
       "repo": "zilliztech/memsearch",
-      "stars": 1861,
-      "stars_24h": null,
+      "stars": 1864,
+      "stars_24h": 3,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/zilliztech/memsearch"
@@ -139,10 +139,10 @@
         "codex"
       ],
       "id": "flow-next",
-      "previous_stars": null,
+      "previous_stars": 616,
       "repo": "gmickel/flow-next",
-      "stars": 616,
-      "stars_24h": null,
+      "stars": 617,
+      "stars_24h": 1,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/gmickel/flow-next"
@@ -153,10 +153,10 @@
         "codex"
       ],
       "id": "dotnet-artisan",
-      "previous_stars": null,
+      "previous_stars": 212,
       "repo": "novotnyllc/dotnet-artisan",
       "stars": 212,
-      "stars_24h": null,
+      "stars_24h": 0,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/novotnyllc/dotnet-artisan"
@@ -167,10 +167,10 @@
         "codex"
       ],
       "id": "higgsfield-skills",
-      "previous_stars": null,
+      "previous_stars": 323,
       "repo": "higgsfield-ai/skills",
-      "stars": 323,
-      "stars_24h": null,
+      "stars": 327,
+      "stars_24h": 4,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/higgsfield-ai/skills"
