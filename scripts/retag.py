@@ -14,7 +14,7 @@ from pathlib import Path
 from ruamel.yaml import YAML
 
 from scripts.discover import resolve_assistants
-from scripts.github_api import GitHubClient, RepoMissingError
+from scripts.github_api import GitHubClient, RateLimitError, RepoMissingError
 
 _yaml = YAML()
 _yaml.preserve_quotes = True
@@ -45,6 +45,12 @@ def retag_all(
         try:
             data = gh.fetch_repo(entry["repo"])
         except RepoMissingError:
+            continue
+        except RateLimitError:
+            # Either a real rate limit OR a 403 from SAML SSO orgs (e.g.
+            # microsoft/*). Skip this entry and continue — true rate limit
+            # will keep tripping but at least we don't abort with progress
+            # already made.
             continue
         if throttle:
             time.sleep(throttle)
