@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T12:17:06Z",
+  "generated_at": "2026-05-29T12:29:51Z",
   "plugins": [
     {
       "archived": false,
@@ -9,8 +9,8 @@
       "id": "superpowers",
       "previous_stars": 210841,
       "repo": "obra/superpowers",
-      "stars": 211890,
-      "stars_24h": 1049,
+      "stars": 211895,
+      "stars_24h": 1054,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/obra/superpowers"
@@ -39,8 +39,8 @@
       "id": "claude-mem",
       "previous_stars": 79367,
       "repo": "thedotmack/claude-mem",
-      "stars": 79526,
-      "stars_24h": 159,
+      "stars": 79528,
+      "stars_24h": 161,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/thedotmack/claude-mem"
@@ -48,13 +48,15 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex",
+        "cursor"
       ],
       "id": "alirezarezvani-claude-skills",
       "previous_stars": 16422,
       "repo": "alirezarezvani/claude-skills",
-      "stars": 16497,
-      "stars_24h": 75,
+      "stars": 16498,
+      "stars_24h": 76,
       "stars_7d": null,
       "status": "ok",
       "url": "https://github.com/alirezarezvani/claude-skills"
@@ -178,7 +180,7 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "copilot"
       ],
       "id": "hexstrike-ai",
       "previous_stars": null,
@@ -296,7 +298,7 @@
       "id": "claude-seo",
       "previous_stars": null,
       "repo": "AgriciDaniel/claude-seo",
-      "stars": 7280,
+      "stars": 7282,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -310,7 +312,7 @@
       "id": "free-claude-code",
       "previous_stars": null,
       "repo": "Alishahryar1/free-claude-code",
-      "stars": 30722,
+      "stars": 30725,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -394,7 +396,7 @@
       "id": "cherry-studio",
       "previous_stars": null,
       "repo": "CherryHQ/cherry-studio",
-      "stars": 46552,
+      "stars": 46551,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -436,7 +438,7 @@
       "id": "chrome-devtools-mcp",
       "previous_stars": null,
       "repo": "ChromeDevTools/chrome-devtools-mcp",
-      "stars": 42223,
+      "stars": 42224,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -478,7 +480,7 @@
       "id": "awesome-claude-skills",
       "previous_stars": null,
       "repo": "ComposioHQ/awesome-claude-skills",
-      "stars": 62380,
+      "stars": 62383,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -534,7 +536,7 @@
       "id": "scrapling",
       "previous_stars": null,
       "repo": "D4Vinci/Scrapling",
-      "stars": 54811,
+      "stars": 54817,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -562,7 +564,7 @@
       "id": "claude-code-game-studios",
       "previous_stars": null,
       "repo": "Donchitos/Claude-Code-Game-Studios",
-      "stars": 20345,
+      "stars": 20347,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -571,12 +573,14 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex",
+        "cursor"
       ],
       "id": "compound-engineering-plugin",
       "previous_stars": null,
       "repo": "EveryInc/compound-engineering-plugin",
-      "stars": 17955,
+      "stars": 17957,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -618,7 +622,7 @@
       "id": "cli-anything",
       "previous_stars": null,
       "repo": "HKUDS/CLI-Anything",
-      "stars": 41195,
+      "stars": 41198,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -632,7 +636,7 @@
       "id": "nanobot",
       "previous_stars": null,
       "repo": "HKUDS/nanobot",
-      "stars": 43359,
+      "stars": 43360,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -646,7 +650,7 @@
       "id": "academic-research-skills",
       "previous_stars": null,
       "repo": "Imbad0202/academic-research-skills",
-      "stars": 23698,
+      "stars": 23700,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -669,7 +673,9 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "copilot",
+        "cursor"
       ],
       "id": "unity-mcp",
       "previous_stars": null,
@@ -702,7 +708,7 @@
       "id": "claude-skills",
       "previous_stars": null,
       "repo": "Jeffallan/claude-skills",
-      "stars": 9477,
+      "stars": 9478,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -716,7 +722,7 @@
       "id": "baoyu-skills",
       "previous_stars": null,
       "repo": "JimLiu/baoyu-skills",
-      "stars": 19844,
+      "stars": 19845,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -744,7 +750,7 @@
       "id": "caveman",
       "previous_stars": null,
       "repo": "JuliusBrussee/caveman",
-      "stars": 66228,
+      "stars": 66232,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -754,6 +760,7 @@
       "archived": false,
       "assistants": [
         "claude-code",
+        "codex",
         "cursor"
       ],
       "id": "scientific-agent-skills",
@@ -815,7 +822,7 @@
       "id": "taste-skill",
       "previous_stars": null,
       "repo": "Leonxlnx/taste-skill",
-      "stars": 27469,
+      "stars": 27481,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -824,12 +831,15 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex",
+        "copilot",
+        "cursor"
       ],
       "id": "understand-anything",
       "previous_stars": null,
       "repo": "Lum1104/Understand-Anything",
-      "stars": 43884,
+      "stars": 43889,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -914,7 +924,7 @@
       "id": "semble",
       "previous_stars": null,
       "repo": "MinishLab/semble",
-      "stars": 4514,
+      "stars": 4516,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -923,7 +933,7 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "copilot"
       ],
       "id": "natively-cluely-ai-assistant",
       "previous_stars": null,
@@ -970,7 +980,7 @@
       "id": "hermes-agent",
       "previous_stars": null,
       "repo": "NousResearch/hermes-agent",
-      "stars": 172343,
+      "stars": 172361,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1007,7 +1017,8 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex"
       ],
       "id": "open-codesign",
       "previous_stars": null,
@@ -1026,7 +1037,7 @@
       "id": "nanoresearch",
       "previous_stars": null,
       "repo": "OpenRaiser/NanoResearch",
-      "stars": 1372,
+      "stars": 1373,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1035,12 +1046,13 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex"
       ],
       "id": "ai-research-skills",
       "previous_stars": null,
       "repo": "Orchestra-Research/AI-Research-SKILLs",
-      "stars": 9068,
+      "stars": 9069,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1054,7 +1066,7 @@
       "id": "planning-with-files",
       "previous_stars": null,
       "repo": "OthmanAdi/planning-with-files",
-      "stars": 22306,
+      "stars": 22307,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1068,7 +1080,7 @@
       "id": "agent-reach",
       "previous_stars": null,
       "repo": "Panniantong/Agent-Reach",
-      "stars": 20539,
+      "stars": 20540,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1119,7 +1131,8 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex"
       ],
       "id": "awesome-llm-skills",
       "previous_stars": null,
@@ -1161,7 +1174,7 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "codex"
       ],
       "id": "claude-codex-bridge",
       "previous_stars": null,
@@ -1194,7 +1207,7 @@
       "id": "claude-red",
       "previous_stars": null,
       "repo": "SnailSploit/Claude-Red",
-      "stars": 1519,
+      "stars": 1520,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1203,7 +1216,8 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex"
       ],
       "id": "zcf",
       "previous_stars": null,
@@ -1217,12 +1231,14 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex",
+        "cursor"
       ],
       "id": "awesome-agent-skills",
       "previous_stars": null,
       "repo": "VoltAgent/awesome-agent-skills",
-      "stars": 23503,
+      "stars": 23504,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1236,7 +1252,7 @@
       "id": "awesome-claude-code-subagents",
       "previous_stars": null,
       "repo": "VoltAgent/awesome-claude-code-subagents",
-      "stars": 20821,
+      "stars": 20822,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1320,7 +1336,7 @@
       "id": "oh-my-claudecode",
       "previous_stars": null,
       "repo": "Yeachan-Heo/oh-my-claudecode",
-      "stars": 35271,
+      "stars": 35272,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1329,7 +1345,8 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex"
       ],
       "id": "claudian",
       "previous_stars": null,
@@ -1348,7 +1365,7 @@
       "id": "nature-skills",
       "previous_stars": null,
       "repo": "Yuan1z0825/nature-skills",
-      "stars": 13671,
+      "stars": 13675,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1371,7 +1388,9 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex",
+        "cursor"
       ],
       "id": "seo-geo-claude-skills",
       "previous_stars": null,
@@ -1418,7 +1437,7 @@
       "id": "agent-skills",
       "previous_stars": null,
       "repo": "addyosmani/agent-skills",
-      "stars": 46805,
+      "stars": 46807,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1441,12 +1460,14 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex",
+        "cursor"
       ],
       "id": "ecc",
       "previous_stars": null,
       "repo": "affaan-m/ECC",
-      "stars": 198064,
+      "stars": 198077,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1488,7 +1509,7 @@
       "id": "claude-code",
       "previous_stars": null,
       "repo": "anthropics/claude-code",
-      "stars": 127599,
+      "stars": 127604,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1544,7 +1565,7 @@
       "id": "claude-plugins-official",
       "previous_stars": null,
       "repo": "anthropics/claude-plugins-official",
-      "stars": 28538,
+      "stars": 28539,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1558,7 +1579,7 @@
       "id": "financial-services",
       "previous_stars": null,
       "repo": "anthropics/financial-services",
-      "stars": 28616,
+      "stars": 28617,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1572,7 +1593,7 @@
       "id": "financial-services-plugins",
       "previous_stars": null,
       "repo": "anthropics/financial-services",
-      "stars": 28616,
+      "stars": 28617,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1586,7 +1607,7 @@
       "id": "knowledge-work-plugins",
       "previous_stars": null,
       "repo": "anthropics/knowledge-work-plugins",
-      "stars": 17952,
+      "stars": 17954,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1600,7 +1621,7 @@
       "id": "anthropics-skills",
       "previous_stars": null,
       "repo": "anthropics/skills",
-      "stars": 143354,
+      "stars": 143358,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1614,7 +1635,7 @@
       "id": "terraform-skill",
       "previous_stars": null,
       "repo": "antonbabenko/terraform-skill",
-      "stars": 1936,
+      "stars": 1937,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1665,7 +1686,7 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code",
+        "codex",
         "copilot"
       ],
       "id": "system-prompts-leaks",
@@ -1685,7 +1706,7 @@
       "id": "gpt-researcher",
       "previous_stars": null,
       "repo": "assafelovic/gpt-researcher",
-      "stars": 27377,
+      "stars": 27378,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1741,7 +1762,7 @@
       "id": "plannotator",
       "previous_stars": null,
       "repo": "backnotprop/plannotator",
-      "stars": 5701,
+      "stars": 5700,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1783,7 +1804,7 @@
       "id": "bmad-method",
       "previous_stars": null,
       "repo": "bmad-code-org/BMAD-METHOD",
-      "stars": 48256,
+      "stars": 48257,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1825,7 +1846,7 @@
       "id": "quantdinger",
       "previous_stars": null,
       "repo": "brokermr810/QuantDinger",
-      "stars": 6895,
+      "stars": 6898,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1839,7 +1860,7 @@
       "id": "browser-act-skills",
       "previous_stars": null,
       "repo": "browser-act/skills",
-      "stars": 1506,
+      "stars": 1507,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -1877,6 +1898,7 @@
       "archived": false,
       "assistants": [
         "claude-code",
+        "codex",
         "cursor"
       ],
       "id": "ai-setup",
@@ -1905,7 +1927,7 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "codex"
       ],
       "id": "claude-code-workflow",
       "previous_stars": null,
@@ -1947,7 +1969,7 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "cursor"
       ],
       "id": "unreal-mcp",
       "previous_stars": null,
@@ -1976,6 +1998,7 @@
       "archived": false,
       "assistants": [
         "claude-code",
+        "codex",
         "cursor"
       ],
       "id": "agent-rules-books",
@@ -2009,7 +2032,7 @@
       "id": "claude-code-best-claude-code",
       "previous_stars": null,
       "repo": "claude-code-best/claude-code",
-      "stars": 19144,
+      "stars": 19145,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -2023,7 +2046,7 @@
       "id": "oh-my-openagent",
       "previous_stars": null,
       "repo": "code-yeongyu/oh-my-openagent",
-      "stars": 60079,
+      "stars": 60081,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -2051,7 +2074,7 @@
       "id": "deepeval",
       "previous_stars": null,
       "repo": "confident-ai/deepeval",
-      "stars": 15787,
+      "stars": 15788,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -2116,12 +2139,13 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "cursor"
       ],
       "id": "n8n-mcp",
       "previous_stars": null,
       "repo": "czlonkowski/n8n-mcp",
-      "stars": 21345,
+      "stars": 21346,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -2186,7 +2210,8 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex"
       ],
       "id": "product-manager-skills",
       "previous_stars": null,
@@ -2201,12 +2226,14 @@
       "archived": false,
       "assistants": [
         "claude-code",
+        "codex",
+        "copilot",
         "cursor"
       ],
       "id": "9router",
       "previous_stars": null,
       "repo": "decolua/9router",
-      "stars": 14982,
+      "stars": 14983,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -2220,7 +2247,7 @@
       "id": "ddgs",
       "previous_stars": null,
       "repo": "deedy5/ddgs",
-      "stars": 2681,
+      "stars": 2682,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -2230,12 +2257,14 @@
       "archived": false,
       "assistants": [
         "claude-code",
+        "codex",
+        "copilot",
         "cursor"
       ],
       "id": "omniroute",
       "previous_stars": null,
       "repo": "diegosouzapw/OmniRoute",
-      "stars": 5494,
+      "stars": 5495,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -2258,7 +2287,8 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex"
       ],
       "id": "claude-code-hub",
       "previous_stars": null,
@@ -2426,12 +2456,13 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex"
       ],
       "id": "cc-switch",
       "previous_stars": null,
       "repo": "farion1231/cc-switch",
-      "stars": 84393,
+      "stars": 84408,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -2454,7 +2485,7 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "codex"
       ],
       "id": "ccg-workflow",
       "previous_stars": null,
@@ -2468,7 +2499,7 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "cursor"
       ],
       "id": "firecrawl-mcp-server",
       "previous_stars": null,
@@ -2529,7 +2560,7 @@
       "id": "andrej-karpathy-skills",
       "previous_stars": null,
       "repo": "multica-ai/andrej-karpathy-skills",
-      "stars": 161166,
+      "stars": 161175,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -2608,7 +2639,9 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex",
+        "cursor"
       ],
       "id": "codeburn",
       "previous_stars": null,
@@ -2711,7 +2744,7 @@
       "id": "gemini-cli",
       "previous_stars": null,
       "repo": "google-gemini/gemini-cli",
-      "stars": 104705,
+      "stars": 104706,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -2781,7 +2814,7 @@
       "id": "awesome-claude-code",
       "previous_stars": null,
       "repo": "hesreallyhim/awesome-claude-code",
-      "stars": 45130,
+      "stars": 45132,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -2795,7 +2828,7 @@
       "id": "hyperframes",
       "previous_stars": null,
       "repo": "heygen-com/hyperframes",
-      "stars": 22156,
+      "stars": 22159,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -2851,7 +2884,7 @@
       "id": "ppt-master",
       "previous_stars": null,
       "repo": "hugohe3/ppt-master",
-      "stars": 22348,
+      "stars": 22351,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -2865,7 +2898,7 @@
       "id": "humanlayer",
       "previous_stars": null,
       "repo": "humanlayer/humanlayer",
-      "stars": 10912,
+      "stars": 10911,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -2874,12 +2907,13 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex"
       ],
       "id": "aionui",
       "previous_stars": null,
       "repo": "iOfficeAI/AionUi",
-      "stars": 27112,
+      "stars": 27113,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -2935,7 +2969,7 @@
       "id": "claude-hud",
       "previous_stars": null,
       "repo": "jarrodwatts/claude-hud",
-      "stars": 24030,
+      "stars": 24033,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -2949,7 +2983,7 @@
       "id": "jeecgboot",
       "previous_stars": null,
       "repo": "jeecgboot/JeecgBoot",
-      "stars": 46510,
+      "stars": 46509,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -2973,12 +3007,13 @@
       "archived": false,
       "assistants": [
         "claude-code",
+        "copilot",
         "cursor"
       ],
       "id": "agency-agents-zh",
       "previous_stars": null,
       "repo": "jnMetaCode/agency-agents-zh",
-      "stars": 13272,
+      "stars": 13273,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -3048,7 +3083,7 @@
       "id": "openmythos",
       "previous_stars": null,
       "repo": "kyegomez/OpenMythos",
-      "stars": 13441,
+      "stars": 13442,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -3188,7 +3223,7 @@
       "id": "claude-howto",
       "previous_stars": null,
       "repo": "luongnv89/claude-howto",
-      "stars": 34505,
+      "stars": 34506,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -3216,7 +3251,7 @@
       "id": "cmux",
       "previous_stars": null,
       "repo": "manaflow-ai/cmux",
-      "stars": 20244,
+      "stars": 20246,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -3267,7 +3302,8 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex"
       ],
       "id": "pilot-shell",
       "previous_stars": null,
@@ -3356,7 +3392,7 @@
       "id": "mcp-for-beginners",
       "previous_stars": null,
       "repo": "microsoft/mcp-for-beginners",
-      "stars": 16222,
+      "stars": 16221,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -3482,7 +3518,7 @@
       "id": "funasr",
       "previous_stars": null,
       "repo": "modelscope/FunASR",
-      "stars": 16546,
+      "stars": 16547,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -3507,12 +3543,13 @@
       "assistants": [
         "claude-code",
         "codex",
-        "copilot"
+        "copilot",
+        "cursor"
       ],
       "id": "anthropic-cybersecurity-skills",
       "previous_stars": null,
       "repo": "mukul975/Anthropic-Cybersecurity-Skills",
-      "stars": 11820,
+      "stars": 11821,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -3526,7 +3563,7 @@
       "id": "multica-ai-andrej-karpathy-skills",
       "previous_stars": null,
       "repo": "multica-ai/andrej-karpathy-skills",
-      "stars": 161167,
+      "stars": 161175,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -3582,7 +3619,7 @@
       "id": "n8n",
       "previous_stars": null,
       "repo": "n8n-io/n8n",
-      "stars": 190190,
+      "stars": 190193,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -3610,7 +3647,7 @@
       "id": "ui-ux-pro-max-skill",
       "previous_stars": null,
       "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "stars": 84537,
+      "stars": 84541,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -3620,6 +3657,8 @@
       "archived": false,
       "assistants": [
         "claude-code",
+        "codex",
+        "copilot",
         "cursor"
       ],
       "id": "html-anything",
@@ -3802,12 +3841,13 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex"
       ],
       "id": "codex-plugin-cc",
       "previous_stars": null,
       "repo": "openai/codex-plugin-cc",
-      "stars": 19903,
+      "stars": 19905,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -3877,7 +3917,7 @@
       "id": "continuous-claude-v3",
       "previous_stars": null,
       "repo": "parcadei/Continuous-Claude-v3",
-      "stars": 3792,
+      "stars": 3793,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -3905,7 +3945,7 @@
       "id": "impeccable",
       "previous_stars": null,
       "repo": "pbakaus/impeccable",
-      "stars": 31203,
+      "stars": 31209,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -4101,7 +4141,7 @@
       "id": "agentmemory",
       "previous_stars": null,
       "repo": "rohitg00/agentmemory",
-      "stars": 19503,
+      "stars": 19505,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -4152,12 +4192,13 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex"
       ],
       "id": "cliproxyapi",
       "previous_stars": null,
       "repo": "router-for-me/CLIProxyAPI",
-      "stars": 35354,
+      "stars": 35355,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -4185,7 +4226,7 @@
       "id": "rtk",
       "previous_stars": null,
       "repo": "rtk-ai/rtk",
-      "stars": 56035,
+      "stars": 56036,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -4213,7 +4254,7 @@
       "id": "ruview",
       "previous_stars": null,
       "repo": "ruvnet/RuView",
-      "stars": 67840,
+      "stars": 67849,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -4222,12 +4263,13 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex"
       ],
       "id": "ruflo",
       "previous_stars": null,
       "repo": "ruvnet/ruflo",
-      "stars": 56277,
+      "stars": 56279,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -4237,12 +4279,13 @@
       "archived": false,
       "assistants": [
         "claude-code",
+        "codex",
         "cursor"
       ],
       "id": "graphify",
       "previous_stars": null,
       "repo": "safishamsi/graphify",
-      "stars": 55907,
+      "stars": 55916,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -4298,7 +4341,7 @@
       "id": "career-ops",
       "previous_stars": null,
       "repo": "santifer/career-ops",
-      "stars": 47758,
+      "stars": 47760,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -4312,7 +4355,7 @@
       "id": "claude-code-best-practice",
       "previous_stars": null,
       "repo": "shanraisshan/claude-code-best-practice",
-      "stars": 55443,
+      "stars": 55445,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -4326,7 +4369,7 @@
       "id": "learn-claude-code",
       "previous_stars": null,
       "repo": "shareAI-lab/learn-claude-code",
-      "stars": 63505,
+      "stars": 63507,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -4336,12 +4379,13 @@
       "archived": false,
       "assistants": [
         "claude-code",
-        "codex"
+        "codex",
+        "cursor"
       ],
       "id": "antigravity-awesome-skills",
       "previous_stars": null,
       "repo": "sickn33/antigravity-awesome-skills",
-      "stars": 39080,
+      "stars": 39081,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -4378,12 +4422,14 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex",
+        "cursor"
       ],
       "id": "claudecodeui",
       "previous_stars": null,
       "repo": "siteboon/claudecodeui",
-      "stars": 11464,
+      "stars": 11465,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -4462,7 +4508,8 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex"
       ],
       "id": "happy",
       "previous_stars": null,
@@ -4476,7 +4523,8 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex"
       ],
       "id": "claude-squad",
       "previous_stars": null,
@@ -4524,7 +4572,7 @@
       "id": "codexbar",
       "previous_stars": null,
       "repo": "steipete/CodexBar",
-      "stars": 13804,
+      "stars": 13806,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -4575,12 +4623,13 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex"
       ],
       "id": "superset",
       "previous_stars": null,
       "repo": "superset-sh/superset",
-      "stars": 11413,
+      "stars": 11415,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -4594,7 +4643,7 @@
       "id": "fastapi-mcp",
       "previous_stars": null,
       "repo": "tadata-org/fastapi_mcp",
-      "stars": 11886,
+      "stars": 11885,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -4659,7 +4708,8 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex"
       ],
       "id": "notebooklm-py",
       "previous_stars": null,
@@ -4790,7 +4840,7 @@
       "id": "context7",
       "previous_stars": null,
       "repo": "upstash/context7",
-      "stars": 56357,
+      "stars": 56358,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -4818,7 +4868,7 @@
       "id": "agent-browser",
       "previous_stars": null,
       "repo": "vercel-labs/agent-browser",
-      "stars": 34657,
+      "stars": 34658,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -4832,7 +4882,7 @@
       "id": "next-js",
       "previous_stars": null,
       "repo": "vercel/next.js",
-      "stars": 139596,
+      "stars": 139597,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -4841,12 +4891,13 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex"
       ],
       "id": "auto-claude-code-research-in-sleep",
       "previous_stars": null,
       "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
-      "stars": 10975,
+      "stars": 10976,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -4902,7 +4953,7 @@
       "id": "desktopcommandermcp",
       "previous_stars": null,
       "repo": "wonderwhy-er/DesktopCommanderMCP",
-      "stars": 6085,
+      "stars": 6086,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -4932,7 +4983,7 @@
       "id": "agents",
       "previous_stars": null,
       "repo": "wshobson/agents",
-      "stars": 36114,
+      "stars": 36115,
       "stars_24h": null,
       "stars_7d": null,
       "status": "ok",
@@ -5053,7 +5104,10 @@
     {
       "archived": false,
       "assistants": [
-        "claude-code"
+        "claude-code",
+        "codex",
+        "copilot",
+        "cursor"
       ],
       "id": "lean-ctx",
       "previous_stars": null,
