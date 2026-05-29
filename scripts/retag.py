@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import os
 import sys
+import time
 from pathlib import Path
 
 from ruamel.yaml import YAML
@@ -19,24 +20,41 @@ _yaml = YAML()
 _yaml.preserve_quotes = True
 _yaml.indent(mapping=2, sequence=4, offset=2)
 
+# Sleep between successive GitHub requests to stay under the secondary
+# (abuse-detection) rate limit. 0.2s ≈ 5 req/s ≈ 18k/hr — well below the
+# 5000/hr primary budget but slow enough that the secondary detector stays
+# quiet.
+_THROTTLE_SECONDS = 0.2
 
-def retag_all(yaml_path: Path, gh: GitHubClient) -> int:
+# Write a checkpoint to disk every N processed entries so a mid-loop crash
+# (network blip, rate-limit hit on the next call) preserves the work done.
+_CHECKPOINT_EVERY = 50
+
+
+def retag_all(
+    yaml_path: Path, gh: GitHubClient, throttle: float = _THROTTLE_SECONDS,
+) -> int:
     """Re-evaluate assistants for every entry in plugins.yaml.
 
-    Returns the number of entries updated. Does not write the file if
-    nothing changed. Uses no source hints (hint history isn't persisted)."""
+    Returns the number of entries updated. Throttles between API calls and
+    checkpoints progress every N entries so a partial run preserves work."""
     with yaml_path.open("r", encoding="utf-8") as f:
         doc = _yaml.load(f)
     changed = 0
-    for entry in doc["plugins"]:
+    for idx, entry in enumerate(doc["plugins"]):
         try:
             data = gh.fetch_repo(entry["repo"])
         except RepoMissingError:
             continue
+        if throttle:
+            time.sleep(throttle)
         new = sorted(resolve_assistants(data, set(), readme=None))
         if new and list(entry["assistants"]) != new:
             entry["assistants"] = new
             changed += 1
+        if changed and (idx + 1) % _CHECKPOINT_EVERY == 0:
+            with yaml_path.open("w", encoding="utf-8") as f:
+                _yaml.dump(doc, f)
     if changed:
         with yaml_path.open("w", encoding="utf-8") as f:
             _yaml.dump(doc, f)
