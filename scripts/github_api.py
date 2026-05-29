@@ -24,6 +24,7 @@ class RepoData:
     open_issues: int
     archived: bool
     pushed_at: str
+    description: str = ""
 
 
 class GitHubClient:
@@ -62,6 +63,7 @@ class GitHubClient:
             open_issues=body["open_issues_count"],
             archived=body["archived"],
             pushed_at=body["pushed_at"],
+            description=body.get("description") or "",
         )
 
     def fetch_readme(self, repo: str) -> str | None:
