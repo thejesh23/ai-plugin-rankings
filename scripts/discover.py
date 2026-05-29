@@ -23,7 +23,6 @@ from scripts.models import PluginEntry
 from scripts.plugins_yaml import load_registry
 from scripts.sources.awesome_list import AwesomeListSource
 from scripts.sources.base import Source
-from scripts.sources.claude_marketplaces import ClaudeMarketplacesSource
 from scripts.sources.codex_marketplace import CodexMarketplaceSource
 from scripts.sources.github_code_search import GithubCodeSearchSource
 from scripts.sources.github_topic_search import GithubTopicSearchSource
@@ -188,7 +187,9 @@ def main() -> None:
         GithubCodeSearchSource(token=token),
         GithubTopicSearchSource(token=token),
         AwesomeListSource(token=token),
-        ClaudeMarketplacesSource(),
+        # claudemarketplaces.com removed 2026-05-29 — they switched to fully
+        # dynamic SSR (no __NEXT_DATA__ in homepage HTML, no buildId to
+        # scrape). Would need a headless browser to ingest.
         CodexMarketplaceSource(),
     ]
     try:
