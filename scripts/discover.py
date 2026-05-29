@@ -33,6 +33,48 @@ log = logging.getLogger(__name__)
 STAR_THRESHOLD = 1000
 KNOWN_ASSISTANTS = {"claude-code", "cursor", "copilot", "codex"}
 
+# The 12 entries added manually before the first discovery run on 2026-05-29.
+# These are immune from the purge flow regardless of whether their description
+# would pass is_plugin_signal (e.g. obra/superpowers has no assistant marker
+# in its description but is unambiguously a Claude Code plugin).
+MANUAL_SEED_IDS: frozenset[str] = frozenset({
+    "superpowers", "openai-plugins", "claude-mem",
+    "alirezarezvani-claude-skills", "claude-octopus", "harness",
+    "pg-aiguide", "claude-code-safety-net", "memsearch", "flow-next",
+    "dotnet-artisan", "higgsfield-skills",
+})
+
+# Words in repo names / descriptions that suggest the repo IS a plugin/skill/
+# extension of some kind.
+_PLUGIN_NAME_TOKENS = ("plugin", "skill", "extension", "rules", "mcp", "agent")
+_PLUGIN_DESC_TOKENS = ("plugin", "skill", "extension", "framework", "rules")
+_AGENT_TOKENS = ("agentic", "agent ", "agents ")
+_ASSISTANT_MARKERS = ("claude", "cursor", "copilot", "codex")
+
+
+def is_plugin_signal(repo_name: str, description: str, source: str) -> bool:
+    """Return True if the candidate looks like an actual assistant plugin.
+
+    Used by the discovery orchestrator (skip non-plugins) and by purge.py
+    (flag existing entries for human review). Passes on ANY of:
+      - source is `github_code_search` (manifest filename match — unambiguous)
+      - repo name contains plugin/skill/extension/rules/mcp/agent
+      - description contains a plugin word AND an assistant marker
+      - description contains an "agent(ic)" word AND a plugin word
+    """
+    if source == "github_code_search":
+        return True
+    name_lower = repo_name.lower()
+    if any(tok in name_lower for tok in _PLUGIN_NAME_TOKENS):
+        return True
+    desc_lower = description.lower()
+    has_plugin_word = any(tok in desc_lower for tok in _PLUGIN_DESC_TOKENS)
+    has_assistant = any(tok in desc_lower for tok in _ASSISTANT_MARKERS)
+    if has_plugin_word and has_assistant:
+        return True
+    has_agent_word = any(tok in desc_lower for tok in _AGENT_TOKENS)
+    return bool(has_agent_word and has_plugin_word)
+
 
 # Phrases that suggest a real plugin context (list intros AND product-type
 # nouns). Includes "extension/editor/ide/rules" so Cursor descriptions like
@@ -131,6 +173,16 @@ def run_discover(
         except RepoMissingError:
             continue
         if data.stars < STAR_THRESHOLD or data.archived:
+            continue
+        # Plugin-quality filter: pass if ANY source/name/description signal
+        # indicates this is a real plugin (not just a popular AI tool that
+        # happens to be linked from an awesome-* list).
+        sources_for_repo = sources_by_repo[repo]
+        if not any(
+            is_plugin_signal(repo.split("/")[-1], data.description, s)
+            for s in sources_for_repo
+        ):
+            log.warning("non-plugin signal for %s; skipping", repo)
             continue
         # Resolve from hints + description only; skipping fetch_readme halves
         # API calls per candidate and keeps us inside the 5000/hr budget when
