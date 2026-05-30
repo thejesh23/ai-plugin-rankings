@@ -53,12 +53,27 @@ def run_daily(
     missing_ids: set[str] = set()
     repo_data_by_id: dict[str, RepoData] = {}
 
+    # Track which canonical repo each id ends up at; if a 301 redirect points
+    # two different plugin entries at the same canonical repo, keep the first
+    # one we saw and mark the later one as a redirect-duplicate.
+    canonical_to_id: dict[str, str] = {}
+    redirect_dup_ids: set[str] = set()
+
     for p in registry.plugins:
         try:
             data = gh.fetch_repo(p.repo)
         except RepoMissingError:
             missing_ids.add(p.id)
             continue
+        canonical = data.repo.lower()
+        if canonical in canonical_to_id:
+            log.info(
+                "redirect-dup: %s -> %s (already tracked as %s)",
+                p.repo, data.repo, canonical_to_id[canonical],
+            )
+            redirect_dup_ids.add(p.id)
+            continue
+        canonical_to_id[canonical] = p.id
         repo_data_by_id[p.id] = data
         rows.append(SnapshotRow(
             id=p.id, repo=data.repo, stars=data.stars, forks=data.forks,
@@ -76,6 +91,9 @@ def run_daily(
 
     plugins_out: list[LatestPlugin] = []
     for p in registry.plugins:
+        if p.id in redirect_dup_ids:
+            # Skip silently — the canonical entry is already in plugins_out.
+            continue
         if p.id in missing_ids:
             plugins_out.append(LatestPlugin(
                 id=p.id, repo=p.repo, assistants=p.assistants,
