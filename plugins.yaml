@@ -854,3 +854,8 @@ plugins:
     assistants:
       - claude-code
     added: '2026-05-29'
+  - id: mcp-brasil
+    repo: Mcp-Brasil/mcp-brasil
+    assistants:
+      - claude-code
+    added: '2026-05-31'
