@@ -859,3 +859,26 @@ plugins:
     assistants:
       - claude-code
     added: '2026-05-31'
+  - id: agentwrapper-agent-orchestrator
+    repo: AgentWrapper/agent-orchestrator
+    assistants:
+      - claude-code
+    added: '2026-06-07'
+  - id: skill
+    repo: anbeime/skill
+    assistants:
+      - claude-code
+    added: '2026-06-07'
+  - id: gsap-skills
+    repo: greensock/gsap-skills
+    assistants:
+      - claude-code
+    added: '2026-06-07'
+  - id: open-design
+    repo: nexu-io/open-design
+    assistants:
+      - claude-code
+      - codex
+      - copilot
+      - cursor
+    added: '2026-06-07'
