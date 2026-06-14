@@ -882,3 +882,9 @@ plugins:
       - copilot
       - cursor
     added: '2026-06-07'
+  - id: generative-media-skills
+    repo: SamurAIGPT/Generative-Media-Skills
+    assistants:
+      - claude-code
+      - cursor
+    added: '2026-06-14'
