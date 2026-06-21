@@ -888,3 +888,10 @@ plugins:
       - claude-code
       - cursor
     added: '2026-06-14'
+  - id: pm-claude-skills
+    repo: mohitagw15856/pm-claude-skills
+    assistants:
+      - claude-code
+      - codex
+      - cursor
+    added: '2026-06-21'
