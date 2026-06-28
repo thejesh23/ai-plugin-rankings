@@ -895,3 +895,31 @@ plugins:
       - codex
       - cursor
     added: '2026-06-21'
+  - id: claude-code-ultimate-guide
+    repo: FlorianBruniaux/claude-code-ultimate-guide
+    assistants:
+      - claude-code
+    added: '2026-06-28'
+  - id: aaron-marketing-skills
+    repo: aaron-he-zhu/aaron-marketing-skills
+    assistants:
+      - claude-code
+    added: '2026-06-28'
+  - id: cursor-talk-to-figma-mcp
+    repo: grab/cursor-talk-to-figma-mcp
+    assistants:
+      - claude-code
+      - codex
+      - cursor
+    added: '2026-06-28'
+  - id: jcodemunch-mcp
+    repo: jgravelle/jcodemunch-mcp
+    assistants:
+      - claude-code
+      - cursor
+    added: '2026-06-28'
+  - id: js-reverse-mcp
+    repo: zhizhuodemao/js-reverse-mcp
+    assistants:
+      - claude-code
+    added: '2026-06-28'
