@@ -923,3 +923,71 @@ plugins:
     assistants:
       - claude-code
     added: '2026-06-28'
+  - id: graphify-labs-graphify
+    repo: Graphify-Labs/graphify
+    assistants:
+      - claude-code
+      - codex
+      - cursor
+    added: '2026-07-05'
+  - id: memu
+    repo: NevaMind-AI/memU
+    assistants:
+      - claude-code
+    added: '2026-07-05'
+  - id: models-dev
+    repo: anomalyco/models.dev
+    assistants:
+      - codex
+    added: '2026-07-05'
+  - id: tutor-skills
+    repo: bevibing/tutor-skills
+    assistants:
+      - claude-code
+    added: '2026-07-05'
+  - id: humanizer
+    repo: blader/humanizer
+    assistants:
+      - claude-code
+    added: '2026-07-05'
+  - id: evolution-api
+    repo: evolution-foundation/evolution-api
+    assistants:
+      - cursor
+    added: '2026-07-05'
+  - id: awesome-copilot
+    repo: github/awesome-copilot
+    assistants:
+      - copilot
+    added: '2026-07-05'
+  - id: mise
+    repo: jdx/mise
+    assistants:
+      - codex
+    added: '2026-07-05'
+  - id: aspire
+    repo: microsoft/aspire
+    assistants:
+      - copilot
+    added: '2026-07-05'
+  - id: passport
+    repo: passportxyz/passport
+    assistants:
+      - cursor
+    added: '2026-07-05'
+  - id: penpot
+    repo: penpot/penpot
+    assistants:
+      - codex
+    added: '2026-07-05'
+  - id: qbittorrent-nox-static
+    repo: userdocs/qbittorrent-nox-static
+    assistants:
+      - cursor
+    added: '2026-07-05'
+  - id: ai-berkshire
+    repo: xbtlin/ai-berkshire
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-07-05'
