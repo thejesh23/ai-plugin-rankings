@@ -6,26 +6,26 @@
 
 | Rank | Plugin | Description | Assistants | Stars | 24h | 7d | Category |
 |---:|---|---|---|---:|---:|---:|---|
-| 1 | [open-design](https://github.com/nexu-io/open-design) | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent become… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 75,702 | +385 | +2,653 | — |
-| 2 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses… | Claude Code, Codex CLI, GitHub Copilot | 86,212 | +171 | +1,102 | — |
-| 3 | [anthropic-cybersecurity-skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 24,806 | +141 | +1,609 | — |
-| 4 | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 🎭 266 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 5… | Claude Code, GitHub Copilot, Cursor | 16,770 | +83 | +756 | — |
-| 5 | [awesome-copilot](https://github.com/github/awesome-copilot) | Community-contributed instructions, agents, skills, and configurations to help you make the most of… | GitHub Copilot | 36,256 | +50 | — | — |
-| 6 | [html-anything](https://github.com/nexu-io/html-anything) | ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfac… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 7,578 | +30 | +185 | — |
-| 7 | [unity-mcp](https://github.com/IvanMurzak/Unity-MCP) | AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick set… | Claude Code, GitHub Copilot, Cursor | 3,460 | +9 | +77 | — |
-| 8 | [claude-code-safety-net](https://github.com/kenryu42/cc-safety-net) | A coding agent CLI hook that acts as a safety net, catching destructive git and filesystem commands… | Claude Code, Codex CLI, GitHub Copilot | 1,438 | +4 | +17 | — |
-| 9 | [aspire](https://github.com/microsoft/aspire) | Aspire is the tool for code-first, extensible, observable dev and deploy. | GitHub Copilot | 6,151 | +2 | — | — |
+| 1 | [open-design](https://github.com/nexu-io/open-design) | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent become… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 76,070 | +368 | +2,538 | — |
+| 2 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses… | Claude Code, Codex CLI, GitHub Copilot | 86,364 | +152 | +1,085 | — |
+| 3 | [anthropic-cybersecurity-skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 24,889 | +83 | +1,331 | — |
+| 4 | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 🎭 266 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 5… | Claude Code, GitHub Copilot, Cursor | 16,829 | +59 | +643 | — |
+| 5 | [awesome-copilot](https://github.com/github/awesome-copilot) | Community-contributed instructions, agents, skills, and configurations to help you make the most of… | GitHub Copilot | 36,305 | +49 | — | — |
+| 6 | [html-anything](https://github.com/nexu-io/html-anything) | ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfac… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 7,607 | +29 | +166 | — |
+| 7 | [unity-mcp](https://github.com/IvanMurzak/Unity-MCP) | AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick set… | Claude Code, GitHub Copilot, Cursor | 3,474 | +14 | +73 | — |
+| 8 | [aspire](https://github.com/microsoft/aspire) | Aspire is the tool for code-first, extensible, observable dev and deploy. | GitHub Copilot | 6,152 | +1 | — | — |
+| 9 | [claude-code-safety-net](https://github.com/kenryu42/cc-safety-net) | A coding agent CLI hook that acts as a safety net, catching destructive git and filesystem commands… | Claude Code, Codex CLI, GitHub Copilot | 1,439 | +1 | +16 | — |
 
 ## All-time (stars)
 
 | Rank | Plugin | Description | Assistants | Stars | 24h | 7d | Category |
 |---:|---|---|---|---:|---:|---:|---|
-| 1 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses… | Claude Code, Codex CLI, GitHub Copilot | 86,212 | +171 | +1,102 | — |
-| 2 | [open-design](https://github.com/nexu-io/open-design) | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent become… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 75,702 | +385 | +2,653 | — |
-| 3 | [awesome-copilot](https://github.com/github/awesome-copilot) | Community-contributed instructions, agents, skills, and configurations to help you make the most of… | GitHub Copilot | 36,256 | +50 | — | — |
-| 4 | [anthropic-cybersecurity-skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 24,806 | +141 | +1,609 | — |
-| 5 | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 🎭 266 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 5… | Claude Code, GitHub Copilot, Cursor | 16,770 | +83 | +756 | — |
-| 6 | [html-anything](https://github.com/nexu-io/html-anything) | ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfac… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 7,578 | +30 | +185 | — |
-| 7 | [aspire](https://github.com/microsoft/aspire) | Aspire is the tool for code-first, extensible, observable dev and deploy. | GitHub Copilot | 6,151 | +2 | — | — |
-| 8 | [unity-mcp](https://github.com/IvanMurzak/Unity-MCP) | AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick set… | Claude Code, GitHub Copilot, Cursor | 3,460 | +9 | +77 | — |
-| 9 | [claude-code-safety-net](https://github.com/kenryu42/cc-safety-net) | A coding agent CLI hook that acts as a safety net, catching destructive git and filesystem commands… | Claude Code, Codex CLI, GitHub Copilot | 1,438 | +4 | +17 | — |
+| 1 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses… | Claude Code, Codex CLI, GitHub Copilot | 86,364 | +152 | +1,085 | — |
+| 2 | [open-design](https://github.com/nexu-io/open-design) | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent become… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 76,070 | +368 | +2,538 | — |
+| 3 | [awesome-copilot](https://github.com/github/awesome-copilot) | Community-contributed instructions, agents, skills, and configurations to help you make the most of… | GitHub Copilot | 36,305 | +49 | — | — |
+| 4 | [anthropic-cybersecurity-skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 24,889 | +83 | +1,331 | — |
+| 5 | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 🎭 266 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 5… | Claude Code, GitHub Copilot, Cursor | 16,829 | +59 | +643 | — |
+| 6 | [html-anything](https://github.com/nexu-io/html-anything) | ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfac… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 7,607 | +29 | +166 | — |
+| 7 | [aspire](https://github.com/microsoft/aspire) | Aspire is the tool for code-first, extensible, observable dev and deploy. | GitHub Copilot | 6,152 | +1 | — | — |
+| 8 | [unity-mcp](https://github.com/IvanMurzak/Unity-MCP) | AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick set… | Claude Code, GitHub Copilot, Cursor | 3,474 | +14 | +73 | — |
+| 9 | [claude-code-safety-net](https://github.com/kenryu42/cc-safety-net) | A coding agent CLI hook that acts as a safety net, catching destructive git and filesystem commands… | Claude Code, Codex CLI, GitHub Copilot | 1,439 | +1 | +16 | — |
