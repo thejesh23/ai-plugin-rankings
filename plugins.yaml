@@ -991,3 +991,58 @@ plugins:
       - claude-code
       - codex
     added: '2026-07-05'
+  - id: ai-job-search
+    repo: MadsLorentzen/ai-job-search
+    assistants:
+      - claude-code
+    added: '2026-07-12'
+  - id: semble
+    repo: MinishLab/semble
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-07-12'
+  - id: cloudbase-mcp
+    repo: TencentCloudBase/CloudBase-MCP
+    assistants:
+      - codex
+    added: '2026-07-12'
+  - id: terraform-provider-proxmox
+    repo: bpg/terraform-provider-proxmox
+    assistants:
+      - cursor
+    added: '2026-07-12'
+  - id: composio-community-awesome-claude-plugins
+    repo: composio-community/awesome-claude-plugins
+    assistants:
+      - claude-code
+    added: '2026-07-12'
+  - id: laravel-zap
+    repo: ludoguenet/laravel-zap
+    assistants:
+      - cursor
+    added: '2026-07-12'
+  - id: omnigent
+    repo: omnigent-ai/omnigent
+    assistants:
+      - claude-code
+      - codex
+      - cursor
+    added: '2026-07-12'
+  - id: agentic-awesome-skills
+    repo: sickn33/agentic-awesome-skills
+    assistants:
+      - claude-code
+      - codex
+      - cursor
+    added: '2026-07-12'
+  - id: claude-code-everything-you-need-to-know
+    repo: wesammustafa/Claude-Code-Everything-You-Need-to-Know
+    assistants:
+      - claude-code
+    added: '2026-07-12'
+  - id: everything-claude-code-zh
+    repo: xu-xiang/everything-claude-code-zh
+    assistants:
+      - claude-code
+    added: '2026-07-12'
