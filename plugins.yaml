@@ -1046,3 +1046,36 @@ plugins:
     assistants:
       - claude-code
     added: '2026-07-12'
+  - id: claude-code-settings
+    repo: feiskyer/claude-code-settings
+    assistants:
+      - claude-code
+    added: '2026-07-19'
+  - id: goose-skills
+    repo: gooseworks-ai/goose-skills
+    assistants:
+      - claude-code
+      - codex
+      - cursor
+    added: '2026-07-19'
+  - id: claude-video-vision
+    repo: jordanrendric/claude-video-vision
+    assistants:
+      - claude-code
+    added: '2026-07-19'
+  - id: arcads-claude-code
+    repo: krusemediallc/arcads-claude-code
+    assistants:
+      - claude-code
+      - cursor
+    added: '2026-07-19'
+  - id: quemsah-awesome-claude-plugins
+    repo: quemsah/awesome-claude-plugins
+    assistants:
+      - claude-code
+    added: '2026-07-19'
+  - id: openviking
+    repo: volcengine/OpenViking
+    assistants:
+      - claude-code
+    added: '2026-07-19'
