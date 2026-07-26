@@ -1079,3 +1079,41 @@ plugins:
     assistants:
       - claude-code
     added: '2026-07-19'
+  - id: khazix-skills
+    repo: KKKKhazix/khazix-skills
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-07-26'
+  - id: video-shotcraft
+    repo: Vincentwei1021/video-shotcraft
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-07-26'
+  - id: apify-mcp-server
+    repo: apify/apify-mcp-server
+    assistants:
+      - claude-code
+    added: '2026-07-26'
+  - id: i-have-adhd
+    repo: ayghri/i-have-adhd
+    assistants:
+      - claude-code
+    added: '2026-07-26'
+  - id: claude-code-skills
+    repo: daymade/claude-code-skills
+    assistants:
+      - claude-code
+    added: '2026-07-26'
+  - id: herdr
+    repo: ogulcancelik/herdr
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-07-26'
+  - id: unpoller
+    repo: unpoller/unpoller
+    assistants:
+      - cursor
+    added: '2026-07-26'
