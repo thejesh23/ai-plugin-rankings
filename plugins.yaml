@@ -1117,3 +1117,39 @@ plugins:
     assistants:
       - cursor
     added: '2026-07-26'
+  - id: cc-haha
+    repo: NanmiCoder/cc-haha
+    assistants:
+      - claude-code
+    added: '2026-08-02'
+  - id: cloudbase-ai-toolkit
+    repo: TencentCloudBase/CloudBase-AI-Toolkit
+    assistants:
+      - codex
+    added: '2026-08-02'
+  - id: untrivial-ai-agent-orchestrator
+    repo: Untrivial-ai/agent-orchestrator
+    assistants:
+      - claude-code
+    added: '2026-08-02'
+  - id: text-to-cad
+    repo: earthtojake/text-to-cad
+    assistants:
+      - claude-code
+    added: '2026-08-02'
+  - id: google-skills
+    repo: google/skills
+    assistants:
+      - claude-code
+    added: '2026-08-02'
+  - id: herdrdev-herdr
+    repo: herdrdev/herdr
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-08-02'
+  - id: mattpocock-skills
+    repo: mattpocock/skills
+    assistants:
+      - claude-code
+    added: '2026-08-02'
