@@ -1153,3 +1153,16 @@ plugins:
     assistants:
       - claude-code
     added: '2026-08-02'
+  - id: skillspector
+    repo: NVIDIA/SkillSpector
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-08-09'
+  - id: claude-codex-settings
+    repo: fcakyon/claude-codex-settings
+    assistants:
+      - claude-code
+      - codex
+      - cursor
+    added: '2026-08-09'
