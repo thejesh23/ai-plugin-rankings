@@ -1196,3 +1196,18 @@ plugins:
     assistants:
       - claude-code
     added: '2026-08-16'
+  - id: ipollowork
+    repo: Devin-AXIS/iPolloWork
+    assistants:
+      - codex
+    added: '2026-08-23'
+  - id: awesome-claude-design
+    repo: rohitg00/awesome-claude-design
+    assistants:
+      - claude-code
+    added: '2026-08-23'
+  - id: sashiko
+    repo: sashiko-dev/sashiko
+    assistants:
+      - codex
+    added: '2026-08-23'
