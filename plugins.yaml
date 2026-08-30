@@ -1211,3 +1211,180 @@ plugins:
     assistants:
       - codex
     added: '2026-08-23'
+  - id: copilotkit
+    repo: CopilotKit/CopilotKit
+    assistants:
+      - claude-code
+      - cursor
+    added: '2026-08-30'
+  - id: hi-events
+    repo: HiEventsDev/Hi.Events
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: praisonai
+    repo: MervinPraison/PraisonAI
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: megatron-lm
+    repo: NVIDIA/Megatron-LM
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: openpanel
+    repo: Openpanel-dev/openpanel
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: social-media-research-skills
+    repo: ScrapeCreators/social-media-research-skills
+    assistants:
+      - claude-code
+      - codex
+      - cursor
+    added: '2026-08-30'
+  - id: sst
+    repo: anomalyco/sst
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: coreui-free-bootstrap-admin-template
+    repo: coreui/coreui-free-bootstrap-admin-template
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: coreui-free-react-admin-template
+    repo: coreui/coreui-free-react-admin-template
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: eliza
+    repo: elizaOS/eliza
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: forem
+    repo: forem/forem
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: eventyay
+    repo: fossasia/eventyay
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: goa
+    repo: goadesign/goa
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: filament
+    repo: google/filament
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: happier
+    repo: happier-dev/happier
+    assistants:
+      - claude-code
+      - codex
+      - cursor
+    added: '2026-08-30'
+  - id: namviek
+    repo: hudy9x/namviek
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: cog-second-brain
+    repo: huytieu/COG-second-brain
+    assistants:
+      - claude-code
+      - codex
+      - cursor
+    added: '2026-08-30'
+  - id: hydra
+    repo: hydralauncher/hydra
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: tons-of-skills-marketplace
+    repo: jeremylongshore/tons-of-skills-marketplace
+    assistants:
+      - claude-code
+      - cursor
+    added: '2026-08-30'
+  - id: laradock
+    repo: laradock/laradock
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: rallly
+    repo: lukevella/rallly
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: simulink-agentic-toolkit
+    repo: matlab/simulink-agentic-toolkit
+    assistants:
+      - codex
+    added: '2026-08-30'
+  - id: medusa
+    repo: medusajs/medusa
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: ralphy
+    repo: michaelshimeles/ralphy
+    assistants:
+      - claude-code
+      - codex
+      - cursor
+    added: '2026-08-30'
+  - id: morphik-core
+    repo: morphik-org/morphik-core
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: scroll-craft
+    repo: nateherkai/scroll-craft
+    assistants:
+      - claude-code
+    added: '2026-08-30'
+  - id: rocketride-server
+    repo: rocketride-org/rocketride-server
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: sceneview
+    repo: sceneview/sceneview
+    assistants:
+      - copilot
+      - cursor
+    added: '2026-08-30'
+  - id: supabase-js
+    repo: supabase/supabase-js
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: distilly
+    repo: titanwings/distilly
+    assistants:
+      - claude-code
+    added: '2026-08-30'
+  - id: comp
+    repo: trycompai/comp
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: engenharia-de-software-com-ia-aplicada
+    repo: 
+      unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada
+    assistants:
+      - cursor
+    added: '2026-08-30'
+  - id: zitadel
+    repo: zitadel/zitadel
+    assistants:
+      - cursor
+    added: '2026-08-30'
