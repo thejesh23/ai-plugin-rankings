@@ -1388,3 +1388,47 @@ plugins:
     assistants:
       - cursor
     added: '2026-08-30'
+  - id: tuios
+    repo: Gaurav-Gosain/tuios
+    assistants:
+      - codex
+    added: '2026-09-06'
+  - id: math-modeling-skill
+    repo: XiaoMaColtAI/math-modeling-skill
+    assistants:
+      - claude-code
+    added: '2026-09-06'
+  - id: headcount
+    repo: cbrock84/headcount
+    assistants:
+      - claude-code
+    added: '2026-09-06'
+  - id: stop-that-shit
+    repo: lennney/stop-that-shit
+    assistants:
+      - codex
+    added: '2026-09-06'
+  - id: ai-guide
+    repo: liyupi/ai-guide
+    assistants:
+      - claude-code
+      - codex
+      - copilot
+      - cursor
+    added: '2026-09-06'
+  - id: sidecar
+    repo: marcus/sidecar
+    assistants:
+      - codex
+    added: '2026-09-06'
+  - id: matlab-agentic-toolkit
+    repo: matlab/matlab-agentic-toolkit
+    assistants:
+      - codex
+    added: '2026-09-06'
+  - id: linkedin-skills
+    repo: sergebulaev/linkedin-skills
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-09-06'
