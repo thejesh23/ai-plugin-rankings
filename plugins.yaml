@@ -1432,3 +1432,51 @@ plugins:
       - claude-code
       - codex
     added: '2026-09-06'
+  - id: appllama-skills
+    repo: Appllama/appllama-skills
+    assistants:
+      - claude-code
+    added: '2026-09-13'
+  - id: pebrel
+    repo: Kuddev/pebrel
+    assistants:
+      - codex
+    added: '2026-09-13'
+  - id: awesome-codex-plugins
+    repo: hashgraph-online/awesome-codex-plugins
+    assistants:
+      - codex
+    added: '2026-09-13'
+  - id: marketing-skills
+    repo: irinabuht12-oss/marketing-skills
+    assistants:
+      - claude-code
+    added: '2026-09-13'
+  - id: jezweb-claude-skills
+    repo: jezweb/claude-skills
+    assistants:
+      - claude-code
+    added: '2026-09-13'
+  - id: ux-ui-agent-skills
+    repo: plugin87/ux-ui-agent-skills
+    assistants:
+      - claude-code
+    added: '2026-09-13'
+  - id: vibe-coding-cn
+    repo: tradecatlabs/vibe-coding-cn
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-09-13'
+  - id: codex-claude-academic-skills
+    repo: zLanqing/codex-claude-academic-skills
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-09-13'
+  - id: drama-skills
+    repo: zenstory-ai/drama-skills
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-09-13'
