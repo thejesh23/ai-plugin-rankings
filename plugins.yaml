@@ -1480,3 +1480,36 @@ plugins:
       - claude-code
       - codex
     added: '2026-09-13'
+  - id: academic-pptx-skill
+    repo: Gabberflast/academic-pptx-skill
+    assistants:
+      - claude-code
+    added: '2026-09-20'
+  - id: open-seo-mcp-skills
+    repo: Ryze-AI-Adgent/open-seo-mcp-skills
+    assistants:
+      - claude-code
+    added: '2026-09-20'
+  - id: tabularis
+    repo: TabularisDB/tabularis
+    assistants:
+      - claude-code
+      - cursor
+    added: '2026-09-20'
+  - id: claude-code-agent-monitor
+    repo: hoangsonww/Claude-Code-Agent-Monitor
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-09-20'
+  - id: davinci-resolve-mcp
+    repo: samuelgursky/davinci-resolve-mcp
+    assistants:
+      - claude-code
+    added: '2026-09-20'
+  - id: oh-story-claudecode
+    repo: zenstory-ai/oh-story-claudecode
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-09-20'
