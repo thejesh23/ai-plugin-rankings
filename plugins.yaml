@@ -1513,3 +1513,23 @@ plugins:
       - claude-code
       - codex
     added: '2026-09-20'
+  - id: invisible-playwright-mcp
+    repo: feder-cr/invisible_playwright_mcp
+    assistants:
+      - claude-code
+    added: '2026-09-27'
+  - id: startup-skill
+    repo: ferdinandobons/startup-skill
+    assistants:
+      - claude-code
+    added: '2026-09-27'
+  - id: filtmall-shopping-skill
+    repo: filtalgo/Filtmall-Shopping-Skill
+    assistants:
+      - claude-code
+    added: '2026-09-27'
+  - id: mobilebuildmcp
+    repo: getsentry/MobileBuildMCP
+    assistants:
+      - claude-code
+    added: '2026-09-27'
