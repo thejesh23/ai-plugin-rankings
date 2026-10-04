@@ -1533,3 +1533,53 @@ plugins:
     assistants:
       - claude-code
     added: '2026-09-27'
+  - id: obsidian-wiki
+    repo: Ar9av/obsidian-wiki
+    assistants:
+      - claude-code
+    added: '2026-10-04'
+  - id: linkedin-agent-skill
+    repo: Jakeschincariol/linkedin-agent-skill
+    assistants:
+      - claude-code
+    added: '2026-10-04'
+  - id: google-ads-meta-ads-mcp
+    repo: irinabuht12-oss/google-ads-meta-ads-mcp
+    assistants:
+      - claude-code
+      - cursor
+    added: '2026-10-04'
+  - id: logo-design-skill
+    repo: kaankiziltug/logo-design-skill
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-10-04'
+  - id: open-steps
+    repo: kharmanskyi/open-steps
+    assistants:
+      - claude-code
+      - codex
+      - cursor
+    added: '2026-10-04'
+  - id: ecommerce-skills
+    repo: nexscope-ai/eCommerce-Skills
+    assistants:
+      - claude-code
+    added: '2026-10-04'
+  - id: one-skill-to-rule-them-all
+    repo: rebelytics/one-skill-to-rule-them-all
+    assistants:
+      - claude-code
+    added: '2026-10-04'
+  - id: universal-modder
+    repo: rehan-remade/universal-modder
+    assistants:
+      - claude-code
+    added: '2026-10-04'
+  - id: archify
+    repo: tt-a1i/archify
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-10-04'
