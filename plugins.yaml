@@ -1583,3 +1583,34 @@ plugins:
       - claude-code
       - codex
     added: '2026-10-04'
+  - id: zotero-mcp
+    repo: 54yyyu/zotero-mcp
+    assistants:
+      - claude-code
+    added: '2026-10-11'
+  - id: replica-skill
+    repo: Jakeschincariol/replica-skill
+    assistants:
+      - claude-code
+    added: '2026-10-11'
+  - id: orchestratorinc-agent-orchestrator
+    repo: OrchestratorInc/agent-orchestrator
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-10-11'
+  - id: answer-me-with-html
+    repo: QingYunA/answer-me-with-html
+    assistants:
+      - claude-code
+    added: '2026-10-11'
+  - id: lemo-opuscar
+    repo: lemomo-ai/lemo-opuscar
+    assistants:
+      - claude-code
+    added: '2026-10-11'
+  - id: second-brain-os
+    repo: undefined-ui/second-brain-os
+    assistants:
+      - claude-code
+    added: '2026-10-11'
