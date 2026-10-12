@@ -6,30 +6,30 @@
 
 | Rank | Plugin | Description | Assistants | Stars | 24h | 7d | Category |
 |---:|---|---|---|---:|---:|---:|---|
-| 1 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses… | Claude Code, Codex CLI, GitHub Copilot | 99,476 | +398 | +3,648 | — |
-| 2 | [open-design](https://github.com/nexu-io/open-design) | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first des… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 100,486 | +185 | +1,124 | — |
-| 3 | [anthropic-cybersecurity-skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 34,210 | +84 | +448 | — |
-| 4 | [ai-guide](https://github.com/liyupi/ai-guide) | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 20,989 | +46 | +325 | — |
-| 5 | [awesome-copilot](https://github.com/github/awesome-copilot) | Community-contributed instructions, agents, skills, and configurations to help you make the most of… | GitHub Copilot | 39,902 | +22 | +222 | — |
-| 6 | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（… | Claude Code, GitHub Copilot, Cursor | 21,177 | +19 | +127 | — |
-| 7 | [html-anything](https://github.com/nexu-io/html-anything) | ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfac… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 9,074 | +12 | +71 | — |
-| 8 | [unity-mcp](https://github.com/IvanMurzak/Unity-MCP) | AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick set… | Claude Code, GitHub Copilot, Cursor | 4,417 | +4 | +31 | — |
-| 9 | [aspire](https://github.com/microsoft/aspire) | Aspire is the tool for code-first, extensible, observable dev and deploy. | GitHub Copilot | 6,359 | +3 | +23 | — |
-| 10 | [claude-code-safety-net](https://github.com/kenryu42/cc-safety-net) | A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus… | Claude Code, Codex CLI, GitHub Copilot | 1,583 | +1 | +7 | — |
-| 11 | [sceneview](https://github.com/sceneview/sceneview) | 3D & AR SDK for Android (Jetpack Compose + Filament), Apple (SwiftUI + RealityKit), Web, Flutter and… | GitHub Copilot, Cursor | 1,336 | +0 | +6 | — |
+| 1 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses… | Claude Code, Codex CLI, GitHub Copilot | 99,895 | +419 | +3,576 | — |
+| 2 | [open-design](https://github.com/nexu-io/open-design) | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first des… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 100,665 | +179 | +1,183 | — |
+| 3 | [anthropic-cybersecurity-skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 34,275 | +65 | +484 | — |
+| 4 | [awesome-copilot](https://github.com/github/awesome-copilot) | Community-contributed instructions, agents, skills, and configurations to help you make the most of… | GitHub Copilot | 39,940 | +38 | +226 | — |
+| 5 | [ai-guide](https://github.com/liyupi/ai-guide) | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 21,021 | +32 | +344 | — |
+| 6 | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（… | Claude Code, GitHub Copilot, Cursor | 21,203 | +26 | +146 | — |
+| 7 | [html-anything](https://github.com/nexu-io/html-anything) | ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfac… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 9,091 | +17 | +80 | — |
+| 8 | [claude-code-safety-net](https://github.com/kenryu42/cc-safety-net) | A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus… | Claude Code, Codex CLI, GitHub Copilot | 1,598 | +15 | +24 | — |
+| 9 | [aspire](https://github.com/microsoft/aspire) | Aspire is the tool for code-first, extensible, observable dev and deploy. | GitHub Copilot | 6,367 | +8 | +26 | — |
+| 10 | [unity-mcp](https://github.com/IvanMurzak/Unity-MCP) | AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick set… | Claude Code, GitHub Copilot, Cursor | 4,421 | +4 | +36 | — |
+| 11 | [sceneview](https://github.com/sceneview/sceneview) | 3D & AR SDK for Android (Jetpack Compose + Filament), Apple (SwiftUI + RealityKit), Web, Flutter and… | GitHub Copilot, Cursor | 1,337 | +1 | +6 | — |
 
 ## All-time (stars)
 
 | Rank | Plugin | Description | Assistants | Stars | 24h | 7d | Category |
 |---:|---|---|---|---:|---:|---:|---|
-| 1 | [open-design](https://github.com/nexu-io/open-design) | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first des… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 100,486 | +185 | +1,124 | — |
-| 2 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses… | Claude Code, Codex CLI, GitHub Copilot | 99,476 | +398 | +3,648 | — |
-| 3 | [awesome-copilot](https://github.com/github/awesome-copilot) | Community-contributed instructions, agents, skills, and configurations to help you make the most of… | GitHub Copilot | 39,902 | +22 | +222 | — |
-| 4 | [anthropic-cybersecurity-skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 34,210 | +84 | +448 | — |
-| 5 | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（… | Claude Code, GitHub Copilot, Cursor | 21,177 | +19 | +127 | — |
-| 6 | [ai-guide](https://github.com/liyupi/ai-guide) | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 20,989 | +46 | +325 | — |
-| 7 | [html-anything](https://github.com/nexu-io/html-anything) | ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfac… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 9,074 | +12 | +71 | — |
-| 8 | [aspire](https://github.com/microsoft/aspire) | Aspire is the tool for code-first, extensible, observable dev and deploy. | GitHub Copilot | 6,359 | +3 | +23 | — |
-| 9 | [unity-mcp](https://github.com/IvanMurzak/Unity-MCP) | AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick set… | Claude Code, GitHub Copilot, Cursor | 4,417 | +4 | +31 | — |
-| 10 | [claude-code-safety-net](https://github.com/kenryu42/cc-safety-net) | A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus… | Claude Code, Codex CLI, GitHub Copilot | 1,583 | +1 | +7 | — |
-| 11 | [sceneview](https://github.com/sceneview/sceneview) | 3D & AR SDK for Android (Jetpack Compose + Filament), Apple (SwiftUI + RealityKit), Web, Flutter and… | GitHub Copilot, Cursor | 1,336 | +0 | +6 | — |
+| 1 | [open-design](https://github.com/nexu-io/open-design) | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first des… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 100,665 | +179 | +1,183 | — |
+| 2 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses… | Claude Code, Codex CLI, GitHub Copilot | 99,895 | +419 | +3,576 | — |
+| 3 | [awesome-copilot](https://github.com/github/awesome-copilot) | Community-contributed instructions, agents, skills, and configurations to help you make the most of… | GitHub Copilot | 39,940 | +38 | +226 | — |
+| 4 | [anthropic-cybersecurity-skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 34,275 | +65 | +484 | — |
+| 5 | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（… | Claude Code, GitHub Copilot, Cursor | 21,203 | +26 | +146 | — |
+| 6 | [ai-guide](https://github.com/liyupi/ai-guide) | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 21,021 | +32 | +344 | — |
+| 7 | [html-anything](https://github.com/nexu-io/html-anything) | ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfac… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 9,091 | +17 | +80 | — |
+| 8 | [aspire](https://github.com/microsoft/aspire) | Aspire is the tool for code-first, extensible, observable dev and deploy. | GitHub Copilot | 6,367 | +8 | +26 | — |
+| 9 | [unity-mcp](https://github.com/IvanMurzak/Unity-MCP) | AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick set… | Claude Code, GitHub Copilot, Cursor | 4,421 | +4 | +36 | — |
+| 10 | [claude-code-safety-net](https://github.com/kenryu42/cc-safety-net) | A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus… | Claude Code, Codex CLI, GitHub Copilot | 1,598 | +15 | +24 | — |
+| 11 | [sceneview](https://github.com/sceneview/sceneview) | 3D & AR SDK for Android (Jetpack Compose + Filament), Apple (SwiftUI + RealityKit), Web, Flutter and… | GitHub Copilot, Cursor | 1,337 | +1 | +6 | — |
