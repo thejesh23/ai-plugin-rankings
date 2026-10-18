@@ -1614,3 +1614,44 @@ plugins:
     assistants:
       - claude-code
     added: '2026-10-11'
+  - id: fastled
+    repo: FastLED/FastLED
+    assistants:
+      - cursor
+    added: '2026-10-18'
+  - id: google-maps-scraper-kit
+    repo: Mahanaicoach/google-maps-scraper-kit
+    assistants:
+      - claude-code
+    added: '2026-10-18'
+  - id: agent-of-empires
+    repo: agent-of-empires/agent-of-empires
+    assistants:
+      - claude-code
+      - codex
+      - copilot
+    added: '2026-10-18'
+  - id: power-platform-skills
+    repo: microsoft/power-platform-skills
+    assistants:
+      - claude-code
+      - copilot
+    added: '2026-10-18'
+  - id: beautify-github-readme
+    repo: oil-oil/beautify-github-readme
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-10-18'
+  - id: oil-motion
+    repo: oil-oil/oil-motion
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-10-18'
+  - id: oil-ui
+    repo: oil-oil/oil-ui
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-10-18'
