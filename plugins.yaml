@@ -1655,3 +1655,45 @@ plugins:
       - claude-code
       - codex
     added: '2026-10-18'
+  - id: day-trader-skill
+    repo: Jakeschincariol/day-trader-skill
+    assistants:
+      - claude-code
+    added: '2026-10-25'
+  - id: founder-skill
+    repo: Jakeschincariol/founder-skill
+    assistants:
+      - claude-code
+    added: '2026-10-25'
+  - id: hallmark
+    repo: Nutlope/hallmark
+    assistants:
+      - claude-code
+      - codex
+      - cursor
+    added: '2026-10-25'
+  - id: ai-job-search-dev-ai-job-search
+    repo: ai-job-search-dev/ai-job-search
+    assistants:
+      - claude-code
+    added: '2026-10-25'
+  - id: huashu-design
+    repo: alchaincyf/huashu-design
+    assistants:
+      - claude-code
+      - codex
+      - cursor
+    added: '2026-10-25'
+  - id: reelbench-skills
+    repo: eternityspring/reelbench-skills
+    assistants:
+      - claude-code
+    added: '2026-10-25'
+  - id: brooks-lint
+    repo: hyhmrright/brooks-lint
+    assistants:
+      - claude-code
+      - codex
+      - copilot
+      - cursor
+    added: '2026-10-25'
