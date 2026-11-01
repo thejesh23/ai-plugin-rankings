@@ -1697,3 +1697,82 @@ plugins:
       - copilot
       - cursor
     added: '2026-10-25'
+  - id: claude-guardian
+    repo: DUNHKpcc/Claude-Guardian
+    assistants:
+      - claude-code
+    added: '2026-11-01'
+  - id: awesome-short-drama-skills
+    repo: UnderleveledBuilder/awesome-short-drama-skills
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-11-01'
+  - id: blender-skills
+    repo: arjun988/blender-skills
+    assistants:
+      - claude-code
+      - codex
+      - cursor
+    added: '2026-11-01'
+  - id: pstack
+    repo: backnotprop/pstack
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-11-01'
+  - id: career-ops-hq-career-ops
+    repo: career-ops-hq/career-ops
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-11-01'
+  - id: bama
+    repo: daveebbelaar/bama
+    assistants:
+      - claude-code
+    added: '2026-11-01'
+  - id: ffmpeg-skill
+    repo: kajisho5/ffmpeg-skill
+    assistants:
+      - claude-code
+      - codex
+      - cursor
+    added: '2026-11-01'
+  - id: mobile-mcp
+    repo: mobile-next/mobile-mcp
+    assistants:
+      - claude-code
+      - codex
+      - cursor
+    added: '2026-11-01'
+  - id: beautifulrust
+    repo: morganlinton/BeautifulRust
+    assistants:
+      - claude-code
+      - codex
+      - copilot
+      - cursor
+    added: '2026-11-01'
+  - id: arcads-claude-code-mrpaidsocial
+    repo: mrpaidsocial/arcads-claude-code-mrpaidsocial
+    assistants:
+      - claude-code
+      - cursor
+    added: '2026-11-01'
+  - id: pixelfx
+    repo: patch-gg/pixelfx
+    assistants:
+      - claude-code
+    added: '2026-11-01'
+  - id: scenario-labs-skills
+    repo: scenario-labs/skills
+    assistants:
+      - claude-code
+    added: '2026-11-01'
+  - id: awesome-claude-video-skills
+    repo: zhuyansen/awesome-claude-video-skills
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-11-01'
