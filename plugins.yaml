@@ -1776,3 +1776,57 @@ plugins:
       - claude-code
       - codex
     added: '2026-11-01'
+  - id: agent-plugin
+    repo: ChatCut-Inc/agent-plugin
+    assistants:
+      - claude-code
+      - codex
+      - cursor
+    added: '2026-11-08'
+  - id: trader-skill
+    repo: Jakeschincariol/trader-skill
+    assistants:
+      - claude-code
+    added: '2026-11-08'
+  - id: openosint
+    repo: OpenOSINT/OpenOSINT
+    assistants:
+      - claude-code
+    added: '2026-11-08'
+  - id: darwin-skill
+    repo: alchaincyf/darwin-skill
+    assistants:
+      - claude-code
+    added: '2026-11-08'
+  - id: huashu-skills
+    repo: alchaincyf/huashu-skills
+    assistants:
+      - claude-code
+    added: '2026-11-08'
+  - id: nuwa-skill
+    repo: alchaincyf/nuwa-skill
+    assistants:
+      - claude-code
+    added: '2026-11-08'
+  - id: zhangxuefeng-skill
+    repo: alchaincyf/zhangxuefeng-skill
+    assistants:
+      - claude-code
+    added: '2026-11-08'
+  - id: stack-diagram
+    repo: caru-ini/stack-diagram
+    assistants:
+      - claude-code
+    added: '2026-11-08'
+  - id: claude-code-templates
+    repo: davila7/claude-code-templates
+    assistants:
+      - claude-code
+    added: '2026-11-08'
+  - id: context-mode
+    repo: mksglu/context-mode
+    assistants:
+      - claude-code
+      - codex
+      - copilot
+    added: '2026-11-08'
