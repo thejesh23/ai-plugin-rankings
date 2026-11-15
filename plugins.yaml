@@ -1830,3 +1830,33 @@ plugins:
       - codex
       - copilot
     added: '2026-11-08'
+  - id: reanimate
+    repo: NiazMorshed2007/reanimate
+    assistants:
+      - claude-code
+    added: '2026-11-15'
+  - id: awesome-claude-code-plugins
+    repo: ccplugins/awesome-claude-code-plugins
+    assistants:
+      - claude-code
+    added: '2026-11-15'
+  - id: emilkowalski-skills
+    repo: emilkowalski/skills
+    assistants:
+      - claude-code
+    added: '2026-11-15'
+  - id: obsidianmd-obsidian-skills
+    repo: obsidianmd/obsidian-skills
+    assistants:
+      - claude-code
+    added: '2026-11-15'
+  - id: esp32-iphone-agent
+    repo: onehumanbeing/esp32-iphone-agent
+    assistants:
+      - claude-code
+    added: '2026-11-15'
+  - id: osaurus
+    repo: osaurus-ai/osaurus
+    assistants:
+      - claude-code
+    added: '2026-11-15'
