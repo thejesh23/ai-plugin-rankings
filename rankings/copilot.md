@@ -1,45 +1,47 @@
 # GitHub Copilot plugins
 
-16 plugin(s). Trending sort uses 24h star delta.
+17 plugin(s). Trending sort uses 24h star delta.
 
 ## Trending (24h)
 
 | Rank | Plugin | Description | Assistants | Stars | 24h | 7d | Category |
 |---:|---|---|---|---:|---:|---:|---|
-| 1 | [html-anything](https://github.com/nexu-io/openmotion) | The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion grap… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 14,932 | +580 | +4,953 | — |
-| 2 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses… | Claude Code, Codex CLI, GitHub Copilot | 118,927 | +186 | +1,693 | — |
-| 3 | [open-design](https://github.com/nexu-io/open-design) | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototy… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 108,900 | +140 | +1,189 | — |
-| 4 | [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) | Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also… | Claude Code, Codex CLI, GitHub Copilot | 4,654 | +63 | +195 | — |
-| 5 | [anthropic-cybersecurity-skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 36,529 | +48 | +352 | — |
-| 6 | [context-mode](https://github.com/mksglu/context-mode) | Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQL… | Claude Code, Codex CLI, GitHub Copilot | 34,380 | +34 | +257 | — |
-| 7 | [awesome-copilot](https://github.com/github/awesome-copilot) | Community-contributed instructions, agents, skills, and configurations to help you make the most of… | GitHub Copilot | 41,436 | +27 | +268 | — |
-| 8 | [ai-guide](https://github.com/liyupi/ai-guide) | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 22,297 | +25 | +182 | — |
-| 9 | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（… | Claude Code, GitHub Copilot, Cursor | 22,247 | +15 | +150 | — |
-| 10 | [unity-mcp](https://github.com/IvanMurzak/Unity-MCP) | AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick set… | Claude Code, GitHub Copilot, Cursor | 4,681 | +4 | +44 | — |
-| 11 | [claude-code-safety-net](https://github.com/kenryu42/cc-safety-net) | A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus… | Claude Code, Codex CLI, GitHub Copilot | 2,089 | +4 | +45 | — |
-| 12 | [beautifulrust](https://github.com/morganlinton/BeautifulRust) | Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clipp… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 2,084 | +3 | +261 | — |
-| 13 | [aspire](https://github.com/microsoft/aspire) | Aspire is the tool for code-first, extensible, observable dev and deploy. | GitHub Copilot | 6,445 | +2 | +18 | — |
-| 14 | [brooks-lint](https://github.com/hyhmrright/brooks-lint) | Portable AI code quality reviews for Codex, Cursor, Copilot and other coding agents: six Agent Skill… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 1,585 | +1 | +8 | — |
-| 15 | [power-platform-skills](https://github.com/microsoft/power-platform-skills) | A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development… | Claude Code, GitHub Copilot | 1,167 | +1 | +16 | — |
-| 16 | [sceneview](https://github.com/sceneview/sceneview) | Declarative 3D and AR for Android with Jetpack Compose, Filament and ARCore, plus web and Compose Mu… | GitHub Copilot, Cursor | 1,379 | +0 | +7 | — |
+| 1 | [html-anything](https://github.com/nexu-io/openmotion) | The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion grap… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 14,993 | +641 | +5,014 | — |
+| 2 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses… | Claude Code, Codex CLI, GitHub Copilot | 118,947 | +206 | +1,713 | — |
+| 3 | [open-design](https://github.com/nexu-io/open-design) | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototy… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 108,912 | +152 | +1,201 | — |
+| 4 | [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) | Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also… | Claude Code, Codex CLI, GitHub Copilot | 4,668 | +77 | +209 | — |
+| 5 | [anthropic-cybersecurity-skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 36,540 | +59 | +363 | — |
+| 6 | [context-mode](https://github.com/mksglu/context-mode) | Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQL… | Claude Code, Codex CLI, GitHub Copilot | 34,386 | +40 | +263 | — |
+| 7 | [awesome-copilot](https://github.com/github/awesome-copilot) | Community-contributed instructions, agents, skills, and configurations to help you make the most of… | GitHub Copilot | 41,439 | +30 | +271 | — |
+| 8 | [ai-guide](https://github.com/liyupi/ai-guide) | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 22,298 | +26 | +183 | — |
+| 9 | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（… | Claude Code, GitHub Copilot, Cursor | 22,250 | +18 | +153 | — |
+| 10 | [unity-mcp](https://github.com/IvanMurzak/Unity-MCP) | AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick set… | Claude Code, GitHub Copilot, Cursor | 4,682 | +5 | +45 | — |
+| 11 | [claude-code-safety-net](https://github.com/kenryu42/cc-safety-net) | A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus… | Claude Code, Codex CLI, GitHub Copilot | 2,090 | +5 | +46 | — |
+| 12 | [beautifulrust](https://github.com/morganlinton/BeautifulRust) | Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clipp… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 2,085 | +4 | +262 | — |
+| 13 | [power-platform-skills](https://github.com/microsoft/power-platform-skills) | A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development… | Claude Code, GitHub Copilot | 1,169 | +3 | +18 | — |
+| 14 | [aspire](https://github.com/microsoft/aspire) | Aspire is the tool for code-first, extensible, observable dev and deploy. | GitHub Copilot | 6,445 | +2 | +18 | — |
+| 15 | [brooks-lint](https://github.com/hyhmrright/brooks-lint) | Portable AI code quality reviews for Codex, Cursor, Copilot and other coding agents: six Agent Skill… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 1,585 | +1 | +8 | — |
+| 16 | [sceneview](https://github.com/sceneview/sceneview) | Declarative 3D and AR for Android with Jetpack Compose, Filament and ARCore, plus web and Compose Mu… | GitHub Copilot, Cursor | 1,380 | +1 | +8 | — |
+| 17 | [el4cteo-blender-skills](https://github.com/EL4CTEO/blender-skills) | Professional Blender 5.3 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and C… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 2,670 | — | — | — |
 
 ## All-time (stars)
 
 | Rank | Plugin | Description | Assistants | Stars | 24h | 7d | Category |
 |---:|---|---|---|---:|---:|---:|---|
-| 1 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses… | Claude Code, Codex CLI, GitHub Copilot | 118,927 | +186 | +1,693 | — |
-| 2 | [open-design](https://github.com/nexu-io/open-design) | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototy… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 108,900 | +140 | +1,189 | — |
-| 3 | [awesome-copilot](https://github.com/github/awesome-copilot) | Community-contributed instructions, agents, skills, and configurations to help you make the most of… | GitHub Copilot | 41,436 | +27 | +268 | — |
-| 4 | [anthropic-cybersecurity-skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 36,529 | +48 | +352 | — |
-| 5 | [context-mode](https://github.com/mksglu/context-mode) | Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQL… | Claude Code, Codex CLI, GitHub Copilot | 34,380 | +34 | +257 | — |
-| 6 | [ai-guide](https://github.com/liyupi/ai-guide) | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 22,297 | +25 | +182 | — |
-| 7 | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（… | Claude Code, GitHub Copilot, Cursor | 22,247 | +15 | +150 | — |
-| 8 | [html-anything](https://github.com/nexu-io/openmotion) | The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion grap… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 14,932 | +580 | +4,953 | — |
+| 1 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses… | Claude Code, Codex CLI, GitHub Copilot | 118,947 | +206 | +1,713 | — |
+| 2 | [open-design](https://github.com/nexu-io/open-design) | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototy… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 108,912 | +152 | +1,201 | — |
+| 3 | [awesome-copilot](https://github.com/github/awesome-copilot) | Community-contributed instructions, agents, skills, and configurations to help you make the most of… | GitHub Copilot | 41,439 | +30 | +271 | — |
+| 4 | [anthropic-cybersecurity-skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 36,540 | +59 | +363 | — |
+| 5 | [context-mode](https://github.com/mksglu/context-mode) | Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQL… | Claude Code, Codex CLI, GitHub Copilot | 34,386 | +40 | +263 | — |
+| 6 | [ai-guide](https://github.com/liyupi/ai-guide) | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 22,298 | +26 | +183 | — |
+| 7 | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（… | Claude Code, GitHub Copilot, Cursor | 22,250 | +18 | +153 | — |
+| 8 | [html-anything](https://github.com/nexu-io/openmotion) | The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion grap… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 14,993 | +641 | +5,014 | — |
 | 9 | [aspire](https://github.com/microsoft/aspire) | Aspire is the tool for code-first, extensible, observable dev and deploy. | GitHub Copilot | 6,445 | +2 | +18 | — |
-| 10 | [unity-mcp](https://github.com/IvanMurzak/Unity-MCP) | AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick set… | Claude Code, GitHub Copilot, Cursor | 4,681 | +4 | +44 | — |
-| 11 | [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) | Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also… | Claude Code, Codex CLI, GitHub Copilot | 4,654 | +63 | +195 | — |
-| 12 | [claude-code-safety-net](https://github.com/kenryu42/cc-safety-net) | A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus… | Claude Code, Codex CLI, GitHub Copilot | 2,089 | +4 | +45 | — |
-| 13 | [beautifulrust](https://github.com/morganlinton/BeautifulRust) | Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clipp… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 2,084 | +3 | +261 | — |
-| 14 | [brooks-lint](https://github.com/hyhmrright/brooks-lint) | Portable AI code quality reviews for Codex, Cursor, Copilot and other coding agents: six Agent Skill… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 1,585 | +1 | +8 | — |
-| 15 | [sceneview](https://github.com/sceneview/sceneview) | Declarative 3D and AR for Android with Jetpack Compose, Filament and ARCore, plus web and Compose Mu… | GitHub Copilot, Cursor | 1,379 | +0 | +7 | — |
-| 16 | [power-platform-skills](https://github.com/microsoft/power-platform-skills) | A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development… | Claude Code, GitHub Copilot | 1,167 | +1 | +16 | — |
+| 10 | [unity-mcp](https://github.com/IvanMurzak/Unity-MCP) | AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick set… | Claude Code, GitHub Copilot, Cursor | 4,682 | +5 | +45 | — |
+| 11 | [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) | Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also… | Claude Code, Codex CLI, GitHub Copilot | 4,668 | +77 | +209 | — |
+| 12 | [el4cteo-blender-skills](https://github.com/EL4CTEO/blender-skills) | Professional Blender 5.3 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and C… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 2,670 | — | — | — |
+| 13 | [claude-code-safety-net](https://github.com/kenryu42/cc-safety-net) | A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus… | Claude Code, Codex CLI, GitHub Copilot | 2,090 | +5 | +46 | — |
+| 14 | [beautifulrust](https://github.com/morganlinton/BeautifulRust) | Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clipp… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 2,085 | +4 | +262 | — |
+| 15 | [brooks-lint](https://github.com/hyhmrright/brooks-lint) | Portable AI code quality reviews for Codex, Cursor, Copilot and other coding agents: six Agent Skill… | Claude Code, Codex CLI, GitHub Copilot, Cursor | 1,585 | +1 | +8 | — |
+| 16 | [sceneview](https://github.com/sceneview/sceneview) | Declarative 3D and AR for Android with Jetpack Compose, Filament and ARCore, plus web and Compose Mu… | GitHub Copilot, Cursor | 1,380 | +1 | +8 | — |
+| 17 | [power-platform-skills](https://github.com/microsoft/power-platform-skills) | A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development… | Claude Code, GitHub Copilot | 1,169 | +3 | +18 | — |
