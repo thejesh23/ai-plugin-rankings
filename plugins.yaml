@@ -1860,3 +1860,38 @@ plugins:
     assistants:
       - claude-code
     added: '2026-11-15'
+  - id: el4cteo-blender-skills
+    repo: EL4CTEO/blender-skills
+    assistants:
+      - claude-code
+      - codex
+      - copilot
+      - cursor
+    added: '2026-11-22'
+  - id: rederive
+    repo: EricJujianZou/rederive
+    assistants:
+      - claude-code
+    added: '2026-11-22'
+  - id: lot-map
+    repo: alexeyw/lot-map
+    assistants:
+      - claude-code
+    added: '2026-11-22'
+  - id: motion-skills
+    repo: iart-ai/motion-skills
+    assistants:
+      - claude-code
+    added: '2026-11-22'
+  - id: stickman-video-director
+    repo: kaomei/stickman-video-director
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-11-22'
+  - id: vibe-wise
+    repo: nykooi1/vibe-wise
+    assistants:
+      - claude-code
+      - codex
+    added: '2026-11-22'
